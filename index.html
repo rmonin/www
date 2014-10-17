@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Portail | Romain Monin</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        <div class="container">
+            <nav class="navbar navbar-inverse" role="navigation">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Afficher le menu</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Portail de Romain Monin</a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="http://blog.romain-monin.fr">Blog</a></li>
+                        <li><a href="http://portfolio.romain-monin.fr">Portfolio</a></li>
+                        <li><a href="#" data-toggle="modal" data-target="#myModal">S.I.P.P.E.C</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Autres <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="http://demo.romain-monin.fr" >Démos</a></li>
+                                <li><a href="http://cloud.romain-monin.fr" >Cloud</a></li>
+                                <li><a href="http://rss.romain-monin.fr" >RSS</a></li>
+                                <li><a href="http://read.romain-monin.fr" >Wallabag</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </nav>
+
+        </div>
+        <div class="container">
+            <div class="jumbotron" >
+                <div class="row">
+                    <div class="col-md-4 text-center" >
+                        <img src="img/tux.png" width="250" class="img-circle">
+                    </div>
+                    <div class="col-md-8">
+                        <h1>Bienvenue</h1>
+                        <p>
+                            Cette plateforme est un portail qui redirige vers tous mes autres sites.
+                        </p>
+                        <p>
+                            Je vous invites à faire un tour sur ces derniers ;)
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="page-header">
+                <h2>Sites principaux</h2>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <img alt="Blog" src="img/blog.jpg">
+                        <div class="caption">
+                            <h3><span class="glyphicon glyphicon-edit"></span> Blog - Général</h3>
+                            <div class="site-description">
+                                <p>Je poste ici de tout et de rien.  L'objectif premier est de faire partager mes opinions personnelles, raconter des expériences vécues et regrouper des infos que je trouve pertinentes. En particulier dans le domaine de l'infromatique.</p>
+                                <p>Un partageur de liens et de notes est aussi présent pour diffuser facilement du contenu que je ne détaille pas autant que dans le blog.</p>
+                            </div>
+                            <p><a href="http://blog.romain-monin.fr" class="btn btn-primary">Voir le blog »</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <img alt="Portfolio" src="img/portfolio.jpg">
+                        <div class="caption">
+                            <h3><span class="glyphicon glyphicon-user"></span> Portfolio</h3>
+                            <div class="site-description">
+                                <p>Vous trouverez ici la liste de toute mes réalisations dans le domaine de l’informatique, mon CV et quelques informations générales.</p>
+                                <p>Vous pourrez ainsi vous faire déjà une idée de mes compétences et voir les travaux que j'ai accompli.</p>
+                            </div>
+                            <p><a href="http://portfolio.romain-monin.fr" class="btn btn-primary" >Voir le portfolio »</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <img alt="Aviation" src="img/paragliding.jpg">
+                        <div class="caption">
+                            <h3>Blog - Parapente</h3>
+                            <div class="site-description">
+                                <p>Blog séparé du premier, qui est plus généraliste, car celui-ci concerne plus particulièrement des sujets sur la pratique du parapente.</p>
+                                <p>Il y a également un partageur de liens et de notes, comme dans le blog principal, pour partager du contenu extérieur.</p>
+                            </div>
+                            <p><a href="http://paragliding.romain-monin.fr" class="btn btn-primary" >Voir le blog »</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 col-md-6">
+                    <div class="page-header">
+                        <h2>Mes autres sites</h2>
+                    </div>
+                    <div class="list-group">
+                        <a href="http://demo.romain-monin.fr" class="list-group-item" >
+                            <div class="media">
+                                <img class="media-object pull-left" src="img/lab.png" alt="Demo">
+                                <div class="media-body">
+                                    <h4 class="media-heading"><span class="glyphicon glyphicon-wrench"></span> Démos</h4>
+                                    <p>Regroupement de projets en test sur un vrai serveur et quelques réalisations.</p>
+                                </div>
+                            </div>
+                        </a>
+                        <a href="http://sippec.romain-monin.fr" class="list-group-item" >
+                            <div class="media">
+                                <!-- <img class="media-object pull-left" src="img/sippec.jpg" alt="Demo"> -->
+                                <img class="media-object pull-left" src="http://lorempixel.com/75/75/transport/2/" alt="Demo">
+                                <div class="media-body">
+                                    <h4 class="media-heading"><span class="glyphicon glyphicon-send"></span> S.I.P.P.E.C</h4>
+                                    <p>Site d'Informations Pour Pilotes Et Curieux. Wiki colaboratif concernant l'aviaton en général.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="page-header">
+                        <h2>Instances personnelles</h2>
+                    </div>
+                    <div class="list-group">
+                        <a href="http://cloud.romain-monin.fr" class="list-group-item" >
+                            <div class="media">
+                                <img class="media-object pull-left" src="img/cloud.png" alt="Cloud">
+                                <div class="media-body">
+                                    <h4 class="media-heading"><span class="glyphicon glyphicon-cloud-upload"></span> Cloud</h4>
+                                    <p>Hébergement d'un cloud minimaliste pour usage personnel.</p>
+                                </div>
+                            </div>
+                        </a>
+                        <a href="http://rss.romain-monin.fr" class="list-group-item" >
+                            <div class="media">
+                                <img class="media-object pull-left" src="img/rss.png" alt="...">
+                                <div class="media-body">
+                                    <h4 class="media-heading"><span class="glyphicon glyphicon-th-list"></span> Agrégateur de flux RSS</h4>
+                                    <p>Instance de l'agrégateur de flux <strong>FreshRSS</strong>, léger, compatible smartphones et tablettes.</p>
+                                </div>
+                            </div>
+                        </a>
+                        <a href="http://read.romain-monin.fr" class="list-group-item" >
+                            <div class="media">
+                                <img class="media-object pull-left" src="img/wallabag.png" alt="wallabag">
+                                <div class="media-body">
+                                    <h4 class="media-heading"><span class="glyphicon glyphicon-book"></span> Wallabag</h4>
+                                    <p>Application me permettant de sauvegarder des pages web et de les lire plus tard.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-6">
+                    <div class="page-header">
+                        <h2 id="contact">Me contacter</h2>
+                    </div>
+                    <p>Si vous voulez me contacter, vous pouvez le faire directement à l'adresse suivante :</p>
+                    <blockquote class="blockquote-reverse">
+                        <p>contact <strong>&lt;at&gt;</strong> romain-monin.fr</p>
+                        <footer>Remplacer <strong>&lt;at&gt;</strong> par le symbole <strong>@</strong></footer>
+                    </blockquote>
+                    <div class="text-center">
+                        <span class="thumbnail">
+                            <img src="img/para.jpg">
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer style="border-top:1px solid #eeeeee; margin:20px 0 20px 0; padding-top:20px;">
+            <div class="container">
+                <p class="pull-left">Créé par : <a href="http://www.romain-monin.fr">Romain Monin</a> - Sources : <a href="#">GitHub</a></p>
+                <p class="pull-right">Design : <a href="http://getbootstrap.com/">Bootstrap Twitter</a></p>
+            </div>
+        </footer>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title" id="myModalLabel">Site indisponible</h4>
+      </div>
+      <div class="modal-body">
+        Ce site n’est pas encore disponible. Encore un peu de patience...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Fermer</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="js/jquery.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="js/bootstrap.min.js"></script>
+    </body>
+</html>
