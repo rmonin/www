@@ -4,6 +4,7 @@
   "description": "Romain Monin's Personal Website",
   "version": "0.1.0",
   "scripts": {
+    "deploy": "gatsby build && gh-pages -d public -b deploy",
     "develop": "gatsby develop",
     "build": "gatsby build",
     "start": "npm run develop",
