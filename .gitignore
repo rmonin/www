@@ -10,3 +10,6 @@ hugo_stats.json
 
 ### macOS ###
 .DS_Store
+
+### Obsidian ###
+/obsidian/**/workspace.json

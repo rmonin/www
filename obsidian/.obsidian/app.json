@@ -1,0 +1,13 @@
+{
+  "livePreview": false,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "files"
+}
