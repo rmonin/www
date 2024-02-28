@@ -11,7 +11,7 @@
       · <span class="uppercase">{{ . }}</span>
       {{ end }}
       {{ with .GetTerms "tags" }}
-      · <ul class=" inline">
+      · <ul class=" inline space-x-1">
       {{ range . }}
         <li class="inline">
           <a class="linear transition duration-200 hover:text-neutral-900" href="{{ .RelPermalink }}">

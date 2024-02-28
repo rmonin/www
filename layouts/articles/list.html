@@ -7,7 +7,7 @@
         <time class="uppercase">{{ .Date | time.Format ":date_long" }}</time>
         · <time>{{ .ReadingTime }} min</time>
         {{ with .GetTerms "tags" }}
-        · <ul class=" inline">
+        · <ul class=" inline space-x-1">
         {{ range . }}
           <li class="inline">
             <a class="linear transition duration-200 hover:text-neutral-900" href="{{ .RelPermalink }}">
