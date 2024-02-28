@@ -15,7 +15,7 @@
   <h2 class="text-2xl font-bold mt-12 mb-6">{{ .Title }}</h2>
   {{ if eq .Section "log" }}
   <ul class="space-y-2 mb-4">
-    {{ range .Pages }}
+    {{ range where $dataPages "Section" "log"}}
     <li class="">
       <a href="{{ .RelPermalink }}" class="block-inline flex items-center gap-2 group leading-tight">
         <time class="whitespace-nowrap text-neutral-400 font-mono tracking-wide text-xs  linear transition duration-200 group-hover:text-neutral-900">
@@ -28,7 +28,7 @@
   </ul>
   {{ else if eq .Section "articles" }}
   <ul class="space-y-4 mb-4">
-    {{ range .Pages.ByDate.Reverse }}
+    {{ range where $dataPages.ByDate.Reverse "Section" "articles"}}
     <li>
       <aside class="font-bol text-neutral-400 font-mono text-xs tracking-wide mb-1">
         <time class="uppercase">{{ .Date | time.Format ":date_long" }}</time>
