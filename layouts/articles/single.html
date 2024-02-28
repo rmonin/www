@@ -10,7 +10,8 @@
       {{ end }}
       · <time>{{ .ReadingTime }} min</time>
       {{ with .GetTerms "tags" }}
-      · <ul class=" inline space-x-1">
+      ·
+      <ul class=" inline space-x-1">
       {{ range . }}
         <li class="inline">
           <a class="linear transition duration-200 hover:text-neutral-900" href="{{ .RelPermalink }}">
