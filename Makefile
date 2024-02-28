@@ -4,7 +4,7 @@ PACKAGES = content static obsidian
 # Default location where stow will create symbolic links
 TARGET = ${HOME}/Documents/WWW
 
-IGNORE ?= \_index.md
+IGNORE ?= _index.md
 
 # Stow command to create links
 STOW_CMD = stow \
