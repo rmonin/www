@@ -1,4 +1,5 @@
 {
   "folder": "log",
-  "format": ""
+  "template": "templates/log-entry-template",
+  "format": "YYMMDD"
 }
