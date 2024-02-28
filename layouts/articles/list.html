@@ -7,7 +7,7 @@
         <time class="uppercase">{{ .Date | time.Format ":date_long" }}</time>
         · <time>{{ .ReadingTime }} min</time>
         {{ with .GetTerms "tags" }}
-        ·
+        ·&nbsp;
         <ul class=" inline space-x-1">
         {{ range . }}
           <li class="inline">
