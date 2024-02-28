@@ -3,7 +3,6 @@
   <h1 class="text-4xl mb-8 font-extrabold text-center">{{ .Title }}</h1>
   {{ range .Pages.GroupByParam "category" }}
   <h2 class="text-2xl font-bold mt-12 mb-6">{{ .Key }}</h2>
-  ›
   <ul class="space-y-2">
     {{ range .Pages }}
     <li>
