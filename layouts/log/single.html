@@ -1,0 +1,32 @@
+{{ define "main" }}
+<main class="mx-auto p-2 max-w-prose mt-12">
+  <header class="text-2xl font-extrabold">
+    {{ .Title }}
+  </header>
+    <aside class="font-bol text-neutral-400 font-mono text-xs tracking-wide mb-1">
+      <time class="uppercase">{{ .Date | time.Format "2006-01-02" }}</time>
+      {{ with .Params.Category}}
+      · <span class="uppercase">{{ . }}</span>
+      {{ end }}
+      {{ with .GetTerms "tags" }}
+      · <ul class=" inline">
+      {{ range . }}
+        <li class="inline">
+          <a class="linear transition duration-200 hover:text-neutral-900" href="{{ .RelPermalink }}">
+            {{ lower .LinkTitle }}
+          </a>
+        </li>
+      {{ end }}
+      </ul>
+      {{ end }}
+    </aside>
+  <article class="mb-10 pt-12 border-t
+    prose
+    prose prose-neutral
+    prose-h1:text-center
+    prose-a:font-light
+    ">
+    {{ .Content | emojify }}
+  </article>
+</main>
+{{ end }}

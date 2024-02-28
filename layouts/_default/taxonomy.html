@@ -1,0 +1,60 @@
+{{ define "main" }}
+<main class="mx-auto p-2 max-w-prose mt-12">
+  <hgroup class="mb-8 text-center font-mono">
+    <h1 class="text-4xl font-extrabold mb-2">
+      {{ .Data.Term }} ({{ .Data.Singular }})
+    </h1>
+    <p class="text-neutral-400 text-thin">
+      <a href="{{ .Parent.Permalink }}" class="linear transition duration-200 hover:text-neutral-900">
+        see all {{ .Data.Plural}}
+      </a>
+    </p>
+  </hgroup>
+  {{ $dataPages := .Data.Pages }}
+  {{ range .Site.Sections }}
+  <h2 class="text-2xl font-bold mt-12 mb-6">{{ .Title }}</h2>
+  {{ if eq .Section "log" }}
+  <ul class="space-y-2 mb-4">
+    {{ range .Pages }}
+    <li class="">
+      <a href="{{ .RelPermalink }}" class="block-inline flex items-center gap-2 group leading-tight">
+        <time class="whitespace-nowrap text-neutral-400 font-mono tracking-wide text-xs  linear transition duration-200 group-hover:text-neutral-900">
+          {{ .Date | time.Format "01-02" }}
+        </time>
+        {{ .Title }}
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+  {{ else if eq .Section "articles" }}
+  <ul class="space-y-4 mb-4">
+    {{ range .Pages.ByDate.Reverse }}
+    <li>
+      <aside class="font-bol text-neutral-400 font-mono text-xs tracking-wide mb-1">
+        <time class="uppercase">{{ .Date | time.Format ":date_long" }}</time>
+        · <time>{{ .ReadingTime }} min</time>
+      </aside>
+        <a href="{{ .RelPermalink }}"
+        class="linear transition duration-200
+          before:content-['〉'] before:text-xs before:font-bold before:text-neutral-400 before:linear before:transition duration-200 hover:before:text-neutral-900">
+          {{ .Title }}
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+  {{ else }}
+  <ul class="space-y-2 mb-4">
+    {{ range where $dataPages "Section" .Section }}
+    <li>
+      <a href="{{ .RelPermalink }}"
+      class="linear transition duration-200 leading-tightt
+        before:content-['〉'] before:text-xs before:font-bold before:text-neutral-400 before:linear before:transition duration-200 hover:before:text-neutral-900">
+        {{ .Title }}
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+  {{ end }}
+</main>
+{{ end }}

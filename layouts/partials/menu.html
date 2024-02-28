@@ -1,0 +1,18 @@
+<nav class="uppercase font-semibold text-neutral-400 tracking-widest space-x-4">
+{{- $current := . }}
+{{- range .Site.Menus.main }}
+  {{- $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
+  {{- $active = or $active ($current.HasMenuCurrent "main" .) }}
+  {{- $active = or $active ($current.IsMenuCurrent .Menu .) }}
+  {{- $active = or $active (eq .URL $current.RelPermalink) }}
+  <a 
+    {{if not $active }}
+    class="linear transition duration-200 hover:text-neutral-900"
+    {{ else }}
+    class="text-neutral-900"
+    {{ end }}
+    href="{{ .URL }}">
+    {{ with .Pre }}{{ . }}{{ else }}{{ .Name }}{{ end }}
+  </a>
+{{- end }}
+</nav>

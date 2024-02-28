@@ -1,0 +1,16 @@
+{{ define "main" }}
+<main class="mx-auto p-2 max-w-prose mt-12">
+  <h1 class="text-4xl mb-8 font-extrabold text-center">{{ .Title }}</h1>
+  <ul class="space-y-2 mb-4">
+    {{ range .Pages }}
+    <li>
+      <a href="{{ .RelPermalink }}"
+      class="linear transition duration-200
+        before:content-['〉'] before:text-xs before:font-bold before:text-neutral-400 before:linear before:transition duration-200 hover:before:text-neutral-900">
+        {{ .Title }}
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</main>
+{{ end }}

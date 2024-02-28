@@ -1,0 +1,27 @@
+
+{{ define "main" }}
+<main class="mx-auto p-2 max-w-prose mt-12">
+  <h1 class="text-4xl mb-8 font-extrabold text-center font-mono">{{ lower .Title }}</h1>
+  <h2 class="text-2xl font-bold mt-12 mb-6">Alphabetical</h2>
+  <ul class="inline space-x-2 font-sm font-mono text-neutral-400">
+    {{ range .Data.Terms.Alphabetical }}
+      <li class="inline">
+        <a class="linear transition duration-200 hover:text-neutral-900" href="{{ .Page.RelPermalink }}">
+          {{ lower .Page.LinkTitle }}<sup>({{ .Count }})</sup>
+        </a>
+      </li>
+    {{ end }}
+    </ul>
+    <h2 class="text-2xl font-bold mt-12 mb-6">By Count</h2>
+    <ul class="inline space-x-2 font-sm font-mono text-neutral-400">
+    {{ range .Data.Terms.ByCount }}
+      <li class="inline">
+        <a class="linear transition duration-200 hover:text-neutral-900" href="{{ .Page.RelPermalink }}">
+          {{ lower .Page.LinkTitle }}<span class="align-super text-xs font-extrabold">({{ .Count }})</span>
+        </a>
+      </li>
+    {{ end }}
+    </ul>
+  </article>
+</main>
+{{ end }}
