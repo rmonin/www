@@ -1,5 +1,5 @@
 ---
-title: EMO: Emote Portrait Alive
+title: "EMO: Emote Portrait Alive"
 date: 2024-02-29
 lastmod: 2024-02-29
 description: null
