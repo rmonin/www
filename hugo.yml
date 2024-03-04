@@ -1,7 +1,7 @@
 ---
-baseURL: 'https://monin.vip/'
+baseURL: "https://monin.vip/"
 defaultContentLanguage: en
-title: 'RMM'
+title: "RMM"
 # subtitle: The Best Widgets on Earth
 summaryLength: 55
 
@@ -9,32 +9,32 @@ params:
   # description recommended length is typically around 150 to 160 characters. End with a sentence that calls to action (CTA).
   description: "Welcome to RMM's space, where I share insights, projects, and thoughts. Join me as I explore various topics and share my experiences."
   # Keywords: optional, 5 items max.
-  keywords: ['Technology', 'Innovation', 'Inspiration', 'Learning', 'Growth']
-  author: 'Romain Monin'
+  keywords: ["Technology", "Innovation", "Inspiration", "Learning", "Growth"]
+  author: "Romain Monin"
   contact:
-    phone: '+ 33 (0)6 20 63 42 56'
-    email: 'contact@romain-monin.fr'
+    phone: "+ 33 (0)6 20 63 42 56"
+    email: "contact@romain-monin.fr"
 
 menus:
   main:
-  - name: 'Log'
-    pageRef: /log
-    weight: 10
-  - name: 'Articles'
-    pageRef: /articles
-    weight: 20
-  - name: 'Codex'
-    pageRef: /codex
-    weight: 30
-#   - name: 'Resume'
-#     url: '/resume'
-#     weight: 40
-  - name: 'Github'
-    params:
-      rel: external
-    pre: <i class="fa-brands fa-github"></i>
-    url: https://github.com/rmonin
-    weight: 99
+    - name: "Log"
+      pageRef: /log
+      weight: 10
+    - name: "Articles"
+      pageRef: /articles
+      weight: 20
+    - name: "Codex"
+      pageRef: /codex
+      weight: 30
+    #   - name: 'Resume'
+    #     url: '/resume'
+    #     weight: 40
+    - name: "Github"
+      params:
+        rel: external
+      pre: <i class="fa-brands fa-github"></i>
+      url: https://github.com/rmonin
+      weight: 99
 
 taxonomies:
   tag: tags
