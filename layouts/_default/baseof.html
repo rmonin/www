@@ -1,20 +1,19 @@
-<!DOCTYPE html>
+<!doctype html>
 <html
-  {{- with site.LanguageCode | default site.Language.Lang }} lang="{{ . }}"{{ end -}}
-  {{- if ne .Site.Params.rtl nil }}dir="{{ with .Site.Params.rtl }}rtl{{ else }}ltr{{ end }}"{{ end }}>
-{{ partial "head.html" . }}
-<body class="font-sans text-neutral-900 font-light">
-  {{ partial "header.html" . }}
-  {{ block "main" . }}
-  <main class="mx-auto p-2 max-w-prose mt-12">
-    <article class="mb-10 prose
-      prose prose-neutral
-      prose-h1:text-center
-      prose-a:font-light
-      prose-li:*:my-0
-      ">
-      {{ .Content }}
-    </article>
+  {{- with site.LanguageCode | default site.Language.Lang }}
+    lang="{{ . }}"
+  {{ end -}}
+  {{- if ne .Site.Params.rtl nil }}
+    dir="{{ with .Site.Params.rtl }}rtl{{ else }}ltr{{ end }}"
   {{ end }}
-</body>
+>
+  {{ partial "head.html" . }}
+  <body class="font-sans font-light text-neutral-900">
+    {{ partial "header.html" . }}
+    {{ block "main" . }}
+      <main class="mx-auto mt-12 max-w-prose p-2">
+        {{ partial "article-content.html" . }}
+      </main>
+    {{ end }}
+  </body>
 </html>

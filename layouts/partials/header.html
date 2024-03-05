@@ -1,7 +1,12 @@
-<header class="mx-auto p-2 max-w-screen-md text-sm flex flex-col sm:flex-row justify-between sm:items-end gap-2 text-neutral-400">
-    <a class="block linear transition duration-200 hover:text-neutral-900 text-2xl leading-tight" href="{{ absLangURL "/" }}">
-      <span>~</span>
-      <span class="text-neutral-900 font-extrabold">{{ .Site.Title }}</span>
-    </a>
-    {{ partial "menu.html" . }}
-  </header>
+<header
+  class="mx-auto flex max-w-screen-md flex-col justify-between gap-2 p-2 text-sm text-neutral-400 sm:flex-row sm:items-end"
+>
+  <a
+    class="linear block text-2xl leading-tight transition duration-200 hover:text-neutral-900"
+    href="{{ absLangURL "/" }}"
+  >
+    <span>~</span>
+    <span class="font-extrabold text-neutral-900">{{ .Site.Title }}</span>
+  </a>
+  {{ partial "menu.html" . }}
+</header>

@@ -1,0 +1,7 @@
+.git/
+.tool-versions
+package-lock.json
+
+public/
+node_modules/
+obsidian/

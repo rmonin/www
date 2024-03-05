@@ -1,34 +1,41 @@
 {{ define "main" }}
-<main class="mx-auto p-2 max-w-prose mt-12">
-  <h1 class="text-4xl mb-8 font-extrabold text-center">{{ .Title }}</h1>
-  {{ range .Pages.ByDate.Reverse }}
-    <article class="mb-10 mt-12">
-      <aside class="font-bol text-neutral-400 font-mono text-xs tracking-wide">
-        <time class="uppercase">{{ .Date | time.Format ":date_long" }}</time>
-        · <time>{{ .ReadingTime }} min</time>
-        {{ with .GetTerms "tags" }}
-        ·&nbsp;
-        <ul class=" inline space-x-1">
-        {{ range . }}
-          <li class="inline">
-            <a class="linear transition duration-200 hover:text-neutral-900" href="{{ .RelPermalink }}">
-              {{ lower .LinkTitle }}
-            </a>
-          </li>
-        {{ end }}
-        </ul>
-        {{ end }}
-      </aside>
-      <h2 class="font-bold text-lg">
-        <a href="{{ .RelPermalink }}"
-        class="linear transition duration-200
-          before:content-['›'] before:font-extrabold before:text-neutral-400 before:linear before:transition duration-200 hover:before:text-neutral-900">
-          {{ .Title }}
-        </a>
-      </h2>
-      <p class="mb-2">{{ .Summary }}</p>
-    </nav>
-  </article>
-  {{ end }}
-</main>
+  <main class="mx-auto mt-12 max-w-prose p-2">
+    <h1 class="mb-8 text-center text-4xl font-extrabold">{{ .Title }}</h1>
+    {{ range .Pages.ByDate.Reverse }}
+      <article class="mb-10 mt-12">
+        <aside
+          class="font-bol font-mono text-xs tracking-wide text-neutral-400"
+        >
+          <time class="uppercase">{{ .Date | time.Format ":date_long" }}</time>
+          · <time>{{ .ReadingTime }} min</time>
+          {{ with .GetTerms "tags" }}
+            ·&nbsp;
+            <ul class=" inline space-x-1">
+              {{ range . }}
+                <li class="inline">
+                  <a
+                    class="linear transition duration-200 hover:text-neutral-900"
+                    href="{{ .RelPermalink }}"
+                  >
+                    {{ lower .LinkTitle }}
+                  </a>
+                </li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        </aside>
+
+        <h2 class="text-lg font-bold">
+          <a
+            href="{{ .RelPermalink }}"
+            class="linear before:linear transition
+          duration-200 duration-200 before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-neutral-900"
+          >
+            {{ .Title }}
+          </a>
+        </h2>
+        <p class="mb-2">{{ .Summary }}</p>
+      </article>
+    {{ end }}
+  </main>
 {{ end }}

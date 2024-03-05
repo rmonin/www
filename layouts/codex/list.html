@@ -1,34 +1,37 @@
 {{ define "main" }}
-<main class="mx-auto p-2 max-w-prose mt-12">
-  <h1 class="text-4xl mb-8 font-extrabold text-center">{{ .Title }}</h1>
-  {{ range .Pages.GroupByParam "category" }}
-  <h2 class="text-2xl font-bold mt-12 mb-6">{{ .Key }}</h2>
-  <ul class="space-y-2">
-    {{ range .Pages }}
-    <li>
-      <a href="{{ .RelPermalink }}"
-      class="lainear transition duration-200
-        before:content-['›'] before:font-extrabold before:text-neutral-400 before:linear before:transition duration-200 hover:before:text-neutral-900">
-        {{ .Title }}
-      </a>
-    </li>
+  <main class="mx-auto mt-12 max-w-prose p-2">
+    <h1 class="mb-8 text-center text-4xl font-extrabold">{{ .Title }}</h1>
+    {{ range .Pages.GroupByParam "category" }}
+      <h2 class="mb-6 mt-12 text-2xl font-bold">{{ .Key }}</h2>
+      <ul class="space-y-2">
+        {{ range .Pages }}
+          <li>
+            <a
+              href="{{ .RelPermalink }}"
+              class="lainear before:linear transition duration-200 before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-neutral-900"
+            >
+              {{ .Title }}
+            </a>
+          </li>
+        {{ end }}
+      </ul>
     {{ end }}
-  </ul>
-  {{ end }}
 
-  <h2 class="text-2xl font-bold mt-12 mb-6">Others</h2>  
-  <ul class="space-y-2">
-  {{ range .Pages}}
-    {{ if not (index .Page.Params "category") }}
-    <li>
-      <a href="{{ .RelPermalink }}"
-      class="lainear transition duration-200
-        before:content-['›'] before:font-extrabold before:text-neutral-400 before:linear before:transition duration-200 hover:before:text-neutral-900">
-        {{ .Title }}
-      </a>
-    </li>
-    {{ end }}
-  {{ end }}
-  </ul>
-</main>
+
+    <h2 class="mb-6 mt-12 text-2xl font-bold">Others</h2>
+    <ul class="space-y-2">
+      {{ range .Pages }}
+        {{ if not (index .Page.Params "category") }}
+          <li>
+            <a
+              href="{{ .RelPermalink }}"
+              class="lainear before:linear transition duration-200 before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-neutral-900"
+            >
+              {{ .Title }}
+            </a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </main>
 {{ end }}

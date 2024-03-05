@@ -1,8 +1,8 @@
 ---
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 description: A brief description of my document.
-date: '{{ .Date }}'
-lastmod: '{{ .Date }}'
+date: "{{ .Date }}"
+lastmod: "{{ .Date }}"
 # params:
 #   author: '{{ .Site.Params.Author }}'
 tags: [markdown, metadata, example]
@@ -29,19 +29,21 @@ This is an example Markdown document demonstrating various syntax elements.
 
 ## Emphasis
 
-**Bold text** or __bold text__.
+**Bold text** or **bold text**.
 
-*Italic text* or _italic text_.
+_Italic text_ or _italic text_.
 
 ## Lists
 
 ### Unordered List
+
 - Item 1
 - Item 2
   - Subitem A
   - Subitem B
 
 ### Ordered List
+
 1. First item
 2. Second item
    1. Subitem i
@@ -71,7 +73,7 @@ def hello_world():
 ## Tables
 
 | Header 1 | Header 2 |
-|----------|----------|
+| -------- | -------- |
 | Cell 1   | Cell 2   |
 | Cell 3   | Cell 4   |
 
@@ -125,4 +127,4 @@ echo "Hello, world!"
 
 HTML stands for Hyper Text Markup Language.
 
-*[HTML]: Hyper Text Markup Language
+\*[HTML]: Hyper Text Markup Language

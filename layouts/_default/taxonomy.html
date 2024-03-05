@@ -1,60 +1,75 @@
 {{ define "main" }}
-<main class="mx-auto p-2 max-w-prose mt-12">
-  <hgroup class="mb-8 text-center font-mono">
-    <h1 class="text-4xl font-extrabold mb-2">
-      {{ .Data.Term }} ({{ .Data.Singular }})
-    </h1>
-    <p class="text-neutral-400 text-thin">
-      <a href="{{ .Parent.Permalink }}" class="linear transition duration-200 hover:text-neutral-900">
-        see all {{ .Data.Plural}}
-      </a>
-    </p>
-  </hgroup>
-  {{ $dataPages := .Data.Pages }}
-  {{ range .Site.Sections }}
-  <h2 class="text-2xl font-bold mt-12 mb-6">{{ .Title }}</h2>
-  {{ if eq .Section "log" }}
-  <ul class="space-y-2 mb-4">
-    {{ range where $dataPages "Section" "log"}}
-    <li class="">
-      <a href="{{ .RelPermalink }}" class="block-inline flex items-center gap-2 group leading-tight">
-        <time class="whitespace-nowrap text-neutral-400 font-mono tracking-wide text-xs  linear transition duration-200 group-hover:text-neutral-900">
-          {{ .Date | time.Format "01-02" }}
-        </time>
-        {{ .Title }}
-      </a>
-    </li>
-    {{ end }}
-  </ul>
-  {{ else if eq .Section "articles" }}
-  <ul class="space-y-4 mb-4">
-    {{ range where $dataPages.ByDate.Reverse "Section" "articles"}}
-    <li>
-      <aside class="font-bol text-neutral-400 font-mono text-xs tracking-wide mb-1">
-        <time class="uppercase">{{ .Date | time.Format ":date_long" }}</time>
-        · <time>{{ .ReadingTime }} min</time>
-      </aside>
-        <a href="{{ .RelPermalink }}"
-        class="linear transition duration-200
-          before:content-['›'] before:font-extrabold before:text-neutral-400 before:linear before:transition duration-200 hover:before:text-neutral-900">
-          {{ .Title }}
+  <main class="mx-auto mt-12 max-w-prose p-2">
+    <hgroup class="mb-8 text-center font-mono">
+      <h1 class="mb-2 text-4xl font-extrabold">
+        {{ .Data.Term }} ({{ .Data.Singular }})
+      </h1>
+      <p class="text-thin text-neutral-400">
+        <a
+          href="{{ .Parent.Permalink }}"
+          class="linear transition duration-200 hover:text-neutral-900"
+        >
+          see all
+          {{ .Data.Plural }}
         </a>
-      </li>
+      </p>
+    </hgroup>
+    {{ $dataPages := .Data.Pages }}
+    {{ range .Site.Sections }}
+      <h2 class="mb-6 mt-12 text-2xl font-bold">{{ .Title }}</h2>
+      {{ if eq .Section "log" }}
+        <ul class="mb-4 space-y-2">
+          {{ range where $dataPages "Section" "log" }}
+            <li class="">
+              <a
+                href="{{ .RelPermalink }}"
+                class="block-inline group flex items-center gap-2 leading-tight"
+              >
+                <time
+                  class="linear whitespace-nowrap font-mono text-xs tracking-wide text-neutral-400 transition duration-200 group-hover:text-neutral-900"
+                >
+                  {{ .Date | time.Format "01-02" }}
+                </time>
+                {{ .Title }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ else if eq .Section "articles" }}
+        <ul class="mb-4 space-y-4">
+          {{ range where $dataPages.ByDate.Reverse "Section" "articles" }}
+            <li>
+              <aside
+                class="font-bol mb-1 font-mono text-xs tracking-wide text-neutral-400"
+              >
+                <time class="uppercase"
+                  >{{ .Date | time.Format ":date_long" }}</time
+                >
+                · <time>{{ .ReadingTime }} min</time>
+              </aside>
+              <a
+                href="{{ .RelPermalink }}"
+                class="linear before:linear transition duration-200 duration-200 before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-neutral-900"
+              >
+                {{ .Title }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ else }}
+        <ul class="mb-4 space-y-2">
+          {{ range where $dataPages "Section" .Section }}
+            <li>
+              <a
+                href="{{ .RelPermalink }}"
+                class="linear leading-tightt before:linear transition duration-200 duration-200 before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-neutral-900"
+              >
+                {{ .Title }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
     {{ end }}
-  </ul>
-  {{ else }}
-  <ul class="space-y-2 mb-4">
-    {{ range where $dataPages "Section" .Section }}
-    <li>
-      <a href="{{ .RelPermalink }}"
-      class="linear transition duration-200 leading-tightt
-        before:content-['›'] before:font-extrabold before:text-neutral-400 before:linear before:transition duration-200 hover:before:text-neutral-900">
-        {{ .Title }}
-      </a>
-    </li>
-    {{ end }}
-  </ul>
-  {{ end }}
-  {{ end }}
-</main>
+  </main>
 {{ end }}

@@ -1,12 +1,32 @@
-<!DOCTYPE html>
+<!doctype html>
 <html
-  {{- with site.LanguageCode | default site.Language.Lang }} lang="{{ . }}"{{ end -}}
-  {{- if ne .Site.Params.rtl nil }}dir="{{ with .Site.Params.rtl }}rtl{{ else }}ltr{{ end }}"{{ end }}>
-{{ partial "head.html" . }}
-<body class="font-sans text-neutral-900 font-light flex flex-col justify-center min-h-screen">
-  <main class="mx-auto p-2 max-w-screen-md text-center">
-    <h1 class="text-4xl mb-8 font-extrabold text-center uppecase no-spacewrap">{{ .Site.Params.Author }}</h1>
-    {{ partial "menu.html" . }}
-  </main>
-</body>
+  {{- with
+    site.LanguageCode
+    |
+    default
+    site.Language.Lang
+  }}
+    lang="{{ . }}"
+  {{ end -}}
+  {{- if
+    ne
+    .Site.Params.rtl
+    nil
+  }}
+    dir="{{ with .Site.Params.rtl }}rtl{{ else }}ltr{{ end }}"
+  {{ end }}
+>
+  {{ partial "head.html" . }}
+  <body
+    class="flex min-h-screen flex-col justify-center font-sans font-light text-neutral-900"
+  >
+    <main class="mx-auto max-w-screen-md p-2 text-center">
+      <h1
+        class="uppecase no-spacewrap mb-8 text-center text-4xl font-extrabold"
+      >
+        {{ .Site.Params.Author }}
+      </h1>
+      {{ partial "menu.html" . }}
+    </main>
+  </body>
 </html>
