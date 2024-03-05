@@ -11,6 +11,7 @@ tags:
 category: Personal Development
 draft: false
 ---
+
 # Zettelkasten Method Explained
 
 ## Overview:

@@ -1,5 +1,5 @@
 ---
-title: 'Lorem ipsum'
+title: "Lorem ipsum"
 date: 2024-02-25
 description: A brief description of my document.
 summary: Summary sample, consectetur adipiscing elit. In at diam orci. Praesent vel nunc sed eros blandit pretium ultricies a sapien. Sed quis libero a purus sodales rutrum ut eu leo. Nunc interdum urna non malesuada maximus. Cras tempus erat sit amet consequat consequat. Sed lobortis nibh nibh, eget consectetur justo tempor sagittis. In hac habitasse platea dictumst. Cras ac massa vitae nisl porta lobortis.
@@ -23,17 +23,19 @@ This is an example Markdown document demonstrating various syntax elements.
 
 ## Emphasis
 
-*Italic text* or _italic text_. **Bold text** or __bold text__. `monoblock` and ~~strikethrough text~~.
+_Italic text_ or _italic text_. **Bold text** or **bold text**. `monoblock` and ~~strikethrough text~~.
 
 ## Lists
 
 ### Unordered List
+
 - Item 1
 - Item 2
   - Subitem A
   - Subitem B
 
 ### Ordered List
+
 1. First item
 2. Second item
    1. Subitem i
@@ -63,7 +65,7 @@ def hello_world():
 ## Tables
 
 | Header 1 | Header 2 |
-|----------|----------|
+| -------- | -------- |
 | Cell 1   | Cell 2   |
 | Cell 3   | Cell 4   |
 
@@ -93,4 +95,4 @@ echo "Hello, world!"
 
 HTML stands for Hyper Text Markup Language.
 
-*[HTML]: Hyper Text Markup Language
+\*[HTML]: Hyper Text Markup Language
