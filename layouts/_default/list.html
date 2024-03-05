@@ -1,21 +1,19 @@
 {{ define "main" }}
-  <main class="mx-auto mt-12 max-w-prose p-2">
-    <h1 class="mb-8 text-center text-4xl font-extrabold">{{ .Title }}</h1>
-    <ul class="mb-4 space-y-2">
-      {{ range .Pages }}
-        <li>
-          <a
-            href="{{ .RelPermalink }}"
-            class="linear before:linear
+  <h1 class="mb-8 text-center text-4xl font-extrabold">{{ .Title }}</h1>
+  <ul class="mb-4 space-y-2">
+    {{ range .Pages }}
+      <li>
+        <a
+          href="{{ .RelPermalink }}"
+          class="linear before:linear
             transition duration-200
             before:text-xs before:font-bold before:text-neutral-400
             before:transition before:content-['〉']
             hover:before:text-neutral-900"
-          >
-            {{ .Title }}
-          </a>
-        </li>
-      {{ end }}
-    </ul>
-  </main>
+        >
+          {{ .Title }}
+        </a>
+      </li>
+    {{ end }}
+  </ul>
 {{ end }}

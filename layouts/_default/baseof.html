@@ -10,10 +10,10 @@
   {{ partial "head.html" . }}
   <body class="font-sans font-light text-neutral-900">
     {{ partial "header.html" . }}
-    {{ block "main" . }}
-      <main class="mx-auto mt-12 max-w-prose p-2">
+    <main class="mx-auto mt-12 max-w-prose p-2">
+      {{ block "main" . }}
         {{ partial "article-content.html" . }}
-      </main>
-    {{ end }}
+      {{ end }}
+    </main>
   </body>
 </html>

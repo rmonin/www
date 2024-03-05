@@ -1,37 +1,35 @@
 {{ define "main" }}
-  <main class="mx-auto mt-12 max-w-prose p-2">
-    <h1 class="mb-8 text-center font-mono text-4xl font-extrabold">
-      {{ lower .Title }}
-    </h1>
-    <h2 class="mb-6 mt-12 text-2xl font-bold">Alphabetical</h2>
-    <ul class="font-sm inline space-x-2 font-mono text-neutral-400">
-      {{ range .Data.Terms.Alphabetical }}
-        <li class="inline">
-          <a
-            class="linear transition duration-200 hover:text-neutral-900"
-            href="{{ .Page.RelPermalink }}"
-          >
-            {{ lower .Page.LinkTitle }}<sup>({{ .Count }})</sup>
-          </a>
-        </li>
-      {{ end }}
-    </ul>
+  <h1 class="mb-8 text-center font-mono text-4xl font-extrabold">
+    {{ lower .Title }}
+  </h1>
+  <h2 class="mb-6 mt-12 text-2xl font-bold">Alphabetical</h2>
+  <ul class="font-sm inline space-x-2 font-mono text-neutral-400">
+    {{ range .Data.Terms.Alphabetical }}
+      <li class="inline">
+        <a
+          class="linear transition duration-200 hover:text-neutral-900"
+          href="{{ .Page.RelPermalink }}"
+        >
+          {{ lower .Page.LinkTitle }}<sup>({{ .Count }})</sup>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
 
-    <h2 class="mb-6 mt-12 text-2xl font-bold">By Count</h2>
-    <ul class="font-sm inline space-x-2 font-mono text-neutral-400">
-      {{ range .Data.Terms.ByCount }}
-        <li class="inline">
-          <a
-            class="linear transition duration-200 hover:text-neutral-900"
-            href="{{ .Page.RelPermalink }}"
+  <h2 class="mb-6 mt-12 text-2xl font-bold">By Count</h2>
+  <ul class="font-sm inline space-x-2 font-mono text-neutral-400">
+    {{ range .Data.Terms.ByCount }}
+      <li class="inline">
+        <a
+          class="linear transition duration-200 hover:text-neutral-900"
+          href="{{ .Page.RelPermalink }}"
+        >
+          {{ lower .Page.LinkTitle }}<span
+            class="align-super text-xs font-extrabold"
+            >({{ .Count }})</span
           >
-            {{ lower .Page.LinkTitle }}<span
-              class="align-super text-xs font-extrabold"
-              >({{ .Count }})</span
-            >
-          </a>
-        </li>
-      {{ end }}
-    </ul>
-  </main>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
 {{ end }}
