@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#TableOfContents {
+  @apply prose prose-neutral border-t py-4;
+  @apply prose-a:font-light;
+  @apply prose-ul:my-0 prose-ul:list-none prose-li:my-0;
+}

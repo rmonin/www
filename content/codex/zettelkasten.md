@@ -9,6 +9,7 @@ tags:
   - productivity
   - learning
 category: Personal Development
+toc: false
 draft: false
 ---
 
