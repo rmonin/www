@@ -35,7 +35,12 @@ jobs:
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb 
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
       - name: Checkout
         uses: actions/checkout@v4
@@ -47,7 +52,11 @@ jobs:
         id: pages
         uses: actions/configure-pages@v4
 
-#     - name: Install Node.js dependencies
+      - name: Install Node.js dependencies
+        run: npm ci
+
+      - name: Build CSS
+        run: npm run build:prod:css
 
       - name: Build with Hugo
         env:
@@ -58,7 +67,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"  
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

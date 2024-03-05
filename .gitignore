@@ -1,23 +1,23 @@
 ### Hugo ###
 # Generated files by hugo
-/public/
-/resources/_gen/
-/assets/jsconfig.json
+public/
+resources/_gen/
+assets/jsconfig.json
 hugo_stats.json
 
 # Temporary lock file while building
-/.hugo_build.lock
+.hugo_build.lock
 
 ### NodeJS ###
 node_modules/
 
 ### Tailwind CSS ###
-/assets/css/style.css
+assets/css/style.css
 
 ### macOS ###
 .DS_Store
 
 ### Obsidian ###
-/obsidian/**/workspace.json
-/obsidian/**/bookmarks.json
-/obsidian/**/graph.json
+obsidian/**/workspace.json
+obsidian/**/bookmarks.json
+obsidian/**/graph.json
