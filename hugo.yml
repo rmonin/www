@@ -20,9 +20,9 @@ menus:
     - name: "Log"
       pageRef: /log
       weight: 10
-    - name: "Articles"
-      pageRef: /articles
-      weight: 20
+    # - name: "Articles"
+    #   pageRef: /articles
+    #   weight: 20
     - name: "Codex"
       pageRef: /codex
       weight: 30

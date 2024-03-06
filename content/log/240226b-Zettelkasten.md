@@ -1,7 +1,8 @@
 ---
-title: Today I learned
+title: Zettelkasten
 date: 2024-02-26
 tags:
+  - learning
 ---
 
 # Today I learned
@@ -10,9 +11,3 @@ tags:
 
 Since everything needs a name these days, it seems that my CODEX is actually an implementation of the [zettelkasten](/codex/zettelkasten) method.
 Nothing groundbreaking in our digital age, but it's interesting to know what it's called and perhaps delve into the topic a bit someday. 🤷
-
-## Opquast
-
-I discovered this website: [The Opquast Web Quality Assurance Checklist](https://checklists.opquast.com/en/web-quality-assurance/)
-
-I may have a look on its checklist and more 🧐
