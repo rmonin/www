@@ -48,10 +48,9 @@
             </aside>
             <a
               href="{{ .RelPermalink }}"
-              class="linear before:linear transition duration-200 duration-200 before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-neutral-900"
+              class="linear before:linear transition duration-200 before:pr-2 before:text-xl before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-neutral-900"
+              >{{ .Title }}</a
             >
-              {{ .Title }}
-            </a>
           </li>
         {{ end }}
       </ul>
@@ -61,10 +60,9 @@
           <li>
             <a
               href="{{ .RelPermalink }}"
-              class="linear leading-tightt before:linear transition duration-200 duration-200 before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-neutral-900"
+              class="linear before:linear transition duration-200 before:pr-2 before:text-xl before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-neutral-900"
+              >{{ .Title }}</a
             >
-              {{ .Title }}
-            </a>
           </li>
         {{ end }}
       </ul>

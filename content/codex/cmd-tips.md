@@ -2,7 +2,7 @@
 title: Cmd tips
 date: 2024-03-05
 lastmod: 2024-03-05
-description: 
+description:
 tags:
   - terminal
   - shell
@@ -119,6 +119,7 @@ for i in */.git; do cd $(dirname $i); git pull; cd ..; done
 ```sh
 watch -n 5 -d '/bin/free -m'
 ```
+
 > `-d` highlight diff between current and previous refresh !
 
 ## Misc.

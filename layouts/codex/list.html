@@ -2,14 +2,13 @@
   <h1 class="mb-8 text-center text-4xl font-extrabold">{{ .Title }}</h1>
   <ul>
     {{ range .Pages.ByTitle }}
-        <li>
-          <a
-            href="{{ .RelPermalink }}"
-            class="linear before:linear transition duration-200 before:pr-2 before:text-xl before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-neutral-900"
-            >{{ .Title }}
-          </a>
-        </li>
-      
+      <li>
+        <a
+          href="{{ .RelPermalink }}"
+          class="linear before:linear transition duration-200 before:pr-2 before:text-xl before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-neutral-900"
+          >{{ .Title }}
+        </a>
+      </li>
     {{ end }}
   </ul>
 {{ end }}
