@@ -2,9 +2,14 @@
 title: Applications List
 date: 2024-02-29
 lastmod: 2024-03-05
-description:
+description: 
 tags:
+  - productivity
+  - sofware
+  - applications
+  - efficiency
 category:
+#category: Productivity
 toc: true
 draft: false
 ---

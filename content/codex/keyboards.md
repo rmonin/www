@@ -5,7 +5,9 @@ lastmod: 2024-02-28
 description: All my stuffs around keyboards.
 tags:
   - device
-category: Hardware & Devices
+  - typing
+category:
+#category: Hardware & Devices
 toc: false
 draft: false
 ---

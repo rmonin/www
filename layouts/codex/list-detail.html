@@ -1,0 +1,33 @@
+{{ define "main" }}
+  <h1 class="mb-8 text-center text-4xl font-extrabold">{{ .Title }}</h1>
+  {{ range .Pages.GroupByParam "category" }}
+    <h2 class="mb-6 mt-12 text-2xl font-bold">{{ .Key }}</h2>
+    <ul class="space-y-2">
+      {{ range .Pages }}
+        <li>
+          <a
+            href="{{ .RelPermalink }}"
+            class="linear before:linear transition duration-200 before:pr-2 before:text-xl before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-neutral-900"
+          >{{ .Title }}
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+
+  <h2 class="mb-6 mt-12 text-2xl font-bold">Others</h2>
+  <ul>
+    {{ range .Pages }}
+      {{ if not (index .Page.Params "category") }}
+        <li>
+          <a
+            href="{{ .RelPermalink }}"
+            class="linear before:linear transition duration-200 before:pr-2 before:text-xl before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-neutral-900"
+            >{{ .Title }}
+          </a>
+        </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+{{ end }}

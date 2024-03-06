@@ -3,8 +3,12 @@ title: Cmd tips
 date: 2024-03-05
 lastmod: 2024-03-05
 description: 
-tags: 
-category: 
+tags:
+  - terminal
+  - shell
+  - cli
+category:
+#category: Command Line
 toc: true
 draft: false
 ---
@@ -44,15 +48,10 @@ find ~ -type f
 find ~ -type f,l -name "notebook*"
 ```
 
-### List just directories
+### List just directories, limit depth
 
 ```shell
 find ~/Public/ -type d
-```
-
-### Limit listing results
-
-```shell
 find ~/Public/ -maxdepth 1 -type d
 ```
 
@@ -61,8 +60,6 @@ find ~/Public/ -maxdepth 1 -type d
 ```shell
 find ~ -type f -empty
 ```
-
-> Technically, you can use `find` to remove empty files, but programmatic removal of files is dangerous. For instance, if you forget to include `-type f` in a search for empty *files*, you get directories in your results. By adding a delete flag, you would remove potentially important directory structures.
 
 ### Find files by age
 
@@ -116,13 +113,13 @@ find / -type f -ctime +50 > files.txt
 ```shell
 for i in */.git; do cd $(dirname $i); git pull; cd ..; done
 ```
-## watch
 
-> `-d` highlight diff between current and previous refresh !
+## watch
 
 ```sh
 watch -n 5 -d '/bin/free -m'
 ```
+> `-d` highlight diff between current and previous refresh !
 
 ## Misc.
 
