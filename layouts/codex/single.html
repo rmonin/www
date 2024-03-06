@@ -24,8 +24,6 @@
       </ul>
     {{ end }}
   </aside>
-  <section class="prose-ul:rmy-0 prose prose-neutral prose-li:my-0">
-    {{ .TableOfContents }}
-  </section>
+  {{ if .Params.toc }}{{ .TableOfContents }}{{ end }}
   {{ partial "article-content.html" . }}
 {{ end }}

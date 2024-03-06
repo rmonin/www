@@ -1,7 +1,7 @@
 ---
-title: {{ title }}
-date: {{ date }}
-lastmod: {{ date }}
+title: {{title}}
+date: {{date}}
+lastmod: {{date}}
 description: null
 summary: null
 tags: null
