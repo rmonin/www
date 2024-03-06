@@ -96,6 +96,7 @@ draft: false
 - Rectangle
 - Whatsapp
 
+<!--
 ### Not used but usefull
 
 #### Internet
@@ -131,7 +132,6 @@ draft: false
 
 - WeChat
 
-<!--
 ### Not tested yet
 
 #### Internet

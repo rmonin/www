@@ -2,11 +2,11 @@
 title: Cmd tips
 date: 2024-03-05
 lastmod: 2024-03-05
-description:
-tags:
-category:
+description: 
+tags: 
+category: 
 toc: true
-draft: true
+draft: false
 ---
 
 ## find
