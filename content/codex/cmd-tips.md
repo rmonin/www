@@ -7,8 +7,7 @@ tags:
   - terminal
   - shell
   - cli
-category:
-#category: Command Line
+category: Other
 toc: true
 draft: false
 ---

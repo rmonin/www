@@ -8,8 +8,7 @@ tags:
   - software
   - applications
   - efficiency
-category:
-#category: Productivity
+category: Other
 toc: true
 draft: false
 ---

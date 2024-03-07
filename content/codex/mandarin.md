@@ -1,5 +1,5 @@
 ---
-title: Chinese
+title: Mandarin
 date: 2024-03-06
 lastmod: 2024-03-07
 description:
@@ -12,7 +12,7 @@ toc: true
 draft: false
 ---
 
-# Learn Chinese
+# Learn Mandarin Chinese
 
 ## HSK
 

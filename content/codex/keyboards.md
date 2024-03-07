@@ -6,8 +6,7 @@ description: All my stuffs around keyboards.
 tags:
   - device
   - typing
-category:
-#category: Hardware & Devices
+category: Hardware & Devices
 toc: false
 draft: false
 ---

@@ -8,8 +8,7 @@ tags:
   - note-taking
   - productivity
   - learning
-category:
-#category: Personal Development
+category: Other
 toc: false
 draft: false
 ---
