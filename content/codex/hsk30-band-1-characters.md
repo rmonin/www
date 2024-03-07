@@ -1,7 +1,7 @@
 ---
 title: HSK 3.0 Band 1 - Characters
 date: 2024-03-06
-lastmod: 2024-03-06
+lastmod: 2024-03-07
 description:
 tags:
   - chinese
@@ -11,305 +11,305 @@ toc: false
 draft: false
 ---
 
-| No  | 字                                        | Radical                                   | Strokes                                           | Meaning                                               |
-| --- | ----------------------------------------- | ----------------------------------------- | ------------------------------------------------- | ----------------------------------------------------- |
-| 1   | [爱](https://hanzicraft.com/character/爱) | [宀](https://hanzicraft.com/character/宀) | [10](https://www.omgchinese.com/dictionary/?q=爱) | [love, be fond of, like](https://rtega.be/chmn/?c=爱) |
-| 2   | [八](https://hanzicraft.com/character/八) | [八](https://hanzicraft.com/character/八) | [2](https://www.omgchinese.com/dictionary/?q=八)  | [-](https://rtega.be/chmn/?c=八)                        |
-| 3   | [爸](https://hanzicraft.com/character/爸) | [父](https://hanzicraft.com/character/父) | [8](https://www.omgchinese.com/dictionary/?q=爸)  | [-](https://rtega.be/chmn/?c=爸)                        |
-| 4   | [吧](https://hanzicraft.com/character/吧) | [口](https://hanzicraft.com/character/口) | [7](https://www.omgchinese.com/dictionary/?q=吧)  | [-](https://rtega.be/chmn/?c=吧)                        |
-| 5   | [白](https://hanzicraft.com/character/白) | [白](https://hanzicraft.com/character/白) | [5](https://www.omgchinese.com/dictionary/?q=白)  | [-](https://rtega.be/chmn/?c=白)                        |
-| 6   | [百](https://hanzicraft.com/character/百) | [白](https://hanzicraft.com/character/白) | [6](https://www.omgchinese.com/dictionary/?q=百)  | [-](https://rtega.be/chmn/?c=百)                        |
-| 7   | [班](https://hanzicraft.com/character/班) | [王](https://hanzicraft.com/character/王) | [10](https://www.omgchinese.com/dictionary/?q=班) | [-](https://rtega.be/chmn/?c=班)                        |
-| 8   | [半](https://hanzicraft.com/character/半) | [十](https://hanzicraft.com/character/十) | [5](https://www.omgchinese.com/dictionary/?q=半)  | [-](https://rtega.be/chmn/?c=半)                        |
-| 9   | [帮](https://hanzicraft.com/character/帮) | [巾](https://hanzicraft.com/character/巾) | [9](https://www.omgchinese.com/dictionary/?q=帮)  | [-](https://rtega.be/chmn/?c=帮)                        |
-| 10  | [包](https://hanzicraft.com/character/包) | [勹](https://hanzicraft.com/character/勹) | [5](https://www.omgchinese.com/dictionary/?q=包)  | [-](https://rtega.be/chmn/?c=包)                        |
-| 11  | [杯](https://hanzicraft.com/character/杯) | [木](https://hanzicraft.com/character/木) | [8](https://www.omgchinese.com/dictionary/?q=杯)  | [-](https://rtega.be/chmn/?c=杯)                        |
-| 12  | [北](https://hanzicraft.com/character/北) | [匕](https://hanzicraft.com/character/匕) | [5](https://www.omgchinese.com/dictionary/?q=北)  | [-](https://rtega.be/chmn/?c=北)                        |
-| 13  | [备](https://hanzicraft.com/character/备) | [夂](https://hanzicraft.com/character/夂) | [8](https://www.omgchinese.com/dictionary/?q=备)  | [-](https://rtega.be/chmn/?c=备)                        |
-| 14  | [本](https://hanzicraft.com/character/本) | [木](https://hanzicraft.com/character/木) | [5](https://www.omgchinese.com/dictionary/?q=本)  | [-](https://rtega.be/chmn/?c=本)                        |
-| 15  | [比](https://hanzicraft.com/character/比) | [比](https://hanzicraft.com/character/比) | [4](https://www.omgchinese.com/dictionary/?q=比)  | [-](https://rtega.be/chmn/?c=比)                        |
-| 16  | [边](https://hanzicraft.com/character/边) | [辶](https://hanzicraft.com/character/辶) | [5](https://www.omgchinese.com/dictionary/?q=边)  | [-](https://rtega.be/chmn/?c=边)                        |
-| 17  | [别](https://hanzicraft.com/character/别) | [刂](https://hanzicraft.com/character/刂) | [7](https://www.omgchinese.com/dictionary/?q=别)  | [-](https://rtega.be/chmn/?c=别)                        |
-| 18  | [病](https://hanzicraft.com/character/病) | [疒](https://hanzicraft.com/character/疒) | [10](https://www.omgchinese.com/dictionary/?q=病) | [-](https://rtega.be/chmn/?c=病)                        |
-| 19  | [不](https://hanzicraft.com/character/不) | [一](https://hanzicraft.com/character/一) | [4](https://www.omgchinese.com/dictionary/?q=不)  | [-](https://rtega.be/chmn/?c=不)                        |
-| 20  | [菜](https://hanzicraft.com/character/菜) | [艹](https://hanzicraft.com/character/艹) | [11](https://www.omgchinese.com/dictionary/?q=菜) | [-](https://rtega.be/chmn/?c=菜)                        |
-| 21  | [茶](https://hanzicraft.com/character/茶) | [艹](https://hanzicraft.com/character/艹) | [9](https://www.omgchinese.com/dictionary/?q=茶)  | [-](https://rtega.be/chmn/?c=茶)                        |
-| 22  | [差](https://hanzicraft.com/character/差) | [工](https://hanzicraft.com/character/工) | [9](https://www.omgchinese.com/dictionary/?q=差)  | [-](https://rtega.be/chmn/?c=差)                        |
-| 23  | [常](https://hanzicraft.com/character/常) | [巾](https://hanzicraft.com/character/巾) | [11](https://www.omgchinese.com/dictionary/?q=常) | [-](https://rtega.be/chmn/?c=常)                        |
-| 24  | [场](https://hanzicraft.com/character/场) | [土](https://hanzicraft.com/character/土) | [6](https://www.omgchinese.com/dictionary/?q=场)  | [-](https://rtega.be/chmn/?c=场)                        |
-| 25  | [唱](https://hanzicraft.com/character/唱) | [口](https://hanzicraft.com/character/口) | [11](https://www.omgchinese.com/dictionary/?q=唱) | [-](https://rtega.be/chmn/?c=唱)                        |
-| 26  | [车](https://hanzicraft.com/character/车) | [车](https://hanzicraft.com/character/车) | [4](https://www.omgchinese.com/dictionary/?q=车)  | [-](https://rtega.be/chmn/?c=车)                        |
-| 27  | [吃](https://hanzicraft.com/character/吃) | [口](https://hanzicraft.com/character/口) | [6](https://www.omgchinese.com/dictionary/?q=吃)  | [-](https://rtega.be/chmn/?c=吃)                        |
-| 28  | [出](https://hanzicraft.com/character/出) | [凵](https://hanzicraft.com/character/凵) | [5](https://www.omgchinese.com/dictionary/?q=出)  | [-](https://rtega.be/chmn/?c=出)                        |
-| 29  | [穿](https://hanzicraft.com/character/穿) | [穴](https://hanzicraft.com/character/穴) | [9](https://www.omgchinese.com/dictionary/?q=穿)  | [-](https://rtega.be/chmn/?c=穿)                        |
-| 30  | [床](https://hanzicraft.com/character/床) | [广](https://hanzicraft.com/character/广) | [7](https://www.omgchinese.com/dictionary/?q=床)  | [-](https://rtega.be/chmn/?c=床)                        |
-| 31  | [次](https://hanzicraft.com/character/次) | [欠](https://hanzicraft.com/character/欠) | [6](https://www.omgchinese.com/dictionary/?q=次)  | [-](https://rtega.be/chmn/?c=次)                        |
-| 32  | [从](https://hanzicraft.com/character/从) | [人](https://hanzicraft.com/character/人) | [4](https://www.omgchinese.com/dictionary/?q=从)  | [-](https://rtega.be/chmn/?c=从)                        |
-| 33  | [错](https://hanzicraft.com/character/错) | [钅](https://hanzicraft.com/character/钅) | [13](https://www.omgchinese.com/dictionary/?q=错) | [-](https://rtega.be/chmn/?c=错)                        |
-| 34  | [答](https://hanzicraft.com/character/答) | [竹](https://hanzicraft.com/character/竹) | [12](https://www.omgchinese.com/dictionary/?q=答) | [-](https://rtega.be/chmn/?c=答)                        |
-| 35  | [打](https://hanzicraft.com/character/打) | [扌](https://hanzicraft.com/character/扌) | [5](https://www.omgchinese.com/dictionary/?q=打)  | [-](https://rtega.be/chmn/?c=打)                        |
-| 36  | [大](https://hanzicraft.com/character/大) | [大](https://hanzicraft.com/character/大) | [3](https://www.omgchinese.com/dictionary/?q=大)  | [-](https://rtega.be/chmn/?c=大)                        |
-| 37  | [蛋](https://hanzicraft.com/character/蛋) | [虫](https://hanzicraft.com/character/虫) | [11](https://www.omgchinese.com/dictionary/?q=蛋) | [-](https://rtega.be/chmn/?c=蛋)                        |
-| 38  | [到](https://hanzicraft.com/character/到) | [刂](https://hanzicraft.com/character/刂) | [8](https://www.omgchinese.com/dictionary/?q=到)  | [-](https://rtega.be/chmn/?c=到)                        |
-| 39  | [道](https://hanzicraft.com/character/道) | [辶](https://hanzicraft.com/character/辶) | [12](https://www.omgchinese.com/dictionary/?q=道) | [-](https://rtega.be/chmn/?c=道)                        |
-| 40  | [得](https://hanzicraft.com/character/得) | [彳](https://hanzicraft.com/character/彳) | [11](https://www.omgchinese.com/dictionary/?q=得) | [-](https://rtega.be/chmn/?c=得)                        |
-| 41  | [地](https://hanzicraft.com/character/地) | [土](https://hanzicraft.com/character/土) | [6](https://www.omgchinese.com/dictionary/?q=地)  | [-](https://rtega.be/chmn/?c=地)                        |
-| 42  | [的](https://hanzicraft.com/character/的) | [白](https://hanzicraft.com/character/白) | [8](https://www.omgchinese.com/dictionary/?q=的)  | [-](https://rtega.be/chmn/?c=的)                        |
-| 43  | [等](https://hanzicraft.com/character/等) | [竹](https://hanzicraft.com/character/竹) | [12](https://www.omgchinese.com/dictionary/?q=等) | [-](https://rtega.be/chmn/?c=等)                        |
-| 44  | [弟](https://hanzicraft.com/character/弟) | [弓](https://hanzicraft.com/character/弓) | [7](https://www.omgchinese.com/dictionary/?q=弟)  | [-](https://rtega.be/chmn/?c=弟)                        |
-| 45  | [第](https://hanzicraft.com/character/第) | [竹](https://hanzicraft.com/character/竹) | [11](https://www.omgchinese.com/dictionary/?q=第) | [-](https://rtega.be/chmn/?c=第)                        |
-| 46  | [点](https://hanzicraft.com/character/点) | [灬](https://hanzicraft.com/character/灬) | [9](https://www.omgchinese.com/dictionary/?q=点)  | [-](https://rtega.be/chmn/?c=点)                        |
-| 47  | [电](https://hanzicraft.com/character/电) | [田](https://hanzicraft.com/character/田) | [5](https://www.omgchinese.com/dictionary/?q=电)  | [-](https://rtega.be/chmn/?c=电)                        |
-| 48  | [店](https://hanzicraft.com/character/店) | [广](https://hanzicraft.com/character/广) | [8](https://www.omgchinese.com/dictionary/?q=店)  | [-](https://rtega.be/chmn/?c=店)                        |
-| 49  | [东](https://hanzicraft.com/character/东) | [一](https://hanzicraft.com/character/一) | [5](https://www.omgchinese.com/dictionary/?q=东)  | [-](https://rtega.be/chmn/?c=东)                        |
-| 50  | [动](https://hanzicraft.com/character/动) | [力](https://hanzicraft.com/character/力) | [6](https://www.omgchinese.com/dictionary/?q=动)  | [-](https://rtega.be/chmn/?c=动)                        |
-| 51  | [都](https://hanzicraft.com/character/都) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=都)  | [-](https://rtega.be/chmn/?c=都)                        |
-| 52  | [读](https://hanzicraft.com/character/读) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=读)  | [-](https://rtega.be/chmn/?c=读)                        |
-| 53  | [对](https://hanzicraft.com/character/对) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=对)  | [-](https://rtega.be/chmn/?c=对)                        |
-| 54  | [多](https://hanzicraft.com/character/多) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=多)  | [-](https://rtega.be/chmn/?c=多)                        |
-| 55  | [饿](https://hanzicraft.com/character/饿) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=饿)  | [-](https://rtega.be/chmn/?c=饿)                        |
-| 56  | [儿](https://hanzicraft.com/character/儿) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=儿)  | [-](https://rtega.be/chmn/?c=儿)                        |
-| 57  | [二](https://hanzicraft.com/character/二) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=二)  | [-](https://rtega.be/chmn/?c=二)                        |
-| 58  | [饭](https://hanzicraft.com/character/饭) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=饭)  | [-](https://rtega.be/chmn/?c=饭)                        |
-| 59  | [方](https://hanzicraft.com/character/方) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=方)  | [-](https://rtega.be/chmn/?c=方)                        |
-| 60  | [房](https://hanzicraft.com/character/房) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=房)  | [-](https://rtega.be/chmn/?c=房)                        |
-| 61  | [放](https://hanzicraft.com/character/放) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=放)  | [-](https://rtega.be/chmn/?c=放)                        |
-| 62  | [飞](https://hanzicraft.com/character/飞) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=飞)  | [-](https://rtega.be/chmn/?c=飞)                        |
-| 63  | [非](https://hanzicraft.com/character/非) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=非)  | [-](https://rtega.be/chmn/?c=非)                        |
-| 64  | [分](https://hanzicraft.com/character/分) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=分)  | [-](https://rtega.be/chmn/?c=分)                        |
-| 65  | [风](https://hanzicraft.com/character/风) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=风)  | [-](https://rtega.be/chmn/?c=风)                        |
-| 66  | [服](https://hanzicraft.com/character/服) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=服)  | [-](https://rtega.be/chmn/?c=服)                        |
-| 67  | [干](https://hanzicraft.com/character/干) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=干)  | [-](https://rtega.be/chmn/?c=干)                        |
-| 68  | [高](https://hanzicraft.com/character/高) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=高)  | [-](https://rtega.be/chmn/?c=高)                        |
-| 69  | [告](https://hanzicraft.com/character/告) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=告)  | [-](https://rtega.be/chmn/?c=告)                        |
-| 70  | [哥](https://hanzicraft.com/character/哥) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=哥)  | [-](https://rtega.be/chmn/?c=哥)                        |
-| 71  | [歌](https://hanzicraft.com/character/歌) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=歌)  | [-](https://rtega.be/chmn/?c=歌)                        |
-| 72  | [个](https://hanzicraft.com/character/个) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=个)  | [-](https://rtega.be/chmn/?c=个)                        |
-| 73  | [给](https://hanzicraft.com/character/给) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=给)  | [-](https://rtega.be/chmn/?c=给)                        |
-| 74  | [跟](https://hanzicraft.com/character/跟) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=跟)  | [-](https://rtega.be/chmn/?c=跟)                        |
-| 75  | [工](https://hanzicraft.com/character/工) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=工)  | [-](https://rtega.be/chmn/?c=工)                        |
-| 76  | [关](https://hanzicraft.com/character/关) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=关)  | [-](https://rtega.be/chmn/?c=关)                        |
-| 77  | [馆](https://hanzicraft.com/character/馆) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=馆)  | [-](https://rtega.be/chmn/?c=馆)                        |
-| 78  | [贵](https://hanzicraft.com/character/贵) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=贵)  | [-](https://rtega.be/chmn/?c=贵)                        |
-| 79  | [国](https://hanzicraft.com/character/国) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=国)  | [-](https://rtega.be/chmn/?c=国)                        |
-| 80  | [果](https://hanzicraft.com/character/果) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=果)  | [-](https://rtega.be/chmn/?c=果)                        |
-| 81  | [过](https://hanzicraft.com/character/过) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=过)  | [-](https://rtega.be/chmn/?c=过)                        |
-| 82  | [还](https://hanzicraft.com/character/还) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=还)  | [-](https://rtega.be/chmn/?c=还)                        |
-| 83  | [孩](https://hanzicraft.com/character/孩) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=孩)  | [-](https://rtega.be/chmn/?c=孩)                        |
-| 84  | [汉](https://hanzicraft.com/character/汉) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=汉)  | [-](https://rtega.be/chmn/?c=汉)                        |
-| 85  | [好](https://hanzicraft.com/character/好) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=好)  | [-](https://rtega.be/chmn/?c=好)                        |
-| 86  | [号](https://hanzicraft.com/character/号) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=号)  | [-](https://rtega.be/chmn/?c=号)                        |
-| 87  | [喝](https://hanzicraft.com/character/喝) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=喝)  | [-](https://rtega.be/chmn/?c=喝)                        |
-| 88  | [和](https://hanzicraft.com/character/和) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=和)  | [-](https://rtega.be/chmn/?c=和)                        |
-| 89  | [很](https://hanzicraft.com/character/很) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=很)  | [-](https://rtega.be/chmn/?c=很)                        |
-| 90  | [后](https://hanzicraft.com/character/后) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=后)  | [-](https://rtega.be/chmn/?c=后)                        |
-| 91  | [候](https://hanzicraft.com/character/候) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=候)  | [-](https://rtega.be/chmn/?c=候)                        |
-| 92  | [花](https://hanzicraft.com/character/花) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=花)  | [-](https://rtega.be/chmn/?c=花)                        |
-| 93  | [话](https://hanzicraft.com/character/话) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=话)  | [-](https://rtega.be/chmn/?c=话)                        |
-| 94  | [坏](https://hanzicraft.com/character/坏) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=坏)  | [-](https://rtega.be/chmn/?c=坏)                        |
-| 95  | [欢](https://hanzicraft.com/character/欢) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=欢)  | [-](https://rtega.be/chmn/?c=欢)                        |
-| 96  | [回](https://hanzicraft.com/character/回) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=回)  | [-](https://rtega.be/chmn/?c=回)                        |
-| 97  | [会](https://hanzicraft.com/character/会) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=会)  | [-](https://rtega.be/chmn/?c=会)                        |
-| 98  | [火](https://hanzicraft.com/character/火) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=火)  | [-](https://rtega.be/chmn/?c=火)                        |
-| 99  | [机](https://hanzicraft.com/character/机) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=机)  | [-](https://rtega.be/chmn/?c=机)                        |
-| 100 | [鸡](https://hanzicraft.com/character/鸡) | [-](https://hanzicraft.com/character/)    | [#](https://www.omgchinese.com/dictionary/?q=鸡)  | [-](https://rtega.be/chmn/?c=鸡)                        |
-| 101 | 几                                        |
-| 102 | 记                                        |
-| 103 | 家                                        |
-|     |                                           |
-| 105 | 间                                        |
-| 106 | 见                                        |
-| 107 | 教                                        |
-| 108 | 叫                                        |
-| 109 | 觉                                        |
-| 110 | 姐                                        |
-| 111 | 介                                        |
-| 112 | 今                                        |
-| 113 | 进                                        |
-| 114 | 京                                        |
-| 115 | 净                                        |
-| 116 | 九                                        |
-| 117 | 就                                        |
-| 118 | 开                                        |
-| 119 | 看                                        |
-| 120 | 考                                        |
-| 121 | 渴                                        |
-| 122 | 客                                        |
-| 123 | 课                                        |
-| 124 | 口                                        |
-| 125 | 快                                        |
-| 126 | 快                                        |
-| 127 | 来                                        |
-| 128 | 老                                        |
-| 129 | 了                                        |
-| 130 | 累                                        |
-| 131 | 冷                                        |
-| 132 | 里                                        |
-| 133 | 两                                        |
-| 134 | 零                                        |
-| 135 | 六                                        |
-| 136 | 楼                                        |
-| 137 | 路                                        |
-| 138 | 妈                                        |
-| 139 | 马                                        |
-| 140 | 吗                                        |
-| 141 | 买                                        |
-| 142 | 慢                                        |
-| 143 | 忙                                        |
-| 144 | 毛                                        |
-| 145 | 么                                        |
-| 146 | 没                                        |
-| 147 | 妹                                        |
-| 148 | 门                                        |
-| 149 | 们                                        |
-| 150 | 米                                        |
-| 151 | 面                                        |
-| 152 | 名                                        |
-| 153 | 明                                        |
-| 154 | 拿                                        |
-| 155 | 哪                                        |
-| 156 | 那                                        |
-| 157 | 奶                                        |
-| 158 | 男                                        |
-| 159 | 南                                        |
-| 160 | 难                                        |
-| 161 | 脑                                        |
-| 162 | 呢                                        |
-| 163 | 能                                        |
-| 164 | 你                                        |
-| 165 | 年                                        |
-| 166 | 您                                        |
-| 167 | 牛                                        |
-| 168 | 女                                        |
-| 169 | 旁                                        |
-| 170 | 跑                                        |
-| 171 | 朋                                        |
-| 172 | 票                                        |
-| 173 | 七                                        |
-| 174 | 期                                        |
-| 175 | 起                                        |
-| 176 | 气                                        |
-| 177 | 汽                                        |
-| 178 | 前                                        |
-| 179 | 钱                                        |
-| 180 | 请                                        |
-| 181 | 球                                        |
-| 182 | 去                                        |
-| 183 | 热                                        |
-| 184 | 人                                        |
-| 185 | 认                                        |
-| 186 | 日                                        |
-| 187 | 肉                                        |
-| 188 | 三                                        |
-| 189 | 山                                        |
-| 190 | 商                                        |
-| 191 | 上                                        |
-| 192 | 少                                        |
-| 193 | 绍                                        |
-|     |                                           |
-| 195 | 什                                        |
-| 196 | 生                                        |
-| 197 | 师                                        |
-|     |                                           |
-| 199 | 时                                        |
-| 200 | 识                                        |
-| 201 | 事                                        |
-| 202 | 试                                        |
-| 203 | 视                                        |
-| 204 | 是                                        |
-| 205 | 手                                        |
-|     |                                           |
-|     |                                           |
-| 208 | 谁                                        |
-| 209 | 水                                        |
-|     |                                           |
-|     |                                           |
-| 212 | 四                                        |
-| 213 | 送                                        |
-| 214 | 诉                                        |
-| 215 | 岁                                        |
-| 216 | 他                                        |
-| 217 | 她                                        |
-| 218 | 太                                        |
-| 219 | 体                                        |
-| 220 | 天                                        |
-| 221 | 条                                        |
-| 222 | 听                                        |
-| 223 | 同                                        |
-| 224 | 图                                        |
-| 225 | 外                                        |
-| 226 | 玩                                        |
-| 227 | 晚                                        |
-| 228 | 网                                        |
-| 229 | 忘                                        |
-| 230 | 文                                        |
-| 231 | 问                                        |
-| 232 | 我                                        |
-| 233 | 五                                        |
-| 234 | 午                                        |
-|     |                                           |
-|     |                                           |
-|     |                                           |
-|     |                                           |
-| 239 | 喜                                        |
-| 240 | 系                                        |
-| 241 | 下                                        |
-| 242 | 先                                        |
-| 243 | 现                                        |
-| 244 | 想                                        |
-| 245 | 小                                        |
-| 246 | 校                                        |
-| 247 | 笑                                        |
-| 248 | 些                                        |
-| 249 | 写                                        |
-| 250 | 谢                                        |
-| 251 | 新                                        |
-| 252 | 星                                        |
-| 253 | 行                                        |
-| 254 | 兴                                        |
-| 255 | 休                                        |
-| 256 | 学                                        |
-| 257 | 样                                        |
-| 258 | 要                                        |
-| 259 | 爷                                        |
-| 260 | 也                                        |
-| 261 | 页                                        |
-| 262 | 一                                        |
-| 263 | 衣                                        |
-| 264 | 医                                        |
-| 265 | 影                                        |
-| 266 | 用                                        |
-| 267 | 友                                        |
-| 268 | 有                                        |
-| 269 | 右                                        |
-| 270 | 雨                                        |
-| 271 | 语                                        |
-| 272 | 元                                        |
-| 273 | 远                                        |
-| 274 | 院                                        |
-| 275 | 月                                        |
-| 276 | 再                                        |
-| 277 | 在                                        |
-| 278 | 早                                        |
-| 279 | 怎                                        |
-| 280 | 站                                        |
-| 281 | 找                                        |
-| 282 | 这                                        |
-| 283 | 着                                        |
-| 284 | 真                                        |
-| 285 | 正                                        |
-| 286 | 知                                        |
-| 287 | 中                                        |
-| 288 | 重                                        |
-| 289 | 住                                        |
-| 290 | 准                                        |
-| 291 | 桌                                        |
-| 292 | 子                                        |
-| 293 | 字                                        |
-| 294 | 走                                        |
-| 295 | 最                                        |
-| 296 | 昨                                        |
-| 297 | 左                                        |
-| 298 | 作                                        |
-| 299 | 坐                                        |
-| 300 | 做                                        |
+| No      | 字                                        |                                                ST | Meaning                                                                                 |                                      rad. |
+| ------- | ----------------------------------------- | ------------------------------------------------: | --------------------------------------------------------------------------------------- | ----------------------------------------: |
+| **1**   | [爱](https://hanzicraft.com/character/爱) | [10](https://www.omgchinese.com/dictionary/?q=爱) | [love, be fond of, like](https://rtega.be/chmn/?c=爱)                                   | [宀](https://hanzicraft.com/character/宀) |
+| **2**   | [八](https://hanzicraft.com/character/八) |  [2](https://www.omgchinese.com/dictionary/?q=八) | [eight, all around, all sides ](https://rtega.be/chmn/?c=八)                            | [八](https://hanzicraft.com/character/八) |
+| **3**   | [爸](https://hanzicraft.com/character/爸) |  [8](https://www.omgchinese.com/dictionary/?q=爸) | [father, papa](https://rtega.be/chmn/?c=爸)                                             | [父](https://hanzicraft.com/character/父) |
+| **4**   | [吧](https://hanzicraft.com/character/吧) |  [7](https://www.omgchinese.com/dictionary/?q=吧) | [particle used after an imperative sentence](https://rtega.be/chmn/?c=吧)               | [口](https://hanzicraft.com/character/口) |
+| **5**   | [白](https://hanzicraft.com/character/白) |  [5](https://www.omgchinese.com/dictionary/?q=白) | [white, pure, unblemished, bright, rad. 106](https://rtega.be/chmn/?c=白)               | [白](https://hanzicraft.com/character/白) |
+| **6**   | [百](https://hanzicraft.com/character/百) |  [6](https://www.omgchinese.com/dictionary/?q=百) | [one hundred, numerous, many](https://rtega.be/chmn/?c=百)                              | [白](https://hanzicraft.com/character/白) |
+| **7**   | [班](https://hanzicraft.com/character/班) | [10](https://www.omgchinese.com/dictionary/?q=班) | [class, group, grade, squad, job](https://rtega.be/chmn/?c=班)                          | [王](https://hanzicraft.com/character/王) |
+| **8**   | [半](https://hanzicraft.com/character/半) |  [5](https://www.omgchinese.com/dictionary/?q=半) | [half](https://rtega.be/chmn/?c=半)                                                     | [十](https://hanzicraft.com/character/十) |
+| **9**   | [帮](https://hanzicraft.com/character/帮) |  [9](https://www.omgchinese.com/dictionary/?q=帮) | [to help, assist, to defend, shoe upper](https://rtega.be/chmn/?c=帮)                   | [巾](https://hanzicraft.com/character/巾) |
+| **10**  | [包](https://hanzicraft.com/character/包) |  [5](https://www.omgchinese.com/dictionary/?q=包) | [wrap, pack, bundle, package](https://rtega.be/chmn/?c=包)                              | [勹](https://hanzicraft.com/character/勹) |
+| **11**  | [杯](https://hanzicraft.com/character/杯) |  [8](https://www.omgchinese.com/dictionary/?q=杯) | [cup, glass](https://rtega.be/chmn/?c=杯)                                               | [木](https://hanzicraft.com/character/木) |
+| **12**  | [北](https://hanzicraft.com/character/北) |  [5](https://www.omgchinese.com/dictionary/?q=北) | [north, northern, northward](https://rtega.be/chmn/?c=北)                               | [匕](https://hanzicraft.com/character/匕) |
+| **13**  | [备](https://hanzicraft.com/character/备) |  [8](https://www.omgchinese.com/dictionary/?q=备) | [prepare, ready, perfect](https://rtega.be/chmn/?c=备)                                  | [夂](https://hanzicraft.com/character/夂) |
+| **14**  | [本](https://hanzicraft.com/character/本) |  [5](https://www.omgchinese.com/dictionary/?q=本) | [root, origin, source, basis, book](https://rtega.be/chmn/?c=本)                        | [木](https://hanzicraft.com/character/木) |
+| **15**  | [比](https://hanzicraft.com/character/比) |  [4](https://www.omgchinese.com/dictionary/?q=比) | [to compare, liken, comparison, than](https://rtega.be/chmn/?c=比)                      | [比](https://hanzicraft.com/character/比) |
+| **16**  | [边](https://hanzicraft.com/character/边) |  [5](https://www.omgchinese.com/dictionary/?q=边) | [edge, margin, side, border](https://rtega.be/chmn/?c=边)                               | [辶](https://hanzicraft.com/character/辶) |
+| **17**  | [别](https://hanzicraft.com/character/别) |  [7](https://www.omgchinese.com/dictionary/?q=别) | [separate, other, do not](https://rtega.be/chmn/?c=别)                                  | [刂](https://hanzicraft.com/character/刂) |
+| **18**  | [病](https://hanzicraft.com/character/病) | [10](https://www.omgchinese.com/dictionary/?q=病) | [illness, sickness, disease](https://rtega.be/chmn/?c=病)                               | [疒](https://hanzicraft.com/character/疒) |
+| **19**  | [不](https://hanzicraft.com/character/不) |  [4](https://www.omgchinese.com/dictionary/?q=不) | [no, not; un-; negative prefix](https://rtega.be/chmn/?c=不)                            | [一](https://hanzicraft.com/character/一) |
+| **20**  | [菜](https://hanzicraft.com/character/菜) | [11](https://www.omgchinese.com/dictionary/?q=菜) | [vegetables, dish, order, food](https://rtega.be/chmn/?c=菜)                            | [艹](https://hanzicraft.com/character/艹) |
+| **21**  | [茶](https://hanzicraft.com/character/茶) |  [9](https://www.omgchinese.com/dictionary/?q=茶) | [tea](https://rtega.be/chmn/?c=茶)                                                      | [艹](https://hanzicraft.com/character/艹) |
+| **22**  | [差](https://hanzicraft.com/character/差) |  [9](https://www.omgchinese.com/dictionary/?q=差) | [to differ, different, wrong, nearly, almost, an officer](https://rtega.be/chmn/?c=差)  | [工](https://hanzicraft.com/character/工) |
+| **23**  | [常](https://hanzicraft.com/character/常) | [11](https://www.omgchinese.com/dictionary/?q=常) | [common, normal, frequent, regular, long](https://rtega.be/chmn/?c=常)                  | [巾](https://hanzicraft.com/character/巾) |
+| **24**  | [场](https://hanzicraft.com/character/场) |  [6](https://www.omgchinese.com/dictionary/?q=场) | [open space, field, market](https://rtega.be/chmn/?c=场)                                | [土](https://hanzicraft.com/character/土) |
+| **25**  | [唱](https://hanzicraft.com/character/唱) | [11](https://www.omgchinese.com/dictionary/?q=唱) | [sing, chant, call, ditty, song](https://rtega.be/chmn/?c=唱)                           | [口](https://hanzicraft.com/character/口) |
+| **26**  | [车](https://hanzicraft.com/character/车) |  [4](https://www.omgchinese.com/dictionary/?q=车) | [cart, vehicle, carry in cart, machine](https://rtega.be/chmn/?c=车)                    | [车](https://hanzicraft.com/character/车) |
+| **27**  | [吃](https://hanzicraft.com/character/吃) |  [6](https://www.omgchinese.com/dictionary/?q=吃) | [eat, drink, suffer, endure, bear](https://rtega.be/chmn/?c=吃)                         | [口](https://hanzicraft.com/character/口) |
+| **28**  | [出](https://hanzicraft.com/character/出) |  [5](https://www.omgchinese.com/dictionary/?q=出) | [go out, send out, stand, produce](https://rtega.be/chmn/?c=出)                         | [凵](https://hanzicraft.com/character/凵) |
+| **29**  | [穿](https://hanzicraft.com/character/穿) |  [9](https://www.omgchinese.com/dictionary/?q=穿) | [penetrate, pierce, drill, wear](https://rtega.be/chmn/?c=穿)                           | [穴](https://hanzicraft.com/character/穴) |
+| **30**  | [床](https://hanzicraft.com/character/床) |  [7](https://www.omgchinese.com/dictionary/?q=床) | [bed, couch, framework, chassis](https://rtega.be/chmn/?c=床)                           | [广](https://hanzicraft.com/character/广) |
+| **31**  | [次](https://hanzicraft.com/character/次) |  [6](https://www.omgchinese.com/dictionary/?q=次) | [order, sequence, next](https://rtega.be/chmn/?c=次)                                    | [欠](https://hanzicraft.com/character/欠) |
+| **32**  | [从](https://hanzicraft.com/character/从) |  [4](https://www.omgchinese.com/dictionary/?q=从) | [from, by, accompany, undertake, manage, attend to](https://rtega.be/chmn/?c=从)        | [人](https://hanzicraft.com/character/人) |
+| **33**  | [错](https://hanzicraft.com/character/错) | [13](https://www.omgchinese.com/dictionary/?q=错) | [error, blunder, mistake, wrong, disorderly](https://rtega.be/chmn/?c=错)               | [钅](https://hanzicraft.com/character/钅) |
+| **34**  | [答](https://hanzicraft.com/character/答) | [12](https://www.omgchinese.com/dictionary/?q=答) | [answer, reply, return, assent to](https://rtega.be/chmn/?c=答)                         | [竹](https://hanzicraft.com/character/竹) |
+| **35**  | [打](https://hanzicraft.com/character/打) |  [5](https://www.omgchinese.com/dictionary/?q=打) | [strike, hit, beat, fight, attack](https://rtega.be/chmn/?c=打)                         | [扌](https://hanzicraft.com/character/扌) |
+| **36**  | [大](https://hanzicraft.com/character/大) |  [3](https://www.omgchinese.com/dictionary/?q=大) | [big, great, vast, large, high](https://rtega.be/chmn/?c=大)                            | [大](https://hanzicraft.com/character/大) |
+| **37**  | [蛋](https://hanzicraft.com/character/蛋) | [11](https://www.omgchinese.com/dictionary/?q=蛋) | [eggs, term of abuse](https://rtega.be/chmn/?c=蛋)                                      | [虫](https://hanzicraft.com/character/虫) |
+| **38**  | [到](https://hanzicraft.com/character/到) |  [8](https://www.omgchinese.com/dictionary/?q=到) | [to reach, go to, arrive, been to](https://rtega.be/chmn/?c=到)                         | [刂](https://hanzicraft.com/character/刂) |
+| **39**  | [道](https://hanzicraft.com/character/道) | [12](https://www.omgchinese.com/dictionary/?q=道) | [path, road, street, method, way, skill](https://rtega.be/chmn/?c=道)                   | [辶](https://hanzicraft.com/character/辶) |
+| **40**  | [得](https://hanzicraft.com/character/得) | [11](https://www.omgchinese.com/dictionary/?q=得) | [obtain, get, gain, acquire, can, may, able to](https://rtega.be/chmn/?c=得)            | [彳](https://hanzicraft.com/character/彳) |
+| **41**  | [地](https://hanzicraft.com/character/地) |  [6](https://www.omgchinese.com/dictionary/?q=地) | [earth, soil, ground, region](https://rtega.be/chmn/?c=地)                              | [土](https://hanzicraft.com/character/土) |
+| **42**  | [的](https://hanzicraft.com/character/的) |  [8](https://www.omgchinese.com/dictionary/?q=的) | [possessive, adjectival suffix, mark, target, object](https://rtega.be/chmn/?c=的)      | [白](https://hanzicraft.com/character/白) |
+| **43**  | [等](https://hanzicraft.com/character/等) | [12](https://www.omgchinese.com/dictionary/?q=等) | [rank, grade, wait, equal, 'etc.'](https://rtega.be/chmn/?c=等)                         | [竹](https://hanzicraft.com/character/竹) |
+| **44**  | [弟](https://hanzicraft.com/character/弟) |  [7](https://www.omgchinese.com/dictionary/?q=弟) | [young brother, junior, I, me](https://rtega.be/chmn/?c=弟)                             | [弓](https://hanzicraft.com/character/弓) |
+| **45**  | [第](https://hanzicraft.com/character/第) | [11](https://www.omgchinese.com/dictionary/?q=第) | [sequence, number, grade, degree](https://rtega.be/chmn/?c=第)                          | [竹](https://hanzicraft.com/character/竹) |
+| **46**  | [点](https://hanzicraft.com/character/点) |  [9](https://www.omgchinese.com/dictionary/?q=点) | [dot, speck, spot, point, degree](https://rtega.be/chmn/?c=点)                          | [灬](https://hanzicraft.com/character/灬) |
+| **47**  | [电](https://hanzicraft.com/character/电) |  [5](https://www.omgchinese.com/dictionary/?q=电) | [electricity, electric, lightning](https://rtega.be/chmn/?c=电)                         | [田](https://hanzicraft.com/character/田) |
+| **48**  | [店](https://hanzicraft.com/character/店) |  [8](https://www.omgchinese.com/dictionary/?q=店) | [shop, store, inn, hotel](https://rtega.be/chmn/?c=店)                                  | [广](https://hanzicraft.com/character/广) |
+| **49**  | [东](https://hanzicraft.com/character/东) |  [5](https://www.omgchinese.com/dictionary/?q=东) | [east, eastern, eastward](https://rtega.be/chmn/?c=东)                                  | [一](https://hanzicraft.com/character/一) |
+| **50**  | [动](https://hanzicraft.com/character/动) |  [6](https://www.omgchinese.com/dictionary/?q=动) | [move, happen, movement, action](https://rtega.be/chmn/?c=动)                           | [力](https://hanzicraft.com/character/力) |
+| **51**  | [都](https://hanzicraft.com/character/都) | [10](https://www.omgchinese.com/dictionary/?q=都) | [metropolis, capital, all, the whole, elegant, refined](https://rtega.be/chmn/?c=都)    | [阝](https://hanzicraft.com/character/阝) |
+| **52**  | [读](https://hanzicraft.com/character/读) | [10](https://www.omgchinese.com/dictionary/?q=读) | [read, study, pronounce](https://rtega.be/chmn/?c=读)                                   | [讠](https://hanzicraft.com/character/讠) |
+| **53**  | [对](https://hanzicraft.com/character/对) |  [5](https://www.omgchinese.com/dictionary/?q=对) | [correct, right, facing, opposed](https://rtega.be/chmn/?c=对)                          | [寸](https://hanzicraft.com/character/寸) |
+| **54**  | [多](https://hanzicraft.com/character/多) |  [6](https://www.omgchinese.com/dictionary/?q=多) | [much, many, more than, over](https://rtega.be/chmn/?c=多)                              | [夕](https://hanzicraft.com/character/夕) |
+| **55**  | [饿](https://hanzicraft.com/character/饿) | [10](https://www.omgchinese.com/dictionary/?q=饿) | [hungry, greedy for, hunger](https://rtega.be/chmn/?c=饿)                               | [饣](https://hanzicraft.com/character/饣) |
+| **56**  | [儿](https://hanzicraft.com/character/儿) |  [2](https://www.omgchinese.com/dictionary/?q=儿) | [son, child, oneself, final part, rad. 10](https://rtega.be/chmn/?c=儿)                 | [儿](https://hanzicraft.com/character/儿) |
+| **57**  | [二](https://hanzicraft.com/character/二) |  [2](https://www.omgchinese.com/dictionary/?q=二) | [two, twice](https://rtega.be/chmn/?c=二)                                               | [二](https://hanzicraft.com/character/二) |
+| **58**  | [饭](https://hanzicraft.com/character/饭) |  [7](https://www.omgchinese.com/dictionary/?q=饭) | [cooked rice, food, meal](https://rtega.be/chmn/?c=饭)                                  | [饣](https://hanzicraft.com/character/饣) |
+| **59**  | [方](https://hanzicraft.com/character/方) |  [4](https://www.omgchinese.com/dictionary/?q=方) | [a square, rectangle, a region, local, direction](https://rtega.be/chmn/?c=方)          | [方](https://hanzicraft.com/character/方) |
+| **60**  | [房](https://hanzicraft.com/character/房) |  [8](https://www.omgchinese.com/dictionary/?q=房) | [house, building, room, bunch](https://rtega.be/chmn/?c=房)                             | [户](https://hanzicraft.com/character/户) |
+| **61**  | [放](https://hanzicraft.com/character/放) |  [8](https://www.omgchinese.com/dictionary/?q=放) | [put, release, free, liberate](https://rtega.be/chmn/?c=放)                             | [攵](https://hanzicraft.com/character/攵) |
+| **62**  | [飞](https://hanzicraft.com/character/飞) |  [3](https://www.omgchinese.com/dictionary/?q=飞) | [fly, go quickly, dart, high](https://rtega.be/chmn/?c=飞)                              | [飞](https://hanzicraft.com/character/飞) |
+| **63**  | [非](https://hanzicraft.com/character/非) |  [8](https://www.omgchinese.com/dictionary/?q=非) | [not, negative, non-, oppose](https://rtega.be/chmn/?c=非)                              | [非](https://hanzicraft.com/character/非) |
+| **64**  | [分](https://hanzicraft.com/character/分) |  [4](https://www.omgchinese.com/dictionary/?q=分) | [divide, small unit of time etc.](https://rtega.be/chmn/?c=分)                          | [刀](https://hanzicraft.com/character/刀) |
+| **65**  | [风](https://hanzicraft.com/character/风) |  [4](https://www.omgchinese.com/dictionary/?q=风) | [wind, air, manners, atmosphere](https://rtega.be/chmn/?c=风)                           | [风](https://hanzicraft.com/character/风) |
+| **66**  | [服](https://hanzicraft.com/character/服) |  [8](https://www.omgchinese.com/dictionary/?q=服) | [clothes, wear, dress, taking medicine](https://rtega.be/chmn/?c=服)                    | [月](https://hanzicraft.com/character/月) |
+| **67**  | [干](https://hanzicraft.com/character/干) |  [3](https://www.omgchinese.com/dictionary/?q=干) | [oppose, offend, invade, dried, seeds, work](https://rtega.be/chmn/?c=干)               | [干](https://hanzicraft.com/character/干) |
+| **68**  | [高](https://hanzicraft.com/character/高) | [10](https://www.omgchinese.com/dictionary/?q=高) | [high, tall, lofty, elevated](https://rtega.be/chmn/?c=高)                              | [高](https://hanzicraft.com/character/高) |
+| **69**  | [告](https://hanzicraft.com/character/告) |  [7](https://www.omgchinese.com/dictionary/?q=告) | [tell, announce, inform, accuse](https://rtega.be/chmn/?c=告)                           | [口](https://hanzicraft.com/character/口) |
+| **70**  | [哥](https://hanzicraft.com/character/哥) | [10](https://www.omgchinese.com/dictionary/?q=哥) | [elder brother](https://rtega.be/chmn/?c=哥)                                            | [口](https://hanzicraft.com/character/口) |
+| **71**  | [歌](https://hanzicraft.com/character/歌) | [14](https://www.omgchinese.com/dictionary/?q=歌) | [song, lyrics, sing, chant, praise](https://rtega.be/chmn/?c=歌)                        | [欠](https://hanzicraft.com/character/欠) |
+| **72**  | [个](https://hanzicraft.com/character/个) |  [3](https://www.omgchinese.com/dictionary/?q=个) | [numerary adjunct, piece, single, individual](https://rtega.be/chmn/?c=个)              | [丨](https://hanzicraft.com/character/丨) |
+| **73**  | [给](https://hanzicraft.com/character/给) |  [9](https://www.omgchinese.com/dictionary/?q=给) | [give, by, for, let, salary, wage, gift](https://rtega.be/chmn/?c=给)                   | [纟](https://hanzicraft.com/character/纟) |
+| **74**  | [跟](https://hanzicraft.com/character/跟) | [13](https://www.omgchinese.com/dictionary/?q=跟) | [heel, follow, accompany, with](https://rtega.be/chmn/?c=跟)                            | [足](https://hanzicraft.com/character/足) |
+| **75**  | [工](https://hanzicraft.com/character/工) |  [3](https://www.omgchinese.com/dictionary/?q=工) | [labor, work, worker, laborer](https://rtega.be/chmn/?c=工)                             | [工](https://hanzicraft.com/character/工) |
+| **76**  | [关](https://hanzicraft.com/character/关) |  [6](https://www.omgchinese.com/dictionary/?q=关) | [frontier pass, close, relation](https://rtega.be/chmn/?c=关)                           |                                           |
+| **77**  | [馆](https://hanzicraft.com/character/馆) | [11](https://www.omgchinese.com/dictionary/?q=馆) | [public building](https://rtega.be/chmn/?c=馆)                                          | [饣](https://hanzicraft.com/character/饣) |
+| **78**  | [贵](https://hanzicraft.com/character/贵) |  [9](https://www.omgchinese.com/dictionary/?q=贵) | [expensive, costly, valuable](https://rtega.be/chmn/?c=贵)                              | [贝](https://hanzicraft.com/character/贝) |
+| **79**  | [国](https://hanzicraft.com/character/国) |  [8](https://www.omgchinese.com/dictionary/?q=国) | [nation, country, nation-state](https://rtega.be/chmn/?c=国)                            | [囗](https://hanzicraft.com/character/囗) |
+| **80**  | [果](https://hanzicraft.com/character/果) |  [8](https://www.omgchinese.com/dictionary/?q=果) | [fruit, result](https://rtega.be/chmn/?c=果)                                            | [木](https://hanzicraft.com/character/木) |
+| **81**  | [过](https://hanzicraft.com/character/过) |  [6](https://www.omgchinese.com/dictionary/?q=过) | [pass, pass through, go across, error](https://rtega.be/chmn/?c=过)                     | [辶](https://hanzicraft.com/character/辶) |
+| **82**  | [还](https://hanzicraft.com/character/还) |  [7](https://www.omgchinese.com/dictionary/?q=还) | [return, come back, repay, yet, still](https://rtega.be/chmn/?c=还)                     | [辶](https://hanzicraft.com/character/辶) |
+| **83**  | [孩](https://hanzicraft.com/character/孩) |  [9](https://www.omgchinese.com/dictionary/?q=孩) | [baby, child, children, young, small](https://rtega.be/chmn/?c=孩)                      | [子](https://hanzicraft.com/character/子) |
+| **84**  | [汉](https://hanzicraft.com/character/汉) |  [5](https://www.omgchinese.com/dictionary/?q=汉) | [the Chinese people, Chinese language, Han Chinese](https://rtega.be/chmn/?c=汉)        | [氵](https://hanzicraft.com/character/氵) |
+| **85**  | [好](https://hanzicraft.com/character/好) |  [6](https://www.omgchinese.com/dictionary/?q=好) | [good, excellent, fine, well; love](https://rtega.be/chmn/?c=好)                        | [女](https://hanzicraft.com/character/女) |
+| **86**  | [号](https://hanzicraft.com/character/号) |  [5](https://www.omgchinese.com/dictionary/?q=号) | [mark, sign, symbol, number, howl](https://rtega.be/chmn/?c=号)                         | [口](https://hanzicraft.com/character/口) |
+| **87**  | [喝](https://hanzicraft.com/character/喝) | [12](https://www.omgchinese.com/dictionary/?q=喝) | [drink, shout, call out](https://rtega.be/chmn/?c=喝)                                   | [口](https://hanzicraft.com/character/口) |
+| **88**  | [和](https://hanzicraft.com/character/和) |  [8](https://www.omgchinese.com/dictionary/?q=和) | [harmony, peace, peaceful, calm](https://rtega.be/chmn/?c=和)                           | [口](https://hanzicraft.com/character/口) |
+| **89**  | [很](https://hanzicraft.com/character/很) |  [9](https://www.omgchinese.com/dictionary/?q=很) | [very, quite, much](https://rtega.be/chmn/?c=很)                                        | [彳](https://hanzicraft.com/character/彳) |
+| **90**  | [后](https://hanzicraft.com/character/后) |  [6](https://www.omgchinese.com/dictionary/?q=后) | [behind, rear, after, descendants](https://rtega.be/chmn/?c=后)                         | [口](https://hanzicraft.com/character/口) |
+| **91**  | [候](https://hanzicraft.com/character/候) | [10](https://www.omgchinese.com/dictionary/?q=候) | [wait, expect, visit, greet, period, time, season](https://rtega.be/chmn/?c=候)         | [亻](https://hanzicraft.com/character/亻) |
+| **92**  | [花](https://hanzicraft.com/character/花) |  [7](https://www.omgchinese.com/dictionary/?q=花) | [flower, blossoms, spend](https://rtega.be/chmn/?c=花)                                  | [艹](https://hanzicraft.com/character/艹) |
+| **93**  | [话](https://hanzicraft.com/character/话) |  [8](https://www.omgchinese.com/dictionary/?q=话) | [speech, talk, language, dialect](https://rtega.be/chmn/?c=话)                          | [讠](https://hanzicraft.com/character/讠) |
+| **94**  | [坏](https://hanzicraft.com/character/坏) |  [7](https://www.omgchinese.com/dictionary/?q=坏) | [rotten, spoilt, bad, broken down, bowl](https://rtega.be/chmn/?c=坏)                   | [土](https://hanzicraft.com/character/土) |
+| **95**  | [欢](https://hanzicraft.com/character/欢) |  [6](https://www.omgchinese.com/dictionary/?q=欢) | [happy, pleased, glad, joy, to enjoy](https://rtega.be/chmn/?c=欢)                      | [欠](https://hanzicraft.com/character/欠) |
+| **96**  | [回](https://hanzicraft.com/character/回) |  [6](https://www.omgchinese.com/dictionary/?q=回) | [return, turn around, a time](https://rtega.be/chmn/?c=回)                              | [囗](https://hanzicraft.com/character/囗) |
+| **97**  | [会](https://hanzicraft.com/character/会) |  [6](https://www.omgchinese.com/dictionary/?q=会) | [assemble, meet together, meeting, organization](https://rtega.be/chmn/?c=会)           | [人](https://hanzicraft.com/character/人) |
+| **98**  | [火](https://hanzicraft.com/character/火) |  [4](https://www.omgchinese.com/dictionary/?q=火) | [fire, flame, burn, anger, rage](https://rtega.be/chmn/?c=火)                           | [火](https://hanzicraft.com/character/火) |
+| **99**  | [机](https://hanzicraft.com/character/机) |  [6](https://www.omgchinese.com/dictionary/?q=机) | [desk](https://rtega.be/chmn/?c=机)                                                     | [木](https://hanzicraft.com/character/木) |
+| **100** | [鸡](https://hanzicraft.com/character/鸡) |  [7](https://www.omgchinese.com/dictionary/?q=鸡) | [chicken](https://rtega.be/chmn/?c=鸡)                                                  | [鸟](https://hanzicraft.com/character/鸟) |
+| **101** | [几](https://hanzicraft.com/character/几) |  [2](https://www.omgchinese.com/dictionary/?q=几) | [small table, rad. 16](https://rtega.be/chmn/?c=几)                                     | [几](https://hanzicraft.com/character/几) |
+| **102** | [记](https://hanzicraft.com/character/记) |  [5](https://www.omgchinese.com/dictionary/?q=记) | [record, scribe, keep in mind, remember](https://rtega.be/chmn/?c=记)                   | [讠](https://hanzicraft.com/character/讠) |
+| **103** | [家](https://hanzicraft.com/character/家) | [10](https://www.omgchinese.com/dictionary/?q=家) | [house, home, residence, family, specialist](https://rtega.be/chmn/?c=家)               | [宀](https://hanzicraft.com/character/宀) |
+| **105** | [假](https://hanzicraft.com/character/假) | [11](https://www.omgchinese.com/dictionary/?q=假) | [falsehood, deception, vacation, temporary](https://rtega.be/chmn/?c=假)                | [亻](https://hanzicraft.com/character/亻) |
+| **105** | [间](https://hanzicraft.com/character/间) |  [7](https://www.omgchinese.com/dictionary/?q=间) | [interval, space, place, between](https://rtega.be/chmn/?c=间)                          | [门](https://hanzicraft.com/character/门) |
+| **106** | [见](https://hanzicraft.com/character/见) |  [4](https://www.omgchinese.com/dictionary/?q=见) | [see, observe, behold, perceive](https://rtega.be/chmn/?c=见)                           | [见](https://hanzicraft.com/character/见) |
+| **107** | [教](https://hanzicraft.com/character/教) | [11](https://www.omgchinese.com/dictionary/?q=教) | [teach, class](https://rtega.be/chmn/?c=教)                                             | [攵](https://hanzicraft.com/character/攵) |
+| **108** | [叫](https://hanzicraft.com/character/叫) |  [5](https://www.omgchinese.com/dictionary/?q=叫) | [cry, shout, hail, greet, call](https://rtega.be/chmn/?c=叫)                            | [口](https://hanzicraft.com/character/口) |
+| **109** | [觉](https://hanzicraft.com/character/觉) |  [9](https://www.omgchinese.com/dictionary/?q=觉) | [to wake up from sleep; conscious, nap](https://rtega.be/chmn/?c=觉)                    | [见](https://hanzicraft.com/character/见) |
+| **110** | [姐](https://hanzicraft.com/character/姐) |  [8](https://www.omgchinese.com/dictionary/?q=姐) | [elder sister, young lady](https://rtega.be/chmn/?c=姐)                                 | [女](https://hanzicraft.com/character/女) |
+| **111** | [介](https://hanzicraft.com/character/介) |  [4](https://www.omgchinese.com/dictionary/?q=介) | [lie between, sea shell, wear armour, forerunner, herald](https://rtega.be/chmn/?c=介)  | [人](https://hanzicraft.com/character/人) |
+| **112** | [今](https://hanzicraft.com/character/今) |  [4](https://www.omgchinese.com/dictionary/?q=今) | [now, today, modern era](https://rtega.be/chmn/?c=今)                                   | [人](https://hanzicraft.com/character/人) |
+| **113** | [进](https://hanzicraft.com/character/进) |  [7](https://www.omgchinese.com/dictionary/?q=进) | [advance, make progress, enter](https://rtega.be/chmn/?c=进)                            | [辶](https://hanzicraft.com/character/辶) |
+| **114** | [京](https://hanzicraft.com/character/京) |  [8](https://www.omgchinese.com/dictionary/?q=京) | [capital city](https://rtega.be/chmn/?c=京)                                             | [亠](https://hanzicraft.com/character/亠) |
+| **115** | [净](https://hanzicraft.com/character/净) |  [8](https://www.omgchinese.com/dictionary/?q=净) | [pure, clean, unspoiled](https://rtega.be/chmn/?c=净)                                   | [冫](https://hanzicraft.com/character/冫) |
+| **116** | [九](https://hanzicraft.com/character/九) |  [2](https://www.omgchinese.com/dictionary/?q=九) | [nine](https://rtega.be/chmn/?c=九)                                                     | [丿](https://hanzicraft.com/character/丿) |
+| **117** | [就](https://hanzicraft.com/character/就) | [12](https://www.omgchinese.com/dictionary/?q=就) | [just, simply, to come, go to, to approach, near, assume](https://rtega.be/chmn/?c=就)  | [尢](https://hanzicraft.com/character/尢) |
+| **118** | [开](https://hanzicraft.com/character/开) |  [4](https://www.omgchinese.com/dictionary/?q=开) | [open, initiate, begin, start](https://rtega.be/chmn/?c=开)                             | [廾](https://hanzicraft.com/character/廾) |
+| **119** | [看](https://hanzicraft.com/character/看) |  [9](https://www.omgchinese.com/dictionary/?q=看) | [look, see, examine, scrutinize](https://rtega.be/chmn/?c=看)                           | [目](https://hanzicraft.com/character/目) |
+| **120** | [考](https://hanzicraft.com/character/考) |  [6](https://www.omgchinese.com/dictionary/?q=考) | [examine, test, investigate, consider, think over](https://rtega.be/chmn/?c=考)         |                                           |
+| **121** | [渴](https://hanzicraft.com/character/渴) | [12](https://www.omgchinese.com/dictionary/?q=渴) | [thirsty, parched, yearn, pine](https://rtega.be/chmn/?c=渴)                            | [氵](https://hanzicraft.com/character/氵) |
+| **122** | [客](https://hanzicraft.com/character/客) |  [9](https://www.omgchinese.com/dictionary/?q=客) | [guest, traveller, customer](https://rtega.be/chmn/?c=客)                               | [宀](https://hanzicraft.com/character/宀) |
+| **123** | [课](https://hanzicraft.com/character/课) | [10](https://www.omgchinese.com/dictionary/?q=课) | [lesson, course, classwork](https://rtega.be/chmn/?c=课)                                | [讠](https://hanzicraft.com/character/讠) |
+| **124** | [口](https://hanzicraft.com/character/口) |  [3](https://www.omgchinese.com/dictionary/?q=口) | [mouth, open end, entrance, gate, rad. 30](https://rtega.be/chmn/?c=口)                 | [口](https://hanzicraft.com/character/口) |
+|         |                                           |                                                   |                                                                                         |                                           |
+| **126** | [快](https://hanzicraft.com/character/快) |  [7](https://www.omgchinese.com/dictionary/?q=快) | [rapid, quick, speedy, fast, soon, cheerful](https://rtega.be/chmn/?c=快)               | [忄](https://hanzicraft.com/character/忄) |
+| **127** | [来](https://hanzicraft.com/character/来) |  [7](https://www.omgchinese.com/dictionary/?q=来) | [come, coming, return, returning](https://rtega.be/chmn/?c=来)                          | [木](https://hanzicraft.com/character/木) |
+| **128** | [老](https://hanzicraft.com/character/老) |  [6](https://www.omgchinese.com/dictionary/?q=老) | [old, aged, experienced, rad. 125](https://rtega.be/chmn/?c=老)                         | [老](https://hanzicraft.com/character/老) |
+| **129** | [了](https://hanzicraft.com/character/了) |  [2](https://www.omgchinese.com/dictionary/?q=了) | [finish, particle of completed action](https://rtega.be/chmn/?c=了)                     | [乙](https://hanzicraft.com/character/乙) |
+| **130** | [累](https://hanzicraft.com/character/累) | [11](https://www.omgchinese.com/dictionary/?q=累) | [accumulate, pile up, repeat](https://rtega.be/chmn/?c=累)                              | [糸](https://hanzicraft.com/character/糸) |
+| **131** | [冷](https://hanzicraft.com/character/冷) |  [7](https://www.omgchinese.com/dictionary/?q=冷) | [cold, cool, lonely](https://rtega.be/chmn/?c=冷)                                       | [冫](https://hanzicraft.com/character/冫) |
+| **132** | [里](https://hanzicraft.com/character/里) |  [7](https://www.omgchinese.com/dictionary/?q=里) | [unit of distance, village, lane](https://rtega.be/chmn/?c=里)                          | [里](https://hanzicraft.com/character/里) |
+| **133** | [两](https://hanzicraft.com/character/两) |  [7](https://www.omgchinese.com/dictionary/?q=两) | [two, both, pair, couple, a tael, ounce](https://rtega.be/chmn/?c=两)                   | [一](https://hanzicraft.com/character/一) |
+| **134** | [零](https://hanzicraft.com/character/零) | [13](https://www.omgchinese.com/dictionary/?q=零) | [zero, fragment, fraction](https://rtega.be/chmn/?c=零)                                 | [雨](https://hanzicraft.com/character/雨) |
+| **135** | [六](https://hanzicraft.com/character/六) |  [4](https://www.omgchinese.com/dictionary/?q=六) | [six](https://rtega.be/chmn/?c=六)                                                      | [八](https://hanzicraft.com/character/八) |
+| **136** | [楼](https://hanzicraft.com/character/楼) | [13](https://www.omgchinese.com/dictionary/?q=楼) | [tower, high building](https://rtega.be/chmn/?c=楼)                                     | [木](https://hanzicraft.com/character/木) |
+| **137** | [路](https://hanzicraft.com/character/路) | [13](https://www.omgchinese.com/dictionary/?q=路) | [road, path, street, journey](https://rtega.be/chmn/?c=路)                              | [足](https://hanzicraft.com/character/足) |
+| **138** | [妈](https://hanzicraft.com/character/妈) |  [6](https://www.omgchinese.com/dictionary/?q=妈) | [mother, mama](https://rtega.be/chmn/?c=妈)                                             | [女](https://hanzicraft.com/character/女) |
+| **139** | [马](https://hanzicraft.com/character/马) |  [3](https://www.omgchinese.com/dictionary/?q=马) | [horse, surname, rad. 187](https://rtega.be/chmn/?c=马)                                 | [马](https://hanzicraft.com/character/马) |
+| **140** | [吗](https://hanzicraft.com/character/吗) |  [6](https://www.omgchinese.com/dictionary/?q=吗) | [final interrogative particle](https://rtega.be/chmn/?c=吗)                             | [口](https://hanzicraft.com/character/口) |
+| **141** | [买](https://hanzicraft.com/character/买) |  [6](https://www.omgchinese.com/dictionary/?q=买) | [buy, purchase, bribe, persuade](https://rtega.be/chmn/?c=买)                           | [乙](https://hanzicraft.com/character/乙) |
+| **142** | [慢](https://hanzicraft.com/character/慢) | [14](https://www.omgchinese.com/dictionary/?q=慢) | [slow(ly), leisurely, sluggish](https://rtega.be/chmn/?c=慢)                            | [忄](https://hanzicraft.com/character/忄) |
+| **143** | [忙](https://hanzicraft.com/character/忙) |  [6](https://www.omgchinese.com/dictionary/?q=忙) | [busy, pressed for time, hustling](https://rtega.be/chmn/?c=忙)                         | [忄](https://hanzicraft.com/character/忄) |
+| **144** | [毛](https://hanzicraft.com/character/毛) |  [4](https://www.omgchinese.com/dictionary/?q=毛) | [hair, fur, feathers, coarse](https://rtega.be/chmn/?c=毛)                              | [毛](https://hanzicraft.com/character/毛) |
+| **145** | [么](https://hanzicraft.com/character/么) |  [3](https://www.omgchinese.com/dictionary/?q=么) | [interrogative final particle; insignificant, small, tiny](https://rtega.be/chmn/?c=么) | [丿](https://hanzicraft.com/character/丿) |
+| **146** | [没](https://hanzicraft.com/character/没) |  [7](https://www.omgchinese.com/dictionary/?q=没) | [not, have not, none, drown, sink](https://rtega.be/chmn/?c=没)                         | [氵](https://hanzicraft.com/character/氵) |
+| **147** | [妹](https://hanzicraft.com/character/妹) |  [8](https://www.omgchinese.com/dictionary/?q=妹) | [younger sister](https://rtega.be/chmn/?c=妹)                                           | [女](https://hanzicraft.com/character/女) |
+| **148** | [门](https://hanzicraft.com/character/门) |  [3](https://www.omgchinese.com/dictionary/?q=门) | [gate, door, entrance, opening](https://rtega.be/chmn/?c=门)                            | [门](https://hanzicraft.com/character/门) |
+| **149** | [们](https://hanzicraft.com/character/们) |  [5](https://www.omgchinese.com/dictionary/?q=们) | [adjunct pronoun indicate plural](https://rtega.be/chmn/?c=们)                          | [亻](https://hanzicraft.com/character/亻) |
+| **150** | [米](https://hanzicraft.com/character/米) |  [6](https://www.omgchinese.com/dictionary/?q=米) | [hulled or husked uncooked rice](https://rtega.be/chmn/?c=米)                           | [米](https://hanzicraft.com/character/米) |
+| **151** | [面](https://hanzicraft.com/character/面) |  [#](https://www.omgchinese.com/dictionary/?q=面) | [-](https://rtega.be/chmn/?c=面)                                                        |    [-](https://hanzicraft.com/character/) |
+| **152** | [名](https://hanzicraft.com/character/名) |  [#](https://www.omgchinese.com/dictionary/?q=名) | [-](https://rtega.be/chmn/?c=名)                                                        |    [-](https://hanzicraft.com/character/) |
+| **153** | [明](https://hanzicraft.com/character/明) |  [#](https://www.omgchinese.com/dictionary/?q=明) | [-](https://rtega.be/chmn/?c=明)                                                        |    [-](https://hanzicraft.com/character/) |
+| **154** | [拿](https://hanzicraft.com/character/拿) |  [#](https://www.omgchinese.com/dictionary/?q=拿) | [-](https://rtega.be/chmn/?c=拿)                                                        |    [-](https://hanzicraft.com/character/) |
+| **155** | [哪](https://hanzicraft.com/character/哪) |  [#](https://www.omgchinese.com/dictionary/?q=哪) | [-](https://rtega.be/chmn/?c=哪)                                                        |    [-](https://hanzicraft.com/character/) |
+| **156** | [那](https://hanzicraft.com/character/那) |  [#](https://www.omgchinese.com/dictionary/?q=那) | [-](https://rtega.be/chmn/?c=那)                                                        |    [-](https://hanzicraft.com/character/) |
+| **157** | [奶](https://hanzicraft.com/character/奶) |  [#](https://www.omgchinese.com/dictionary/?q=奶) | [-](https://rtega.be/chmn/?c=奶)                                                        |    [-](https://hanzicraft.com/character/) |
+| **158** | [男](https://hanzicraft.com/character/男) |  [#](https://www.omgchinese.com/dictionary/?q=男) | [-](https://rtega.be/chmn/?c=男)                                                        |    [-](https://hanzicraft.com/character/) |
+| **159** | [南](https://hanzicraft.com/character/南) |  [#](https://www.omgchinese.com/dictionary/?q=南) | [-](https://rtega.be/chmn/?c=南)                                                        |    [-](https://hanzicraft.com/character/) |
+| **160** | [难](https://hanzicraft.com/character/难) |  [#](https://www.omgchinese.com/dictionary/?q=难) | [-](https://rtega.be/chmn/?c=难)                                                        |    [-](https://hanzicraft.com/character/) |
+| **161** | [脑](https://hanzicraft.com/character/脑) |  [#](https://www.omgchinese.com/dictionary/?q=脑) | [-](https://rtega.be/chmn/?c=脑)                                                        |    [-](https://hanzicraft.com/character/) |
+| **162** | [呢](https://hanzicraft.com/character/呢) |  [#](https://www.omgchinese.com/dictionary/?q=呢) | [-](https://rtega.be/chmn/?c=呢)                                                        |    [-](https://hanzicraft.com/character/) |
+| **163** | [能](https://hanzicraft.com/character/能) |  [#](https://www.omgchinese.com/dictionary/?q=能) | [-](https://rtega.be/chmn/?c=能)                                                        |    [-](https://hanzicraft.com/character/) |
+| **164** | [你](https://hanzicraft.com/character/你) |  [#](https://www.omgchinese.com/dictionary/?q=你) | [-](https://rtega.be/chmn/?c=你)                                                        |    [-](https://hanzicraft.com/character/) |
+| **165** | [年](https://hanzicraft.com/character/年) |  [#](https://www.omgchinese.com/dictionary/?q=年) | [-](https://rtega.be/chmn/?c=年)                                                        |    [-](https://hanzicraft.com/character/) |
+| **166** | [您](https://hanzicraft.com/character/您) |  [#](https://www.omgchinese.com/dictionary/?q=您) | [-](https://rtega.be/chmn/?c=您)                                                        |    [-](https://hanzicraft.com/character/) |
+| **167** | [牛](https://hanzicraft.com/character/牛) |  [#](https://www.omgchinese.com/dictionary/?q=牛) | [-](https://rtega.be/chmn/?c=牛)                                                        |    [-](https://hanzicraft.com/character/) |
+| **168** | [女](https://hanzicraft.com/character/女) |  [#](https://www.omgchinese.com/dictionary/?q=女) | [-](https://rtega.be/chmn/?c=女)                                                        |    [-](https://hanzicraft.com/character/) |
+| **169** | [旁](https://hanzicraft.com/character/旁) |  [#](https://www.omgchinese.com/dictionary/?q=旁) | [-](https://rtega.be/chmn/?c=旁)                                                        |    [-](https://hanzicraft.com/character/) |
+| **170** | [跑](https://hanzicraft.com/character/跑) |  [#](https://www.omgchinese.com/dictionary/?q=跑) | [-](https://rtega.be/chmn/?c=跑)                                                        |    [-](https://hanzicraft.com/character/) |
+| **171** | [朋](https://hanzicraft.com/character/朋) |  [#](https://www.omgchinese.com/dictionary/?q=朋) | [-](https://rtega.be/chmn/?c=朋)                                                        |    [-](https://hanzicraft.com/character/) |
+| **172** | [票](https://hanzicraft.com/character/票) |  [#](https://www.omgchinese.com/dictionary/?q=票) | [-](https://rtega.be/chmn/?c=票)                                                        |    [-](https://hanzicraft.com/character/) |
+| **173** | [七](https://hanzicraft.com/character/七) |  [#](https://www.omgchinese.com/dictionary/?q=七) | [-](https://rtega.be/chmn/?c=七)                                                        |    [-](https://hanzicraft.com/character/) |
+| **174** | [期](https://hanzicraft.com/character/期) |  [#](https://www.omgchinese.com/dictionary/?q=期) | [-](https://rtega.be/chmn/?c=期)                                                        |    [-](https://hanzicraft.com/character/) |
+| **175** | [起](https://hanzicraft.com/character/起) |  [#](https://www.omgchinese.com/dictionary/?q=起) | [-](https://rtega.be/chmn/?c=起)                                                        |    [-](https://hanzicraft.com/character/) |
+| **176** | [气](https://hanzicraft.com/character/气) |  [#](https://www.omgchinese.com/dictionary/?q=气) | [-](https://rtega.be/chmn/?c=气)                                                        |    [-](https://hanzicraft.com/character/) |
+| **177** | [汽](https://hanzicraft.com/character/汽) |  [#](https://www.omgchinese.com/dictionary/?q=汽) | [-](https://rtega.be/chmn/?c=汽)                                                        |    [-](https://hanzicraft.com/character/) |
+| **178** | [前](https://hanzicraft.com/character/前) |  [#](https://www.omgchinese.com/dictionary/?q=前) | [-](https://rtega.be/chmn/?c=前)                                                        |    [-](https://hanzicraft.com/character/) |
+| **179** | [钱](https://hanzicraft.com/character/钱) |  [#](https://www.omgchinese.com/dictionary/?q=钱) | [-](https://rtega.be/chmn/?c=钱)                                                        |    [-](https://hanzicraft.com/character/) |
+| **180** | [请](https://hanzicraft.com/character/请) |  [#](https://www.omgchinese.com/dictionary/?q=请) | [-](https://rtega.be/chmn/?c=请)                                                        |    [-](https://hanzicraft.com/character/) |
+| **181** | [球](https://hanzicraft.com/character/球) |  [#](https://www.omgchinese.com/dictionary/?q=球) | [-](https://rtega.be/chmn/?c=球)                                                        |    [-](https://hanzicraft.com/character/) |
+| **182** | [去](https://hanzicraft.com/character/去) |  [#](https://www.omgchinese.com/dictionary/?q=去) | [-](https://rtega.be/chmn/?c=去)                                                        |    [-](https://hanzicraft.com/character/) |
+| **183** | [热](https://hanzicraft.com/character/热) |  [#](https://www.omgchinese.com/dictionary/?q=热) | [-](https://rtega.be/chmn/?c=热)                                                        |    [-](https://hanzicraft.com/character/) |
+| **184** | [人](https://hanzicraft.com/character/人) |  [#](https://www.omgchinese.com/dictionary/?q=人) | [-](https://rtega.be/chmn/?c=人)                                                        |    [-](https://hanzicraft.com/character/) |
+| **185** | [认](https://hanzicraft.com/character/认) |  [#](https://www.omgchinese.com/dictionary/?q=认) | [-](https://rtega.be/chmn/?c=认)                                                        |    [-](https://hanzicraft.com/character/) |
+| **186** | 日                                        |                                                   |                                                                                         |                                           |
+| **187** | 肉                                        |                                                   |                                                                                         |                                           |
+| **188** | 三                                        |                                                   |                                                                                         |                                           |
+| **189** | 山                                        |                                                   |                                                                                         |                                           |
+| **190** | 商                                        |                                                   |                                                                                         |                                           |
+| **191** | 上                                        |                                                   |                                                                                         |                                           |
+| **192** | 少                                        |                                                   |                                                                                         |                                           |
+| **193** | 绍                                        |                                                   |                                                                                         |                                           |
+|         |                                           |                                                   |                                                                                         |                                           |
+| **195** | 什                                        |                                                   |                                                                                         |                                           |
+| **196** | 生                                        |                                                   |                                                                                         |                                           |
+| **197** | 师                                        |                                                   |                                                                                         |                                           |
+|         |                                           |                                                   |                                                                                         |                                           |
+| **199** | 时                                        |                                                   |                                                                                         |                                           |
+| **200** | 识                                        |                                                   |                                                                                         |                                           |
+| **201** | 事                                        |                                                   |                                                                                         |                                           |
+| **202** | 试                                        |                                                   |                                                                                         |                                           |
+| **203** | 视                                        |                                                   |                                                                                         |                                           |
+| **204** | 是                                        |                                                   |                                                                                         |                                           |
+| **205** | 手                                        |                                                   |                                                                                         |                                           |
+|         |                                           |                                                   |                                                                                         |                                           |
+|         |                                           |                                                   |                                                                                         |                                           |
+| **208** | 谁                                        |                                                   |                                                                                         |                                           |
+| **209** | 水                                        |                                                   |                                                                                         |                                           |
+|         |                                           |                                                   |                                                                                         |                                           |
+|         |                                           |                                                   |                                                                                         |                                           |
+| **212** | 四                                        |                                                   |                                                                                         |                                           |
+| **213** | 送                                        |                                                   |                                                                                         |                                           |
+| **214** | 诉                                        |                                                   |                                                                                         |                                           |
+| **215** | 岁                                        |                                                   |                                                                                         |                                           |
+| **216** | 他                                        |                                                   |                                                                                         |                                           |
+| **217** | 她                                        |                                                   |                                                                                         |                                           |
+| **218** | 太                                        |                                                   |                                                                                         |                                           |
+| **219** | 体                                        |                                                   |                                                                                         |                                           |
+| **220** | 天                                        |                                                   |                                                                                         |                                           |
+| **221** | 条                                        |                                                   |                                                                                         |                                           |
+| **222** | 听                                        |                                                   |                                                                                         |                                           |
+| **223** | 同                                        |                                                   |                                                                                         |                                           |
+| **224** | 图                                        |                                                   |                                                                                         |                                           |
+| **225** | 外                                        |                                                   |                                                                                         |                                           |
+| **226** | 玩                                        |                                                   |                                                                                         |                                           |
+| **227** | 晚                                        |                                                   |                                                                                         |                                           |
+| **228** | 网                                        |                                                   |                                                                                         |                                           |
+| **229** | 忘                                        |                                                   |                                                                                         |                                           |
+| **230** | 文                                        |                                                   |                                                                                         |                                           |
+| **231** | 问                                        |                                                   |                                                                                         |                                           |
+| **232** | 我                                        |                                                   |                                                                                         |                                           |
+| **233** | 五                                        |                                                   |                                                                                         |                                           |
+| **234** | 午                                        |                                                   |                                                                                         |                                           |
+|         |                                           |                                                   |                                                                                         |                                           |
+|         |                                           |                                                   |                                                                                         |                                           |
+|         |                                           |                                                   |                                                                                         |                                           |
+|         |                                           |                                                   |                                                                                         |                                           |
+| **239** | 喜                                        |                                                   |                                                                                         |                                           |
+| **240** | 系                                        |                                                   |                                                                                         |                                           |
+| **241** | 下                                        |                                                   |                                                                                         |                                           |
+| **242** | 先                                        |                                                   |                                                                                         |                                           |
+| **243** | 现                                        |                                                   |                                                                                         |                                           |
+| **244** | 想                                        |                                                   |                                                                                         |                                           |
+| **245** | 小                                        |                                                   |                                                                                         |                                           |
+| **246** | 校                                        |                                                   |                                                                                         |                                           |
+| **247** | 笑                                        |                                                   |                                                                                         |                                           |
+| **248** | 些                                        |                                                   |                                                                                         |                                           |
+| **249** | 写                                        |                                                   |                                                                                         |                                           |
+| **250** | 谢                                        |                                                   |                                                                                         |                                           |
+| **251** | 新                                        |                                                   |                                                                                         |                                           |
+| **252** | 星                                        |                                                   |                                                                                         |                                           |
+| **253** | 行                                        |                                                   |                                                                                         |                                           |
+| **254** | 兴                                        |                                                   |                                                                                         |                                           |
+| **255** | 休                                        |                                                   |                                                                                         |                                           |
+| **256** | 学                                        |                                                   |                                                                                         |                                           |
+| **257** | 样                                        |                                                   |                                                                                         |                                           |
+| **258** | 要                                        |                                                   |                                                                                         |                                           |
+| **259** | 爷                                        |                                                   |                                                                                         |                                           |
+| **260** | 也                                        |                                                   |                                                                                         |                                           |
+| **261** | 页                                        |                                                   |                                                                                         |                                           |
+| **262** | 一                                        |                                                   |                                                                                         |                                           |
+| **263** | 衣                                        |                                                   |                                                                                         |                                           |
+| **264** | 医                                        |                                                   |                                                                                         |                                           |
+| **265** | 影                                        |                                                   |                                                                                         |                                           |
+| **266** | 用                                        |                                                   |                                                                                         |                                           |
+| **267** | 友                                        |                                                   |                                                                                         |                                           |
+| **268** | 有                                        |                                                   |                                                                                         |                                           |
+| **269** | 右                                        |                                                   |                                                                                         |                                           |
+| **270** | 雨                                        |                                                   |                                                                                         |                                           |
+| **271** | 语                                        |                                                   |                                                                                         |                                           |
+| **272** | 元                                        |                                                   |                                                                                         |                                           |
+| **273** | 远                                        |                                                   |                                                                                         |                                           |
+| **274** | 院                                        |                                                   |                                                                                         |                                           |
+| **275** | 月                                        |                                                   |                                                                                         |                                           |
+| **276** | 再                                        |                                                   |                                                                                         |                                           |
+| **277** | 在                                        |                                                   |                                                                                         |                                           |
+| **278** | 早                                        |                                                   |                                                                                         |                                           |
+| **279** | 怎                                        |                                                   |                                                                                         |                                           |
+| **280** | 站                                        |                                                   |                                                                                         |                                           |
+| **281** | 找                                        |                                                   |                                                                                         |                                           |
+| **282** | 这                                        |                                                   |                                                                                         |                                           |
+| **283** | 着                                        |                                                   |                                                                                         |                                           |
+| **284** | 真                                        |                                                   |                                                                                         |                                           |
+| **285** | 正                                        |                                                   |                                                                                         |                                           |
+| **286** | 知                                        |                                                   |                                                                                         |                                           |
+| **287** | 中                                        |                                                   |                                                                                         |                                           |
+| **288** | 重                                        |                                                   |                                                                                         |                                           |
+| **289** | 住                                        |                                                   |                                                                                         |                                           |
+| **290** | 准                                        |                                                   |                                                                                         |                                           |
+| **291** | 桌                                        |                                                   |                                                                                         |                                           |
+| **292** | 子                                        |                                                   |                                                                                         |                                           |
+| **293** | 字                                        |                                                   |                                                                                         |                                           |
+| **294** | 走                                        |                                                   |                                                                                         |                                           |
+| **295** | 最                                        |                                                   |                                                                                         |                                           |
+| **296** | 昨                                        |                                                   |                                                                                         |                                           |
+| **297** | 左                                        |                                                   |                                                                                         |                                           |
+| **298** | 作                                        |                                                   |                                                                                         |                                           |
+| **299** | 坐                                        |                                                   |                                                                                         |                                           |
+| **300** | 做                                        |                                                   |                                                                                         |                                           |

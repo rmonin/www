@@ -513,3 +513,30 @@ draft: false
 | 498 | 坐           | zuò                    | sit                                                          |
 | 499 | 坐下         | zuò xià                | sit down                                                     |
 | 500 | 做           | zuò                    | do                                                           |
+
+> **TODO:** Add cols
+>
+> - \#No
+> - \#HSK No
+> - HSK Grp
+> - Simple 简体
+> - Traditional 繁体
+> - Pinyin 拼音
+> - Role (verb, numeral, noun, measure word, adverb, adjective, auxiliary, pronoun, conjunction, preposition) Can be multiple
+> - ~~Radical (can be multiple) ?~~
+> - ~~Strokes ?~~
+> - Translate : En, Fr, Es, Ru
+> - Role/POS (part of speech) detail [github.com/ivankra/hsk30](https://github.com/ivankra/hsk30)
+>   - `N` (名): noun
+>   - `V` (动): verb
+>   - `Adj` (形): adjective; usually `Vs` (state verb, 狀態動詞) in taiwanese linguistical tradition and TOCFL
+>   - `Adv` (副): adverb
+>   - `Pron` (代): pronoun; usually `Det` in TOCFL
+>   - `Num` (数): numeral
+>   - `M` (量): measure word/classifier
+>   - `Prep` (介): preposition
+>   - `Conj` (连): conjunction
+>   - `Aux` (助): auxiliary word/particle; usually `Ptc` in TOCFL
+>   - `Int` (叹): interjection/exclamation/particle, e.g. 喂, 啊, 哎呀
+>   - `Prefix` (前缀), `Suffix` (后缀): prefix/suffix bound forms
+>   - `Phonetic` (拟声): e.g. 哈哈 [hāhā]
