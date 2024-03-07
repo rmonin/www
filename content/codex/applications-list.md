@@ -239,12 +239,14 @@ zeal ?
 
 ## Avoid!
 
-- **~~Brave~~**
+- ~~Brave~~
   - [Stop using brave browser](https://www.spacebar.news/stop-using-brave-browser/)
   - [Brave selling copyrighted data](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
   - [Brave install VPN Services without user consent](https://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/)
-- **~~Edge~~**
+- ~~Edge~~
   - [Stop using Microsoft Edge](https://www.howtogeek.com/888506/stop-using-microsoft-edge/)
+  - ~~Outlook~~
+	  - https://proton.me/blog/outlook-is-microsofts-new-data-collection-service
 - Ubuntu
 - Micosoft
 
