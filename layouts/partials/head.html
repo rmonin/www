@@ -37,9 +37,7 @@
     {{ $author = . }}
   {{ end }}
 {{ end -}}
-{{- $style :=
-  resources.Get "css/style.css"
--}}
+{{- $style := resources.Get "css/style.css" | fingerprint "md5" -}}
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />

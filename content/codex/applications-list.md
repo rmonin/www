@@ -215,21 +215,17 @@ zeal ?
 
 ## Cloud Services
 
-| Type             | Model    | Service                                            |
-| ---------------- | -------- | -------------------------------------------------- |
-| Drive            | Cozy     | [cozy.geigi.de](https://cozy.geigi.de/)            |
-| Audio editors    | Audacity | [audacityteam.org](https://www.audacityteam.org/)  |
-| Audio tag editor | Beets    | [beets.io](https://beets.io/)                      |
-
-- OneDrive
-- Gdrive
-- Dropbox
-- ProtonDrive
-- [gist.github.com](https://gist.github.com/)
-- https://miro.com/fr/
-- Tiny Tiny RSS | [tt-rss.org](https://tt-rss.org/)
-- Minio
-- Wallabag
+| Type  | Model | Service                                      |
+| ----- | ----- | -------------------------------------------- | --------------------------------- |
+| Drive |       | Microsoft OneDrive                           |
+| Drive |       | Gdrive                                       |
+| Drive |       | ProtonDrive                                  |
+|       |       |  [gist.github.com](https://gist.github.com/) |
+|       |       | https://miro.com/fr/                         |
+|       |       | Tiny Tiny RSS                                | [tt-rss.org](https://tt-rss.org/) |
+|       |       | Minio                                        |
+|       |       | Wallabag                                     |
+|       |       | Dropbox                                      |
 
 ## OS & Distrib
 
@@ -239,19 +235,28 @@ zeal ?
 
 ## Avoid!
 
+### Applications
+
 - ~~Brave~~
   - [Stop using brave browser](https://www.spacebar.news/stop-using-brave-browser/)
   - [Brave selling copyrighted data](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
   - [Brave install VPN Services without user consent](https://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/)
 - ~~Edge~~
   - [Stop using Microsoft Edge](https://www.howtogeek.com/888506/stop-using-microsoft-edge/)
-  - ~~Outlook~~
-	  - https://proton.me/blog/outlook-is-microsofts-new-data-collection-service
-- Ubuntu
+- ~~Keybase~~
+  - [Zoom has ties to China](https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/)
+- ~~Outlook~~
+  - https://proton.me/blog/outlook-is-microsofts-new-data-collection-service
+
+### OS / Distrib
+
 - Micosoft
+- Ubuntu
+  - https://www.zdnet.com/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/#google_vignette
 
 ## Resources
 
 - [RHEL 9.0 Package list](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/package_manifest/repositories)
+- [APT Browse](https://www.apt-browse.org) (A package explorer for Debian and Ubuntu)
 - [ArchWiki - List app](https://wiki.archlinux.org/title/List_of_applications)
 - https://free-for.dev/
