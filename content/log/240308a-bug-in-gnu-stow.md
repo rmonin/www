@@ -62,9 +62,9 @@ Before doing this I wanted to check if it's not already reported and not mention
 
  Found some links:
  - [git repo](https://git.savannah.gnu.org/git/stow.git)
- - https://lists.gnu.org/mailman/listinfo/bug-stow
- - https://savannah.gnu.org/bugs/?group=stow
- - [mirror repo](https://github.com/aspiers/stow)
+- https://lists.gnu.org/mailman/listinfo/bug-stow
+- https://savannah.gnu.org/bugs/?group=stow
+- [mirror repo](https://github.com/aspiers/stow)
 - [main issue](https://github.com/aspiers/stow/issues/33) talking about exact same trouble
 
 ### Check source code
