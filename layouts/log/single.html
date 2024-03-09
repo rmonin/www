@@ -1,6 +1,6 @@
 {{ define "main" }}
   <header class="text-2xl font-extrabold">{{ .Title }}</header>
-  <aside class="font-bol mb-1 font-mono text-xs tracking-wide text-neutral-400">
+  <aside class="font-bol mb-1 font-mono text-xs tracking-wide text-neutral-500">
     <time class="uppercase">{{ .Date | time.Format "2006-01-02" }}</time>
     {{ with .Params.Category }}
       · <span class="uppercase">{{ . }}</span>

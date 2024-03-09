@@ -3,7 +3,7 @@
     <h1 class="mb-2 text-4xl font-extrabold">
       {{ .Data.Term }} ({{ .Data.Singular }})
     </h1>
-    <p class="text-thin text-neutral-400">
+    <p class="text-thin text-neutral-500">
       <a
         href="{{ .Parent.Permalink }}"
         class="linear transition duration-200 hover:text-neutral-900"
@@ -25,7 +25,7 @@
               class="block-inline group flex items-center gap-2 leading-tight"
             >
               <time
-                class="linear whitespace-nowrap font-mono text-xs tracking-wide text-neutral-400 transition duration-200 group-hover:text-neutral-900"
+                class="linear whitespace-nowrap font-mono text-xs tracking-wide text-neutral-500 transition duration-200 group-hover:text-neutral-900"
               >
                 {{ .Date | time.Format "01-02" }}
               </time>
@@ -39,7 +39,7 @@
         {{ range where $dataPages.ByDate.Reverse "Section" "articles" }}
           <li>
             <aside
-              class="font-bol mb-1 font-mono text-xs tracking-wide text-neutral-400"
+              class="font-bol mb-1 font-mono text-xs tracking-wide text-neutral-500"
             >
               <time class="uppercase"
                 >{{ .Date | time.Format ":date_long" }}</time
@@ -48,7 +48,7 @@
             </aside>
             <a
               href="{{ .RelPermalink }}"
-              class="linear before:linear transition duration-200 before:pr-2 before:text-xl before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-neutral-900"
+              class="linear before:linear transition duration-200 before:pr-2 before:text-xl before:font-extrabold before:text-neutral-500 before:transition before:content-['›'] hover:before:text-neutral-900"
               >{{ .Title }}</a
             >
           </li>
@@ -60,7 +60,7 @@
           <li>
             <a
               href="{{ .RelPermalink }}"
-              class="linear before:linear transition duration-200 before:pr-2 before:text-xl before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-neutral-900"
+              class="linear before:linear transition duration-200 before:pr-2 before:text-xl before:font-extrabold before:text-neutral-500 before:transition before:content-['›'] hover:before:text-neutral-900"
               >{{ .Title }}</a
             >
           </li>

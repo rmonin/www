@@ -2,7 +2,7 @@
   <h1 class="mb-8 text-center text-4xl font-extrabold">{{ .Title }}</h1>
   {{ range .Pages.ByDate.Reverse }}
     <article class="mb-10 mt-12">
-      <aside class="font-bol font-mono text-xs tracking-wide text-neutral-400">
+      <aside class="font-bol font-mono text-xs tracking-wide text-neutral-500">
         <time class="uppercase">{{ .Date | time.Format ":date_long" }}</time>
         · <time>{{ .ReadingTime }} min</time>
         {{ with .GetTerms "tags" }}
@@ -25,7 +25,7 @@
       <h2 class="text-lg font-bold">
         <a
           href="{{ .RelPermalink }}"
-          class="linear before:linear transition duration-200 before:pr-2 before:text-xl before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-neutral-900"
+          class="linear before:linear transition duration-200 before:pr-2 before:text-xl before:font-extrabold before:text-neutral-500 before:transition before:content-['›'] hover:before:text-neutral-900"
           >{{ .Title }}</a
         >
       </h2>

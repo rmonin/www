@@ -1,4 +1,4 @@
-<nav class="space-x-4 font-semibold uppercase tracking-widest text-neutral-400">
+<nav class="space-x-4 font-semibold uppercase tracking-widest text-neutral-500">
   {{- $current := . }}
   {{- range .Site.Menus.main }}
     {{- $active := or
@@ -12,6 +12,7 @@
       $current.RelPermalink)
     }}
     <a
+    {{ if .Pre }}aria-label="{{.Name}}" {{ end }}
       {{ if
         not
         $active
