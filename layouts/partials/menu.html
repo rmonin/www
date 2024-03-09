@@ -12,14 +12,14 @@
       $current.RelPermalink)
     }}
     <a
-    {{ if .Pre }}aria-label="{{.Name}}" {{ end }}
+      {{ if .Pre }}aria-label="{{ .Name }}"{{ end }}
       {{ if
         not
         $active
       }}
-        class="linear transition duration-200 hover:text-neutral-900"
+        class="linear transition duration-200 hover:text-pink-600"
       {{ else }}
-        class="text-neutral-900"
+        class="text-pink-600"
       {{ end }}
       href="{{ .URL }}"
     >
