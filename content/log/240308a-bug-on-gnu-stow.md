@@ -1,8 +1,8 @@
 ---
-title: Bug on GNU Stow
+title: Bug on GNU Stow 1/2
 date: 2024-03-08
 lastmod: 2024-03-08
-description: 
+description:
 tags:
   - stow
   - bug
@@ -34,7 +34,7 @@ $ man stow | grep dotfiles -A 10
            name by a period (.). This is useful when Stow is used to manage
            collections of dotfiles, to avoid having a package directory full
            of hidden files.
-  
+
            For example, suppose we have a package containing two files,
            stow/dot-bashrc and stow/dot-emacs.d/init.el. With this option,
            Stow will create symlinks from .bashrc to stow/dot-bashrc and from
@@ -60,8 +60,9 @@ Before doing this I wanted to check if it's not already reported and not mention
 
 ### Report investigation
 
- Found some links:
+Found some links:
  - [git repo](https://git.savannah.gnu.org/git/stow.git)
+
 - https://lists.gnu.org/mailman/listinfo/bug-stow
 - https://savannah.gnu.org/bugs/?group=stow
 - [mirror repo](https://github.com/aspiers/stow)
@@ -90,7 +91,7 @@ $ grep -rl "dot" .
 
 ```
 $ grep "dot" NEWS -B 5 -A 5
-  
+
 * Changes in version 2.3.0
 
 *** New features / changes in behaviour
@@ -206,7 +207,7 @@ is(
 # "$DOT_PREFIX." should not have that part expanded.
 #
 
-$stow = new_Stow(dir => '../stow', dotfiles => 1); 
+$stow = new_Stow(dir => '../stow', dotfiles => 1);
 
 make_path('../stow/dotfiles');
 make_file('../stow/dotfiles/dot-');
@@ -231,7 +232,7 @@ is(
 # simple unstow scenario
 #
 
-$stow = new_Stow(dir => '../stow', dotfiles => 1); 
+$stow = new_Stow(dir => '../stow', dotfiles => 1);
 
 make_path('../stow/dotfiles');
 make_file('../stow/dotfiles/dot-bar');
@@ -246,7 +247,11 @@ ok(
 );
 ```
 
-It seems --dotfiles was added on `2.3.0` and test files are only testing without other parameters combined with `--dotfiles` 
+It seems --dotfiles was added on `2.3.0` and test files are only testing without other parameters combined with `--dotfiles`
+
+## PR was done but closed
+
+https://github.com/aspiers/stow/pull/63
 
 ## Next ?
 
@@ -258,4 +263,3 @@ So much questions in my mind
 - Why people are so rude ([1](https://github.com/aspiers/stow/issues/33#issuecomment-1804889524), [2](https://github.com/aspiers/stow/issues/33#issuecomment-1902276202), and more...) in comments against [volunteers](https://github.com/aspiers/stow/issues/33#issuecomment-1431786737) and do not use this energy on positive matter
 - May I check how to fix and submit
 - Is there already a fix not yet packaged ?
-
