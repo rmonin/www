@@ -1,5 +1,5 @@
 ---
-title: Mandarin
+title: Chinese
 date: 2024-03-06
 lastmod: 2024-03-07
 description:
@@ -18,27 +18,27 @@ draft: false
 
 ### Vocabulary Overview
 
-| Level            | Band    |                          HSK&nbsp;3.0 |                                            HSK&nbsp;2.0 |
-| ---------------- | ------- | ------------------------------------: | ------------------------------------------------------: |
-| **Elementary**   | 1       | [500](/codex/hsk30-band-1-vocabulary) |  [150](https://mandarinbean.com/hsk-1-vocabulary-list/) |
-|                  | 2       |                                  1272 |  [300](https://mandarinbean.com/hsk-2-vocabulary-list/) |
-|                  | 3       |                                  2245 |  [600](https://mandarinbean.com/hsk-3-vocabulary-list/) |
-| **Intermediate** | 4       |                                  3245 | [1200](https://mandarinbean.com/hsk-4-vocabulary-list/) |
-|                  | 5       |                                  4316 | [2500](https://mandarinbean.com/hsk-5-vocabulary-list/) |
-|                  | 6       |                                  5456 | [5000](https://mandarinbean.com/hsk-6-vocabulary-list/) |
-| **Advanced**     | 7, 8, 9 |                                 11092 |                                                         |
+| Level            | Band    |                              HSK&nbsp;3.0 |                                            HSK&nbsp;2.0 |
+| ---------------- | ------- | ----------------------------------------: | ------------------------------------------------------: |
+| **Elementary**   | 1       | [500](chinese-hsk30-band-1-vocabulary.md) |  [150](https://mandarinbean.com/hsk-1-vocabulary-list/) |
+|                  | 2       |                                      1272 |  [300](https://mandarinbean.com/hsk-2-vocabulary-list/) |
+|                  | 3       |                                      2245 |  [600](https://mandarinbean.com/hsk-3-vocabulary-list/) |
+| **Intermediate** | 4       |                                      3245 | [1200](https://mandarinbean.com/hsk-4-vocabulary-list/) |
+|                  | 5       |                                      4316 | [2500](https://mandarinbean.com/hsk-5-vocabulary-list/) |
+|                  | 6       |                                      5456 | [5000](https://mandarinbean.com/hsk-6-vocabulary-list/) |
+| **Advanced**     | 7, 8, 9 |                                     11092 |                                                         |
 
 ### Quantitative Criteria for the new HSK 3.0
 
-| Stage            | Band    |  Syllable |                            Character |                            Vocabulary |  Grammar |
-| ---------------- | ------- | --------: | -----------------------------------: | ------------------------------------: | -------: |
-| **Elementary**   | 1       |       269 | [300](codex/hsk30-band-1-characters) | [500](/codex/hsk30-band-1-vocabulary) |       48 |
-|                  | 2       |  +199/468 |                             +300/600 |                             +772/1272 |  +81/129 |
-|                  | 3       |  +140/608 |                             +300/900 |                             +973/2245 |  +81/210 |
-| **Intermediate** | 4       |  +116/724 |                            +300/1200 |                            +1000/3245 |  +76/286 |
-|                  | 5       |   +98/822 |                           +300/ 1500 |                            +1071/4316 |  +71/357 |
-|                  | 6       |   +86/908 |                           +300/ 1800 |                            +1140/5456 |  +67/424 |
-| **Advanced**     | 7, 8, 9 | +202/1110 |                           +1200/3000 |                           +5636/11092 | +148/572 |
+| Stage            | Band    |  Syllable |                                 Character |                                Vocabulary |  Grammar |
+| ---------------- | ------- | --------: | ----------------------------------------: | ----------------------------------------: | -------: |
+| **Elementary**   | 1       |       269 | [300](chinese-hsk30-band-1-characters.md) | [500](chinese-hsk30-band-1-vocabulary.md) |       48 |
+|                  | 2       |  +199/468 |                                  +300/600 |                                 +772/1272 |  +81/129 |
+|                  | 3       |  +140/608 |                                  +300/900 |                                 +973/2245 |  +81/210 |
+| **Intermediate** | 4       |  +116/724 |                                 +300/1200 |                                +1000/3245 |  +76/286 |
+|                  | 5       |   +98/822 |                                +300/ 1500 |                                +1071/4316 |  +71/357 |
+|                  | 6       |   +86/908 |                                +300/ 1800 |                                +1140/5456 |  +67/424 |
+| **Advanced**     | 7, 8, 9 | +202/1110 |                                +1200/3000 |                               +5636/11092 | +148/572 |
 
 #### Syllabe Criteria
 

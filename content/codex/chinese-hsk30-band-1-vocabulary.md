@@ -1,5 +1,5 @@
 ---
-title: HSK 3.0 Band 1 - Vocabulary
+title: Chinese HSK 3.0 Band 1 - Vocabulary
 date: 2024-03-06
 lastmod: 2024-03-06
 description:

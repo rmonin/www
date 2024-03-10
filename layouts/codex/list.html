@@ -4,13 +4,7 @@
     <h2 class="mb-6 mt-12 text-2xl font-bold">{{ .Key }}</h2>
     <ul>
       {{ range .Pages.ByTitle }}
-        <li>
-          <a
-            href="{{ .RelPermalink }}"
-            class="linear before:linear transition duration-200 before:pr-1 before:text-xl before:font-semibold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-pink-600"
-            >{{ .Title }}
-          </a>
-        </li>
+        {{ partial "page-list-item.html" . }}
       {{ end }}
     </ul>
   {{ end }}
