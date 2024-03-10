@@ -1,7 +1,6 @@
 {{ define "main" }}
-  <h1 class="mb-8 text-center font-mono text-4xl font-extrabold">
-    {{ lower .Title }}
-  </h1>
+  {{- $title := lower .Title -}}
+  {{ partial "title.html" $title }}
   <h2 class="mb-6 mt-12 text-2xl font-bold">Alphabetical</h2>
   <ul class="font-sm flex flex-wrap gap-4 font-mono text-neutral-400">
     {{ range .Data.Terms.Alphabetical }}

@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <h1 class="mb-8 text-center text-4xl font-extrabold">{{ .Title }}</h1>
+  {{ partial "title.html" .Title }}
   <ul class="mb-4 space-y-2">
     {{ range .Pages }}
       <li>

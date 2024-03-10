@@ -1,9 +1,8 @@
 {{ define "main" }}
-  <hgroup class="mb-8 text-center font-mono">
-    <h1 class="mb-2 text-4xl font-extrabold">
-      {{ .Data.Term }} ({{ .Data.Singular }})
-    </h1>
-    <p class="text-thin text-neutral-400">
+  {{- $title := printf "%s" ")" | printf "%s%s" .Data.Singular | printf "%s%s" " (" | printf "%s%s" .Data.Term | printf "%s" -}}
+  <hgroup class="mb-8 font-mono">
+    {{ partial "title.html" $title }}
+    <p class="text-thin -mt-6 text-center text-neutral-400">
       <a
         href="{{ .Parent.Permalink }}"
         class="linear transition duration-200 hover:text-pink-600"

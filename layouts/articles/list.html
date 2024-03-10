@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <h1 class="mb-8 text-center text-4xl font-extrabold">{{ .Title }}</h1>
+  {{ partial "title.html" .Title }}
   {{ range .Pages.ByDate.Reverse }}
     <article class="mb-10 mt-12">
       <aside class="font-bol font-mono text-xs tracking-wide text-neutral-400">
