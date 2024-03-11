@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css && hugo -D",
     "build:prod:css": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css --minify",
-    "watch": "hugo server -D --disableFastRender",
+    "watch": "hugo server -D --minify --disableFastRender",
     "watch:css": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css --watch",
     "prettier": "npx prettier . --write"
   },

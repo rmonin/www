@@ -6,11 +6,11 @@
       · <span class="uppercase">{{ . }}</span>
     {{ end }}
     {{ with .GetTerms "tags" }}
-      <ul class="inline space-x-2">
+      <ul class="ml-2 inline space-x-2">
         {{ range . }}
           <li class="inline">
             <a
-              class="linear transition duration-200 hover:text-pink-600"
+              class="transition duration-200 ease-linear hover:text-pink-600"
               href="{{ .RelPermalink }}"
             >
               {{ lower .LinkTitle }}

@@ -64,27 +64,29 @@ _Grammar_ refers to the set of rules that govern the way words and phrases are p
 
 ## Five major styles of Chinese calligraphy
 
-### 1.Seal Script (篆書, zhuànshū)
+[Wikipedia](https://en.wikipedia.org/wiki/Chinese_script_styles)
 
-![seal-script](/files/chinese/seal-script.png)
+### 1. Seal Script (篆書, zhuànshū)
+
+![seal-script](/files/chinese/seal_script.svg)
 
 **From** Zhou Dynasty (周朝）
 
 Adopted as the final script for all of China during the Qin dynasty. It was widely used for decorating and engraving purposes during the Han Dynasty. It belongs to the Bronze Age of China and in logographic in nature. It still comprises of historical, cultural and artistic values and significance. Efforts are being invested to encode it in Unicode through computer coding in order to ensure its survival.
 
-### 2.Clerical Script (隸書, lìshū)
+### 2. Clerical Script (隸書, lìshū)
 
-![clerical-script](/files/chinese/clerical-script.png)
+![clerical-script](/files/chinese/clerical_script.svg)
 
 > **From** Qin Dynasty (秦朝）
 
 The clerical script is an archaic style of Chinese calligraphy which evolved from the Warring States period to the Qin dynasty, was a dominant script in the Han dynasty, and remained in use through the Wei-Jin periods.
 
-Due to its high legibility to modern readers, it is still used for artistic flavour in a variety of functional applications such as headlines, signboards, and advertisements. This legibility stems from the highly rectilinear structure, a feature shared with modern regular script. In structure and rectilinearity, it is generally similar to the modern script; however, in contrast with the tall to square modern script, it tends to be square to wide, and often has a pronounced, wavelike flaring of isolated major strokes, especially a dominant rightward or downward diagonal stroke.
+Due to its high legibility to modern readers, it is still used for artistic flavour in a variety of functional applications such as headlines, signboards, and advertisements. This legibility stems from the highly rectiease-linear structure, a feature shared with modern regular script. In structure and rectiease-linearity, it is generally similar to the modern script; however, in contrast with the tall to square modern script, it tends to be square to wide, and often has a pronounced, wavelike flaring of isolated major strokes, especially a dominant rightward or downward diagonal stroke.
 
-### 3.Regular script (楷書, kǎishū)
+### 3. Regular script (楷書, kǎishū)
 
-![regular-script](/files/chinese/regular-script.png)
+![regular-script](/files/chinese/regular_script.svg)
 
 > **From** Eastern Han Dynasty (東漢）_151-230 CE_
 
@@ -92,17 +94,17 @@ Regular script is also known as “uniform script” and “real script”, refe
 
 This script has remained in use until now and is the fundamental skill people must learn well in their study of calligraphy.
 
-### 4.Cursive Script (草書, cǎoshū)
+### 4. Cursive Script (草書, cǎoshū)
 
-![cursive-script](/files/chinese/cursive-script.png)
+![cursive-script](/files/chinese/cursive_script.svg)
 
 > **From** Eastern Han Dynasty (東漢）
 
 Faster to write than other styles, but difficult to read for those unfamiliar with it. It functions primarily as a kind of shorthand script or calligraphic style. People who can read standard or printed forms of Chinese may not be able to comprehend this script.
 
-### 5.Running Script (行書, xíngshū)
+### 5. Running Script (行書, xíngshū)
 
-![running-script](/files/chinese/running-script.png)
+![running-script](/files/chinese/running_script.svg)
 
 > **From** Eastern Han Dynasty (東漢）
 

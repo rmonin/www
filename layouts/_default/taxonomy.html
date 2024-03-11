@@ -5,7 +5,7 @@
     <p class="text-thin -mt-6 text-center text-neutral-400">
       <a
         href="{{ .Parent.Permalink }}"
-        class="linear transition duration-200 hover:text-pink-600"
+        class="transition duration-200 ease-linear hover:text-pink-600"
       >
         see all
         {{ .Data.Plural }}
@@ -24,7 +24,7 @@
               class="block-inline group flex items-center gap-2 leading-tight"
             >
               <time
-                class="linear group-hover:pink-600 whitespace-nowrap font-mono text-xs tracking-wide text-neutral-400 transition duration-200"
+                class="group-hover:pink-600 whitespace-nowrap font-mono text-xs tracking-wide text-neutral-400 transition duration-200 ease-linear"
               >
                 {{ .Date | time.Format "01-02" }}
               </time>
@@ -47,7 +47,7 @@
             </aside>
             <a
               href="{{ .RelPermalink }}"
-              class="linear before:linear transition duration-200 before:pr-2 before:text-xl before:font-extrabold before:text-neutral-400 before:transition before:content-['›'] hover:before:text-pink-600"
+              class="transition duration-200 ease-linear before:pr-2 before:text-xl before:font-extrabold before:text-neutral-400 before:transition before:ease-linear before:content-['›'] hover:before:text-pink-600"
               >{{ .Title }}</a
             >
           </li>
@@ -59,7 +59,7 @@
           <li>
             <a
               href="{{ .RelPermalink }}"
-              class="linear before:linear hover:before:pink-600 transition duration-200 before:pr-2 before:text-xl before:font-extrabold before:text-neutral-400 before:transition before:content-['›']"
+              class="hover:before:pink-600 transition duration-200 ease-linear before:pr-2 before:text-xl before:font-extrabold before:text-neutral-400 before:transition before:ease-linear before:content-['›']"
               >{{ .Title }}</a
             >
           </li>

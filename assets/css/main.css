@@ -3,7 +3,8 @@
 @tailwind utilities;
 
 #TableOfContents {
-  @apply prose prose-neutral border-t py-4;
-  @apply prose-a:font-light;
-  @apply prose-ul:my-0 prose-ul:list-none prose-li:my-0;
+  @apply prose border-t py-4;
+  @apply prose-ul:my-0 prose-ul:list-none prose-ul:pl-2;
+  @apply prose-li:my-0;
+  @apply prose-a:font-semibold prose-a:text-neutral-400 prose-a:no-underline prose-a:transition  prose-a:duration-200 prose-a:ease-linear hover:prose-a:text-pink-600;
 }

@@ -5,11 +5,11 @@
       <time class="uppercase">Update {{ . | time.Format "2006-01-02" }}</time>
     {{ end }}
     {{ with .GetTerms "tags" }}
-      <ul class="inline space-x-1">
+      <ul class="ml-2 inline space-x-2">
         {{ range . }}
           <li class="inline">
             <a
-              class="linear transition duration-200 hover:text-pink-600"
+              class="transition duration-200 ease-linear hover:text-pink-600"
               href="{{ .RelPermalink }}"
             >
               {{ lower .LinkTitle }}
