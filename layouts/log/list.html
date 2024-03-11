@@ -1,22 +1,10 @@
 {{ define "main" }}
   {{ partial "title.html" .Title }}
   {{ range .Pages.GroupByDate "2006" "desc" }}
-    <h2 class="mb-6 mt-12 text-2xl font-bold">{{ .Key }}</h2>
-    <ul class="mb-4 space-y-2">
+    {{ partial "h2.html" .Key }}
+    <ul>
       {{ range .Pages.ByDate.Reverse }}
-        <li>
-          <a
-            href="{{ .RelPermalink }}"
-            class="block-inline group flex items-center gap-2 leading-tight"
-          >
-            <time
-              class="whitespace-nowrap font-mono text-xs tracking-wide text-neutral-400 transition duration-200 ease-linear group-hover:text-pink-600"
-            >
-              {{ .Date | time.Format "01-02" }}
-            </time>
-            {{ .Title }}
-          </a>
-        </li>
+        {{ partial "log-list-item.html" . }}
       {{ end }}
     </ul>
   {{ end }}

@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ partial "title.html" .Title }}
-  <ul class="mb-4 space-y-2">
+  <ul>
     {{ range .Pages }}
       {{ partial "page-list-item.html" . }}
     {{ end }}

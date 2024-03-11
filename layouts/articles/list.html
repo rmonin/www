@@ -3,11 +3,12 @@
   {{ range .Pages.ByDate.Reverse }}
     <article class="mb-10 mt-12">
       <aside class="font-bol font-mono text-xs tracking-wide text-neutral-400">
-        <time class="uppercase">{{ .Date | time.Format ":date_long" }}</time>
-        · <time>{{ .ReadingTime }} min</time>
+        <time class="uppercase">{{ .Date | time.Format ":date_long" }}</time
+        ><time class="pl-1 before:pr-1 before:content-['·']"
+          >{{ .ReadingTime }} min</time
+        >
         {{ with .GetTerms "tags" }}
-          ·&nbsp;
-          <ul class=" inline space-x-1">
+          <ul class=" inline space-x-2 pl-1 before:pr-1 before:content-['·']">
             {{ range . }}
               <li class="inline">
                 <a
@@ -21,15 +22,17 @@
           </ul>
         {{ end }}
       </aside>
-
-      <h2 class="text-lg font-bold">
-        <a
-          href="{{ .RelPermalink }}"
-          class="transition duration-200 ease-linear before:pr-2 before:text-xl before:font-extrabold before:text-neutral-400 before:transition before:ease-linear before:content-['›'] hover:before:text-pink-600"
-          >{{ .Title }}</a
+      <a
+        href="{{ .RelPermalink }}"
+        class="group transition duration-200 ease-linear"
+      >
+        <h2
+          class="text-lg font-bold text-black before:pr-2 before:text-xl before:font-extrabold before:text-neutral-400 before:transition before:ease-linear before:content-['›'] before:group-hover:text-pink-600 dark:text-white"
         >
-      </h2>
-      <p class="mb-2">{{ .Summary }}</p>
+          {{ .Title }}
+        </h2>
+        <p class="mb-2">{{ .Summary }}</p>
+      </a>
     </article>
   {{ end }}
 {{ end }}

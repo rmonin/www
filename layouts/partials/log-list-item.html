@@ -1,0 +1,13 @@
+<li class="my-2 first:mt-0 last:mb-0">
+  <a
+    href="{{ .RelPermalink }}"
+    class="block-inline group flex items-center gap-2 leading-tight"
+  >
+    <time
+      class="whitespace-nowrap font-mono text-xs tracking-wide text-neutral-400 transition duration-200 ease-linear group-hover:text-pink-600"
+    >
+      {{ .Date | time.Format "01-02" }}
+    </time>
+    {{ .Title }}
+  </a>
+</li>
