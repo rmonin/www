@@ -1,6 +1,6 @@
 ---
 title: GNU Bash
-date: 2024-03-14
+date: 2024-03-13
 lastmod: 2024-03-14
 description: All my stuffs around the GNU Bash.
 tags:
@@ -10,6 +10,7 @@ draft: false
 ---
 
 # GNU Bash
+
 
 ## Overview
 
