@@ -115,16 +115,15 @@ Running script had already been formed in the late Eastern Han Dynasty and reach
 ## Online Resources
 
 - Official Word List Source | [Website](http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202103/t20210329_523304.html) - [PDF](http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202103/W020210329527301787356.pdf)
-- Flashcards | [Anki](https://apps.ankiweb.net/) - [Deck](https://ankiweb.net/shared/info/536858343)
+- Official character list **[通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)**
 - Pinyin Chart | [Website](https://yoyochinese.com/chinese-learning-tools/Mandarin-Chinese-pronunciation-lesson/pinyin-chart-table)
+- Flashcards | [Anki](https://apps.ankiweb.net/) - [Deck](https://ankiweb.net/shared/info/536858343)
 - [HanziCraft](https://hanzicraft.com)
 - [Mnemonics](http://rtega.be/chmn/)
 - [Draw hanzi](https://www.qhanzi.com/index.html)
 - Calligraphy | [Youtube](https://www.youtube.com/@weilicalligraphie)
 - [semi-cursive script (行書)](http://www.ryuurui.com/semi-cursive-script.html)
-- [omgchinese.com](https://www.omgchinese.com/)
-- official character list **[通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)**
-- Radicals list | [archchinese.com/arch_chinese_radicals.html](https://www.archchinese.com/arch_chinese_radicals.html)
+- [omgchinese.com](https://www.omgchinese.com/) **WARNING** Some info are wrong and no contact info to tell them
 
 ## Mobile apps
 

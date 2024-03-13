@@ -1,7 +1,7 @@
 ---
 title: Applications List
 date: 2024-02-29
-lastmod: 2024-03-05
+lastmod: 2024-03-12
 description:
 tags:
   - productivity
@@ -116,8 +116,7 @@ draft: false
 | Web Server        | Traefik     | [traefik.io/traefik](https://traefik.io/traefik/)                                              |
 | File sharing      | HTTPie      | [github.com/httpie/httpie](https://github.com/httpie/httpie)                                   |
 | File sharing      | wget        | [gnu.org/software/wget](https://www.gnu.org/software/wget/)                                    |
-| Cloud sync client | aws-cli     | [aws.amazon.com/cli](https://aws.amazon.com/cli/)                                              |
-| FTP client        | FileZilla   | [filezilla-project.org](https://filezilla-project.org/)                                        |
+| Cloud sync client | aws-cli     | [aws.amazon.com/cli](https://aws.amazon.com/cli/)                             |
 | FTP client        | Putty       | [chiark.greenend.org.uk/~sgtatham/putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)  |
 
 #### Utilities
@@ -243,6 +242,8 @@ zeal ?
   - [Brave install VPN Services without user consent](https://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/)
 - ~~Edge~~
   - [Stop using Microsoft Edge](https://www.howtogeek.com/888506/stop-using-microsoft-edge/)
+  - ~~FileZilla~~
+    - https://www.bleepingcomputer.com/news/security/filezillas-use-of-bundled-offers-sparks-outrage-from-users/
 - ~~Keybase~~
   - [Zoom has ties to China](https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/)
 - ~~Outlook~~
