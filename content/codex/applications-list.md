@@ -92,13 +92,12 @@ draft: false
 
 ### Other
 
-| Type       | Name | Website                                       |
-| ---------- | ---- | --------------------------------------------- |
-| Flashcards | Anki | [apps.ankiweb.net](https://apps.ankiweb.net/) |
-
-- Karabiner
-- Rectangle
-- Whatsapp
+| Type       | Name      | Website                                       |
+| ---------- | --------- | --------------------------------------------- |
+| Flashcards | Anki      | [apps.ankiweb.net](https://apps.ankiweb.net/) |
+|            | Karabiner |                                               |
+|            | Rectangle |                                               |
+|            | Whatsapp  |                                               |
 
 <!--
 ### Not used but usefull
@@ -214,17 +213,17 @@ zeal ?
 
 ## Cloud Services
 
-| Type  | Model | Service                                      |
-| ----- | ----- | -------------------------------------------- | --------------------------------- |
-| Drive |       | Microsoft OneDrive                           |
-| Drive |       | Gdrive                                       |
-| Drive |       | ProtonDrive                                  |
-|       |       |  [gist.github.com](https://gist.github.com/) |
-|       |       | https://miro.com/fr/                         |
-|       |       | Tiny Tiny RSS                                | [tt-rss.org](https://tt-rss.org/) |
-|       |       | Minio                                        |
-|       |       | Wallabag                                     |
-|       |       | Dropbox                                      |
+| Type  | Model | Service              |                                             |
+| ----- | ----- | -------------------- | ------------------------------------------- |
+| Drive |       | Gdrive               |                                             |
+| Drive |       | Microsoft OneDrive   |                                             |
+| Drive |       | ProtonDrive          |                                             |
+|       |       | Gist                 | [gist.github.com](https://gist.github.com/) |
+|       |       | Dropbox              |                                             |
+|       |       | Minio                |                                             |
+|       |       | https://miro.com/fr/ |                                             |
+|       |       | Tiny Tiny RSS        | [tt-rss.org](https://tt-rss.org/)           |
+|       |       | Wallabag             |                                             |
 
 ## OS & Distrib
 
@@ -251,8 +250,8 @@ zeal ?
 
 ### OS / Distrib
 
-- Micosoft
-- Ubuntu
+- ~~Micosoft~~
+- ~~Ubuntu~~
   - https://www.zdnet.com/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/#google_vignette
 
 ## Resources

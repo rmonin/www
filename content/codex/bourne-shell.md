@@ -82,15 +82,16 @@ v7 il the first official releae on UNIX systems and is the reference for SUS 03 
 - ${_parameter_=_word_}
 - ${_parameter_?_word_}
 - ${_parameter_+_word_}
-- Automatically set: **#**, **-**, **?**, **$**, **!**
 
 ## Variables
 
-Used but not set: **HOME**, **PATH**, **MAIL**, **PS1**, **PS2**, **IFS**
+- Automatically set: **#**, **-**, **?**, **$**, **!**
+- Used but not set: **HOME**, **PATH**, **MAIL**, **PS1**, **PS2**, **IFS**
 
 ## Sources
 
-- [LinxFR: Petite histoire du bourne shell](https://linuxfr.org/news/petite-histoire-du-bourne-shell)
-- **Manual** https://www.in-ulm.de/~mascheck/bourne/v7/
-- forked source code https://github.com/rmonin/unix/tree/Research-V7/usr/src/cmd/sh
-- source code archive https://www.tuhs.org/cgi-bin/utree.pl?file=V7/usr/src/cmd/sh
+- [Origins of the Bourne shell](https://www.in-ulm.de/~mascheck/bourne/index.html#origins)
+- [FR] [LinuxFR: Petite histoire du bourne shell](https://linuxfr.org/news/petite-histoire-du-bourne-shell)
+- [Official Manual](https://www.in-ulm.de/~mascheck/bourne/v7/)
+- [Forked source code](https://github.com/rmonin/unix/tree/Research-V7/usr/src/cmd/sh)
+- [Source code archive](https://www.tuhs.org/cgi-bin/utree.pl?file=V7/usr/src/cmd/sh)
