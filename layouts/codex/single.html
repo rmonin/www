@@ -1,5 +1,7 @@
 {{ define "main" }}
-  <header class="text-2xl font-extrabold">{{ .Title }}</header>
+  <header class="text-2xl font-extrabold text-black dark:text-white">
+    {{ .Title }}
+  </header>
   <aside class="mb-1 font-mono text-xs text-neutral-400">
     {{ with .Lastmod }}
       <time class="uppercase">Update {{ . | time.Format "2006-01-02" }}</time>

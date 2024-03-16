@@ -1,7 +1,7 @@
 ---
 title: Applications List
 date: 2024-02-29
-lastmod: 2024-03-12
+lastmod: 2024-03-15
 description:
 tags:
   - productivity
@@ -213,17 +213,19 @@ zeal ?
 
 ## Cloud Services
 
-| Type  | Model | Service              |                                             |
-| ----- | ----- | -------------------- | ------------------------------------------- |
-| Drive |       | Gdrive               |                                             |
-| Drive |       | Microsoft OneDrive   |                                             |
-| Drive |       | ProtonDrive          |                                             |
-|       |       | Gist                 | [gist.github.com](https://gist.github.com/) |
-|       |       | Dropbox              |                                             |
-|       |       | Minio                |                                             |
-|       |       | https://miro.com/fr/ |                                             |
-|       |       | Tiny Tiny RSS        | [tt-rss.org](https://tt-rss.org/)           |
-|       |       | Wallabag             |                                             |
+| Type             | Model | Service              |                                             |
+| ---------------- | ----- | -------------------- | ------------------------------------------- |
+| Drive            |       | Gdrive               |                                             |
+| Drive            |       | Microsoft OneDrive   |                                             |
+| Drive            |       | ProtonDrive          |                                             |
+|                  |       | IFTTT                | [ifttt.com](https://ifttt.com)              |
+|                  |       | Gist                 | [gist.github.com](https://gist.github.com/) |
+|                  |       | Dropbox              |                                             |
+|                  |       | Minio                |                                             |
+|                  |       | https://miro.com/fr/ |                                             |
+| Bookmark Manager |       | Raindrop             |
+|                  |       | Tiny Tiny RSS        | [tt-rss.org](https://tt-rss.org/)           |
+|                  |       | Wallabag             |                                             |
 
 ## OS & Distrib
 
@@ -245,6 +247,8 @@ zeal ?
     - https://www.bleepingcomputer.com/news/security/filezillas-use-of-bundled-offers-sparks-outrage-from-users/
 - ~~Keybase~~
   - [Zoom has ties to China](https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/)
+- ~~Firefox~~
+  - [Mozilla - Devil Incarnate](https://digdeeper.neocities.org/articles/mozilla)
 - ~~Outlook~~
   - https://proton.me/blog/outlook-is-microsofts-new-data-collection-service
 
@@ -260,3 +264,6 @@ zeal ?
 - [APT Browse](https://www.apt-browse.org) (A package explorer for Debian and Ubuntu)
 - [ArchWiki - List app](https://wiki.archlinux.org/title/List_of_applications)
 - https://free-for.dev/
+- https://switching.software
+- https://softwarearchitecture.tools/#modelling-tools
+- https://geminiprotocol.net/clients.html

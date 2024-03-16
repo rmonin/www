@@ -22,3 +22,7 @@ The [Bourne shell](/codex/bourne-shell) is the traditional Unix shell originally
 ## Dash
 
 ## Zsh
+
+## Resources
+
+- https://explainshell.com

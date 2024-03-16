@@ -1,6 +1,8 @@
 {{ define "main" }}
   <header>
-    <div class="text-2xl font-extrabold">{{ .Title }}</div>
+    <div class="text-2xl font-extrabold text-black dark:text-white">
+      {{ .Title }}
+    </div>
     <aside class="font-bol font-mono text-xs tracking-wide text-neutral-400">
       <time class="uppercase">{{ .Date | time.Format ":date_long" }}</time
       ><time class="pl-1 before:pr-1 before:content-['·']"

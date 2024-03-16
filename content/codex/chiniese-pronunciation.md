@@ -1,5 +1,5 @@
 ---
-title: Chinese intnation
+title: Chinese Pronunciation
 date: 2024-03-06
 lastmod: 2024-03-07
 description:
@@ -14,16 +14,16 @@ draft: false
 
 # Pinyin chart & Phonetic
 
-| Letters          | Nb  | List                                                     |
-| ---------------- | --- | -------------------------------------------------------- |
-| **Initial**      | 23  | b p m f d t n l g k h j q x zh ch sh r z c s y w         |
-| **Sgl fnls**     | 6   | a o e i u ü                                              |
-| **Cmpnd fnls**   | 9   | ai ei ui ao ou iu ie ue er                               |
-| **Spcl fnls**    | 1   | er                                                       |
-| **Frt nsl fnls** | 5   | an en in un ün                                           |
-| **Nasal finals** | 4   | ang eng ing ong                                          |
-|                  |     |                                                          |
-| **Whl sllbl**    | 16  | zhi chi sh ri zi ci si yi wu yu ye yue yin yun yuan ying |
+| Syllables       | Nb  | List                                                     |
+| --------------- | --- | -------------------------------------------------------- |
+| **Initial**     | 23  | b p m f d t n l g k h j q x zh ch sh r z c s y w         |
+| **Single**      | 6   | a o e i u ü                                              |
+| **Compound**    | 9   | ai ei ui ao ou iu ie ue er                               |
+| **Special**     | 1   | er                                                       |
+| **Front nasal** | 5   | an en in un ün                                           |
+| **Nasal**       | 4   | ang eng ing ong                                          |
+|                 |     |                                                          |
+| **Wohle**       | 16  | zhi chi sh ri zi ci si yi wu yu ye yue yin yun yuan ying |
 
 ## Labials (bilabials and labiodentals)
 
@@ -134,3 +134,11 @@ Dentals: Sounds like "z", "c", and "s" are grouped because they are dental frica
 |     ēn     |     èn      |            |             |              |
 |    ēng     |             |            |             |              |
 |     ér     |     ěr      |     èr     |             |              |
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Pinyin_table
+- https://resources.allsetlearning.com/chinese/pronunciation/Pinyin_chart
+- https://studycli.org/wp-content/uploads/2021/06/printable-chinese-pinyin-chart.pdf
+- https://www.newconceptmandarin.com/chinese-pronunciation/
+- https://www.fareast.com.tw/media/catalog/product/cache/2/image/1800x/040ec09b1e35df139433887a97daa66f/4/7/4718159800926.jpg

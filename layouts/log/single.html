@@ -1,12 +1,19 @@
 {{ define "main" }}
-  <header class="text-2xl font-extrabold">{{ .Title }}</header>
-  <aside class="font-bol mb-1 font-mono text-xs text-neutral-400">
-    <time class="uppercase">{{ .Date | time.Format "2006-01-02" }}</time>
+  <header class="text-2xl font-extrabold text-black dark:text-white">
+    {{ .Title }}
+  </header>
+  <aside class="font-bol mb-1 font-mono text-xs ">
+    <time class="whitespace-nowrap uppercase"
+      >{{ .Date | time.Format ":date_long" }}</time
+    >
+    <time class="whitespace-nowrap uppercase"
+      >({{ .Lastmod | time.Format "2006-01-02" }})</time
+    >
     {{ with .Params.Category }}
       · <span class="uppercase">{{ . }}</span>
     {{ end }}
     {{ with .GetTerms "tags" }}
-      <ul class="ml-2 inline space-x-2">
+      <ul class="ml-2 inline space-x-2 text-neutral-400">
         {{ range . }}
           <li class="inline">
             <a
