@@ -2,11 +2,10 @@
 title: Cmd tips
 date: 2024-03-05
 lastmod: 2024-03-05
-description:
+description: Enhance your command line skills with these useful tips.
 tags:
-  - terminal
-  - shell
   - cli
+  - tips
 category: Other
 toc: true
 draft: false

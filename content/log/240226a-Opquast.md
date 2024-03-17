@@ -1,8 +1,12 @@
 ---
 title: Opquast
 date: 2024-02-26
+description: Opquast standards for web quality and best practices.
 tags:
-  - bookmark
+  - bookmarks
+  - standards
+  - quality
+  - til
 ---
 
 # Today I learned

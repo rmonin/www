@@ -4,7 +4,7 @@ date: 2024-03-15
 lastmod: 2024-03-15
 description:
 tags:
-  - bluerpint
+  - blueprint
   - productivity
 category: Other
 toc: false

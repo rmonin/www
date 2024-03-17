@@ -2,8 +2,11 @@
 title: Bourne Shell
 date: 2024-03-13
 lastmod: 2024-03-14
-description: Some info around Bourne shell.
+description: Bourne Shell scripting, commands, and best practices.
 tags:
+  - shell
+  - cli
+  - scripting
 category: CLI Tools
 toc: true
 draft: false
@@ -77,7 +80,7 @@ v7 il the first official releae on UNIX systems and is the reference for SUS 03 
 ## Parameters
 
 - ${_parameter_} sequence of letters,	digits or  under-
-	  scores  (a name), a digit, or	any of the characters **\*** **@** **#** **?** **-** **$\*\* **!**
+    scores  (a name), a digit, or	any of the characters **\*** **@** **#** **?** **-** **$\*\* **!**
 - ${_parameter_-_word_}
 - ${_parameter_=_word_}
 - ${_parameter_?_word_}

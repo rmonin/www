@@ -6,7 +6,8 @@ description:
 tags:
   - mutt
   - efficiency
-  - til
+  - email
+  - tips
 draft: false
 ---
 

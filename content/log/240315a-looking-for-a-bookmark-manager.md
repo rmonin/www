@@ -2,12 +2,10 @@
 title: Looking for a bookmark manager
 date: 2024-03-16
 lastmod: 2024-03-16
-description:
+description: Discover the best bookmark managers to organize your web links.é
 tags:
-  - bookmark
-  - efficiency
   - productivity
-  - note-taking
+  - organization
 draft: false
 ---
 

@@ -2,8 +2,10 @@
 title: Shells
 date: 2024-03-12
 lastmod: 2024-03-14
-description: All my stuffs around shells.
+description: Dive into the world of command shells and their functionalities.
 tags:
+  - shell
+  - cli
 category: CLI Tools
 toc: false
 draft: false

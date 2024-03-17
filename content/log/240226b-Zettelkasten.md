@@ -1,8 +1,12 @@
 ---
 title: Zettelkasten
 date: 2024-02-26
+description: I discovered Zettelkasten method for effective note-taking and knowledge management.
 tags:
-  - learning
+  - zettelkasten
+  - note-taking
+  - productivity
+  - til
 ---
 
 # Today I learned

@@ -2,7 +2,7 @@
 title: Bug on GNU Stow 2/2
 date: 2024-03-09
 lastmod: 2024-03-09
-description:
+description: "Identify and troubleshoot bugs in GNU Stow: Part 2"
 tags:
   - stow
   - bug

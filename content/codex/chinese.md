@@ -2,10 +2,9 @@
 title: Chinese
 date: 2024-03-06
 lastmod: 2024-03-07
-description:
+description: Explore the rich language of China.
 tags:
   - chinese
-  - mandarin
 category:
 category: Language Learning
 toc: true

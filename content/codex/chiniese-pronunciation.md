@@ -2,10 +2,11 @@
 title: Chinese Pronunciation
 date: 2024-03-06
 lastmod: 2024-03-07
-description:
+description: Improve your Chinese pronunciation.
 tags:
   - chinese
-  - mandarin
+  - hsk-3.0
+  - pronunciation
 category:
 category: Language Learning
 toc: true

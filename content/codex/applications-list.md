@@ -2,11 +2,11 @@
 title: Applications List
 date: 2024-02-29
 lastmod: 2024-03-15
-description:
+description: Explore diverse topics including applications and cloud technology
 tags:
   - productivity
-  - software
   - applications
+  - cloud
   - efficiency
 category: Other
 toc: true

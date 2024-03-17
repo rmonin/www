@@ -2,10 +2,11 @@
 title: Chinese HSK 3.0 Band 1 - Characters
 date: 2024-03-06
 lastmod: 2024-03-07
-description:
+description: Master Chinese characters from HSK 3.0 Band 1 with ease.
 tags:
   - chinese
-  - mandarin
+  - hsk-3.0
+  - characters
 category: Language Learning
 toc: false
 draft: false

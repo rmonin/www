@@ -4,6 +4,9 @@ date: 2024-03-13
 lastmod: 2024-03-14
 description: All my stuffs around the GNU Bash.
 tags:
+  - shell
+  - cli
+  - scripting
 category: CLI Tools
 toc: true
 draft: false

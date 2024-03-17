@@ -2,10 +2,11 @@
 title: Chinese HSK 3.0 Band 1 - Vocabulary
 date: 2024-03-06
 lastmod: 2024-03-06
-description:
+description: Expand your Chinese vocabulary with HSK 3.0 Band 1 words.
 tags:
   - chinese
-  - mandarin
+  - hsk-3.0
+  - vocabulary
 category: Language Learning
 toc: false
 draft: false

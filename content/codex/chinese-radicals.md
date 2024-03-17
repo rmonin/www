@@ -2,8 +2,11 @@
 title: Chinese Radicals
 date: 2024-03-07
 lastmod: 2024-03-11
-description:
+description: Discover and understand Chinese radicals for language proficiency.
 tags:
+  - chinese
+  - hsk-3.0
+  - radicals
 category: Language Learning
 toc: false
 draft: false
