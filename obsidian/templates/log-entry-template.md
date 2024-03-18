@@ -1,11 +1,13 @@
 ---
-title: Today I learned
+title: {{title}}
 date: {{date}}
 lastmod: {{date}}
 description: null
 tags: null
+toc: false
 draft: true
 ---
+
 
 My log entry
 
@@ -15,4 +17,4 @@ My log entry
 
 Some lines around a main fact of my day
 
-## Accros the internet
+## Across the internet

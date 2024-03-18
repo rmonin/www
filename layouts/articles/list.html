@@ -2,26 +2,6 @@
   {{ partial "title.html" .Title }}
   {{ range .Pages.ByDate.Reverse }}
     <article class="mb-10 mt-12">
-      <aside class="font-bol font-mono text-xs tracking-wide text-neutral-400">
-        <time class="uppercase">{{ .Date | time.Format ":date_long" }}</time
-        ><time class="pl-1 before:pr-1 before:content-['·']"
-          >{{ .ReadingTime }} min</time
-        >
-        {{ with .GetTerms "tags" }}
-          <ul class=" inline space-x-2 pl-1 before:pr-1 before:content-['·']">
-            {{ range . }}
-              <li class="inline">
-                <a
-                  class="transition duration-200 ease-linear hover:text-pink-600"
-                  href="{{ .RelPermalink }}"
-                >
-                  {{ lower .LinkTitle }}
-                </a>
-              </li>
-            {{ end }}
-          </ul>
-        {{ end }}
-      </aside>
       <a
         href="{{ .RelPermalink }}"
         class="group transition duration-200 ease-linear"
@@ -31,6 +11,26 @@
         >
           {{ .Title }}
         </h2>
+        <aside class="font-bol font-mono text-xs tracking-wide">
+          <time class="">{{ .Date | time.Format ":date_long" }}</time
+          ><time class="pl-1 before:pr-1 before:content-['·']"
+            >{{ .ReadingTime }} min</time
+          >
+          {{ with .GetTerms "tags" }}
+            <ul class=" inline space-x-2 pl-1 before:pr-1 before:content-['·']">
+              {{ range . }}
+                <li class="inline">
+                  <a
+                    class=" text-neutral-400 transition duration-200 ease-linear hover:text-pink-600"
+                    href="{{ .RelPermalink }}"
+                  >
+                    {{ lower .LinkTitle }}
+                  </a>
+                </li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        </aside>
         <p class="mb-2">{{ .Summary }}</p>
       </a>
     </article>

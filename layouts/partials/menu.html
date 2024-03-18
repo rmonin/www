@@ -1,4 +1,4 @@
-<nav class="space-x-4 font-semibold uppercase tracking-widest text-neutral-400">
+<nav class="space-x-2 font-semibold uppercase tracking-widest ">
   {{- $current := . }}
   {{- range .Site.Menus.main }}
     {{- $active := or
@@ -17,7 +17,8 @@
         not
         $active
       }}
-        class="ease-linear transition duration-200 hover:text-pink-600"
+        class="ease-linear text-neutral-400 transition duration-200
+        hover:text-pink-600"
       {{ else }}
         class="text-pink-600"
       {{ end }}

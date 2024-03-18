@@ -21,18 +21,17 @@
         {{ if eq .Section "log" }}
           {{ partial "log-list-item.html" . }}
         {{ else if eq .Section "articles" }}
-          <li>
+          <li class="my-2 first:mt-0 last:mb-0">
             <a
               href="{{ .RelPermalink }}"
               class="transition duration-200 ease-linear before:pr-2 before:text-xl before:font-extrabold before:text-neutral-400 before:transition before:ease-linear before:content-['›'] hover:before:text-pink-600"
               >{{ .Title }}</a
             >
-            <aside class="font-mono text-xs text-neutral-400">
-              <time class="uppercase"
-                >{{ .Date | time.Format ":date_long" }}</time
+            <aside class="font-mono text-xs">
+              <time class="">{{ .Date | time.Format ":date_long" }}</time
+              ><time class="pl-1 before:pr-1 before:content-['·']"
+                >{{ .ReadingTime }} min</time
               >
-              ·
-              <time>{{ .ReadingTime }} min</time>
             </aside>
           </li>
         {{ else }}

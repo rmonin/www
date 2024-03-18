@@ -14,7 +14,7 @@
   >
     {{ partial "header.html" . }}
     <main class="mx-auto mt-12 max-w-prose p-2">
-      {{ block "main" . }}{{ partial "article-content.html" . }}{{ end }}
+      {{ block "main" . }}{{ .Content | emojify }}{{ end }}
     </main>
   </body>
 </html>
