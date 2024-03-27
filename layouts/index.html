@@ -1,34 +1,11 @@
-<!doctype html>
-<html
-  {{- with
-    site.LanguageCode
-    |
-    default
-    site.Language.Lang
-  }}
-    lang="{{ . }}"
-  {{ end -}}
-  {{- if
-    ne
-    .Site.Params.rtl
-    nil
-  }}
-    dir="{{ with .Site.Params.rtl }}rtl{{ else }}ltr{{ end }}"
-  {{ end }}
->
-  {{ partial "head.html" . }}
-  <body
-    class="flex min-h-screen flex-col justify-center
-    bg-amber-50 font-sans font-light
-    dark:bg-neutral-800 dark:text-white"
-  >
-    <main class="mx-auto mt-12 max-w-prose p-2 text-center">
-      <h1
-        class="uppecase no-spacewrap mb-8 text-center text-4xl font-extrabold"
-      >
-        {{ .Site.Params.Author }}
-      </h1>
-      {{ partial "menu.html" . }}
-    </main>
-  </body>
-</html>
+{{ define "main" }}
+  <hgroup class="my-24">
+    {{ partial "title.html" .Site.Params.Author }}
+    <p class="-mt-6 text-center">
+      <span class="line-through"
+        >Web Artisan, DevOps, Technical Project Manager</span
+      ><br />
+      Jack-of-All-Trades in Tech
+    </p>
+  </hgroup>
+{{ end }}

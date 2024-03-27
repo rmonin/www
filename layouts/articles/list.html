@@ -1,7 +1,7 @@
 {{ define "main" }}
   {{ partial "title.html" .Title }}
   {{ range .Pages.ByDate.Reverse }}
-    <article class="mb-10 mt-12">
+    <article class="mb-10 mt-12 last:mb-0">
       <a
         href="{{ .RelPermalink }}"
         class="group transition duration-200 ease-linear"

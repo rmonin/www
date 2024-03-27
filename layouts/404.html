@@ -1,5 +1,7 @@
 {{ define "main" }}
   {{- $title := i18n "error.404_title" -}}
-  {{ partial "title.html" $title }}
-  <p class="text-center">{{ i18n "error.404_description" }}</p>
+  <hgroup class="my-24">
+    {{ partial "title.html" $title }}
+    <p class="text-center">{{ i18n "error.404_description" }}</p>
+  </hgroup>
 {{ end }}

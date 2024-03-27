@@ -9,12 +9,28 @@
 >
   {{ partial "head.html" . }}
   <body
-    class=" bg-amber-50 font-sans font-light
+    class="qbg-amber-50 font-sans font-light
     text-gray-700 dark:bg-neutral-800 dark:text-gray-300"
   >
     {{ partial "header.html" . }}
-    <main class="mx-auto mt-12 max-w-prose p-2">
+    <main class="mx-auto mb-10 mt-12 max-w-prose p-2">
       {{ block "main" . }}{{ .Content | emojify }}{{ end }}
     </main>
+    <footer class="mx-auto mb-4 max-w-screen-md space-x-2 px-2 text-center">
+      <a
+        class="text-neutral-400 transition duration-200 ease-linear
+          hover:text-pink-600"
+        href="mailto:{{ .Site.Params.Contact.Email }}?subject=monin.vip%20|%20{{ .Title }}&body=Permalink:%20{{ .Permalink }}"
+      >
+        <i class="fa-solid fa-envelope"></i>
+      </a>
+      <a
+        class="text-neutral-400 transition duration-200 ease-linear
+          hover:text-pink-600"
+        href="/index.xml"
+      >
+        <i class="fa-solid fa-square-rss"></i>
+      </a>
+    </footer>
   </body>
 </html>
