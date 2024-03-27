@@ -248,7 +248,8 @@ UID The numeric real user id of the current user. This variable is readonly.
 
 - `|&` vs `2>&1 |`
 
-## Sources
+## Resources
 
 - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.pdf)
 - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/abs-guide.pdf)
+- [Google Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
