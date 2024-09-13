@@ -1,5 +1,5 @@
 {
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
   "livePreview": false,
@@ -8,5 +8,6 @@
   "readableLineLength": true,
   "foldIndent": true,
   "showLineNumber": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "newFileLocation": "current"
 }

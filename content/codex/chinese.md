@@ -44,6 +44,10 @@ draft: false
 The term _syllables_ refers to the units of sound in the Chinese language that are transcribed using the pinyin system of Romanization. Pinyin is a widely used system for representing the sounds of Mandarin Chinese using the Roman alphabet, and it is an important tool for teaching and learning the Chinese language.
 
 In the HSK, students are assessed on their ability to recognize and produce the correct pinyin representations of Chinese syllables, which are essential for effective communication in Chinese. This includes their ability to produce the correct tone, pronunciation, and rhythm of each syllable, which are all important factors in effective communication in the language.
+[le nom](http://l'url)
+![le nom](http://l'url)
+
+
 
 #### Character Criteria
 
