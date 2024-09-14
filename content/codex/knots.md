@@ -1,7 +1,8 @@
 ---
-title: Noeuds [FR]
+title: Noeuds
 date: 2024-09-13
 lastmod: 2024-09-14
+lang: "fr"
 description: 
 tags: 
 category: Ascent
