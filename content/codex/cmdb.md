@@ -1,5 +1,5 @@
 ---
-title: Glossary
+title: Configuration management database
 date: 2024-04-02
 lastmod: 2024-04-02
 description: 
