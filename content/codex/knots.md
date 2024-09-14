@@ -12,11 +12,13 @@ draft: false
 
 - Noeud simple
 - Noeud de huit (Figure-Eight Knot)
+- oreilles de lapin
 - Papillon
 - Cabestan (Clove Hitch)
 - 1/2 Cabestan
 - Pecheur simple
 - Pecheur double (Double Fisherman’s Knot)
+- capucin
 - Noeud de chaise (Bowline Knot)
 - Noeud de mule (Munter-Mule Knot)
 
