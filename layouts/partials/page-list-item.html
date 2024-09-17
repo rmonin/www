@@ -1,15 +1,11 @@
-<li>
+<li class="inline mx-4 first:ml-0 last:mr-0">
   <a
     href="{{ .RelPermalink }}"
-    class="group transition duration-200 ease-linear before:pr-1 before:text-xl before:font-semibold before:text-neutral-400 before:transition before:ease-linear before:content-['›'] hover:before:text-pink-600"
+    class="group transition duration-200 ease-linear before:pr-1 before:text-xl before:font-semibold before:text-neutral-400 before:transition before:ease-linear befre:content-['›'] hover:before:text-pink-600"
     >
-    {{ .Title }}
-    {{ if .Params.lang }}
-      <span
+    {{ .Title }}{{- if .Params.lang -}}&nbsp;<span
         class="uppercase whitespace-nowrap font-mono text-xs tracking-wide text-neutral-400 transition duration-200 ease-linear group-hover:text-pink-600"
-      >
-        ({{ .Params.lang }})
-      </span>
-    {{ end }}
+      >({{ .Params.lang }})</span>
+    {{- end -}}
   </a>
 </li>

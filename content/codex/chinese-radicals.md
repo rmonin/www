@@ -1,7 +1,8 @@
 ---
-title: Chinese Radicals
+title: Radicals
 date: 2024-03-07
 lastmod: 2024-03-11
+lang: cn
 description: Discover and understand Chinese radicals for language proficiency.
 tags:
   - chinese

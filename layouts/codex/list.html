@@ -2,9 +2,17 @@
   {{ partial "title.html" .Title }}
   {{ range .Pages.GroupByParam "category" }}
     {{ partial "h2.html" .Key }}
-    <ul>
       {{ range .Pages.ByTitle }}
-        {{ partial "page-list-item.html" . }}
+        <!-- {{ partial "page-list-item.html" . }} -->
+        <a
+        href="{{ .RelPermalink }}"
+        class="whitespace-nowrap block sm:inline mr-6 last:mr-0 group transition duration-200 ease-linear before:pr-1 before:text-xl before:font-semibold  before:content-['›'] hover:text-pink-600"
+        >
+        {{ .Title }}{{- if .Params.lang -}}&nbsp;<span
+        class="uppercase whitespace-nowrap font-mono text-xs tracking-wide text-neutral-400 transition duration-200 ease-linear group-hover:text-pink-600"
+          >({{ .Params.lang }})</span>
+        {{- end -}}
+      </a>
       {{ end }}
     </ul>
   {{ end }}
