@@ -45,20 +45,3 @@ languages:
     languageDirection: ltr
     languageName: English
     weight: 1
-  # fr:
-  #   languageCode: fr-FR
-  #   languageDirection: ltr
-  #   languageName: English
-  #   weight: 2
-  # es:
-  #   languageCode: es-ES
-  #   languageDirection: ltr
-  #   languageName: Español
-  #   permalinks:
-  #     page:
-  #       articles: /libros/:slug/
-  #     section:
-  #       articles: /libros/
-  #   weight: 3
-  # ru:
-  # cn:

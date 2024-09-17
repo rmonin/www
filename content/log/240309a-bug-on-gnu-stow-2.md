@@ -1,5 +1,5 @@
 ---
-title: Bug on GNU Stow 2/2
+title: Bug on GNU Stow 2/3
 date: 2024-03-09
 lastmod: 2024-03-09
 description: "Identify and troubleshoot bugs in GNU Stow: Part 2"
