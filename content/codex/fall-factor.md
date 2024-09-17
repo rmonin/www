@@ -3,8 +3,8 @@ title: Facteur de chute
 date: 2024-09-16
 lastmod: 2024-09-17
 lang: fr
-description: 
-tags: 
+description:
+tags:
 category: Ascent
 toc: false
 draft: false

@@ -3,8 +3,8 @@ title: Noeuds
 date: 2024-09-13
 lastmod: 2024-09-14
 lang: "fr"
-description: 
-tags: 
+description:
+tags:
 category: Ascent
 toc: false
 draft: false
@@ -25,15 +25,21 @@ draft: false
 ## Autobloquant
 
 ### Prusik
+
 ### Mashard
+
 ### Machard simple
+
 ### simple
+
 perte de 4cm en cas de chute
 
 ### à la française
+
 perte d'1cm à la chute
 
 ### croisé
+
 perte d'1 cm également mais se déforme plus que celui à la française.
 
 ## exotique

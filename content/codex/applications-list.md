@@ -78,6 +78,7 @@ draft: false
 | Office suite | LibreOffice   | [libreoffice.org](https://www.libreoffice.org/)                        |
 | Office suite | Microsoft 365 | [microsoft.com/microsoft-365](https://www.microsoft.com/microsoft-365) |
 | Text editor  | vim           | [vim.org](https://www.vim.org/)                                        |
+
 |
 
 ### Development

@@ -1,5 +1,5 @@
 ---
-title: HSK 3.0 Band 1 - Vocabulary / 词汇
+title: HSK 3.0 Band 1 - 词汇
 date: 2024-03-06
 lastmod: 2024-03-06
 lang: cn

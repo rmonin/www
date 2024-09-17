@@ -22,12 +22,12 @@
       <div class=" text-2xl font-extrabold text-black dark:text-white">
         {{ .Title }}
         {{ if .Params.lang }}
-        <span
-          class="uppercase whitespace-nowrap font-mono text-sm tracking-wide font-thin text-neutral-400"
-        >
-          ({{ .Params.lang }})
-        </span>
-      {{ end }}
+          <span
+            class="whitespace-nowrap font-mono text-sm font-thin uppercase tracking-wide text-neutral-400"
+          >
+            ({{ .Params.lang }})
+          </span>
+        {{ end }}
       </div>
       <aside class="font-mono text-xs tracking-wide">
         {{ if eq .Section "log" }}
@@ -92,12 +92,12 @@
             <span>
               {{ .Title }}
               {{ if .Params.lang }}
-              <span
-              class="uppercase whitespace-nowrap font-mono text-xs tracking-wide font-thin text-neutral-400"
-            >
-              ({{ .Params.lang }})
-            </span>
-          {{ end }}
+                <span
+                  class="whitespace-nowrap font-mono text-xs font-thin uppercase tracking-wide text-neutral-400"
+                >
+                  ({{ .Params.lang }})
+                </span>
+              {{ end }}
             </span>
           </a>
         {{ end }}
@@ -118,13 +118,13 @@
             <span>
               {{ .Title }}
               {{ if .Params.lang }}
-              <span
-          class="uppercase whitespace-nowrap font-mono text-xs tracking-wide font-thin text-neutral-400"
-        >
-          ({{ .Params.lang }})
-        </span>
-      {{ end }}
-           
+                <span
+                  class="whitespace-nowrap font-mono text-xs font-thin uppercase tracking-wide text-neutral-400"
+                >
+                  ({{ .Params.lang }})
+                </span>
+              {{ end }}
+
             </span>
           </a>
         {{ end }}

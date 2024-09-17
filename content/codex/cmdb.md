@@ -2,8 +2,8 @@
 title: Configuration management database
 date: 2024-04-02
 lastmod: 2024-04-02
-description: 
-tags: 
+description:
+tags:
 category: Glossary
 toc: false
 draft: false

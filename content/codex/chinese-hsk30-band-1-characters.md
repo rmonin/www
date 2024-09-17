@@ -1,5 +1,5 @@
 ---
-title: HSK 3.0 Band 1 - Characters / 字符
+title: HSK 3.0 Band 1 - 字符
 date: 2024-03-06
 lastmod: 2024-03-07
 lang: cn
@@ -265,8 +265,8 @@ draft: false
 | **248** | [些](https://hanzicraft.com/character/些) |  [8](https://www.omgchinese.com/dictionary/?q=些) | [-](https://rtega.be/chmn/?c=些)                                                                                |                                           |
 | **249** | [写](https://hanzicraft.com/character/写) |  [5](https://www.omgchinese.com/dictionary/?q=写) | [-](https://rtega.be/chmn/?c=写)                                                                                | [冖](https://hanzicraft.com/character/冖) |
 | **250** | [谢](https://hanzicraft.com/character/谢) | [12](https://www.omgchinese.com/dictionary/?q=谢) | [-](https://rtega.be/chmn/?c=谢)                                                                                | [讠](https://hanzicraft.com/character/讠) |
-| **251** | [新](https://hanzicraft.com/character/新) |  [#](https://www.omgchinese.com/dictionary/?q=新) | [-](https://rtega.be/chmn/?c=新)                                                                                |     |
-| **252** | [星](https://hanzicraft.com/character/星) |  [#](https://www.omgchinese.com/dictionary/?q=星) | [-](https://rtega.be/chmn/?c=星)                                                                                |     |
+| **251** | [新](https://hanzicraft.com/character/新) |  [#](https://www.omgchinese.com/dictionary/?q=新) | [-](https://rtega.be/chmn/?c=新)                                                                                |                                           |
+| **252** | [星](https://hanzicraft.com/character/星) |  [#](https://www.omgchinese.com/dictionary/?q=星) | [-](https://rtega.be/chmn/?c=星)                                                                                |                                           |
 | **253** | [行](https://hanzicraft.com/character/行) |  [#](https://www.omgchinese.com/dictionary/?q=行) | [-](https://rtega.be/chmn/?c=行)                                                                                | [-](https://hanzicraft.com/character/)    |
 | **254** | [兴](https://hanzicraft.com/character/兴) |  [#](https://www.omgchinese.com/dictionary/?q=兴) | [-](https://rtega.be/chmn/?c=兴)                                                                                | [-](https://hanzicraft.com/character/)    |
 | **255** | [休](https://hanzicraft.com/character/休) |  [#](https://www.omgchinese.com/dictionary/?q=休) | [-](https://rtega.be/chmn/?c=休)                                                                                | [-](https://hanzicraft.com/character/)    |

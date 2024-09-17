@@ -10,11 +10,11 @@
     </time>
     {{ .Title }}
     {{ if .Params.lang }}
-    <span
-      class="uppercase whitespace-nowrap font-mono text-xs tracking-wide text-neutral-400 transition duration-200 ease-linear group-hover:text-pink-600"
-    >
-      ({{ .Params.lang }})
-    </span>
-  {{ end }}
+      <span
+        class="whitespace-nowrap font-mono text-xs uppercase tracking-wide text-neutral-400 transition duration-200 ease-linear group-hover:text-pink-600"
+      >
+        ({{ .Params.lang }})
+      </span>
+    {{ end }}
   </a>
 </li>

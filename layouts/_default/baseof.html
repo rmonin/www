@@ -9,9 +9,9 @@
 >
   {{ partial "head.html" . }}
   <body
-  class="min-h-screen bg-gradient-to-b from-orange-50 to-amber-50 font-sans font-light
+    class="min-h-screen bg-gradient-to-b from-orange-50 to-amber-50 font-sans font-light
   text-gray-700 dark:from-gray-800 dark:to-neutral-800 dark:text-gray-300"
->
+  >
     {{ partial "header.html" . }}
     <main class="mx-auto mb-10 mt-12 max-w-prose p-2">
       {{ block "main" . }}{{ .Content | emojify }}{{ end }}
