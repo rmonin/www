@@ -9,21 +9,16 @@ category: Ascent
 toc: true
 draft: false
 ---
-
 # Mousquetons
-
 ## Généralités
-
-appelé aussi connecteur. ça sert à connecter des éléments entre eux
+Appelé aussi connecteur. ça sert à connecter des éléments entre eux
 
 ## Anatomie
-
 ### Corps
 La partie principale, souvent en aluminium ou en acier, qui supporte la charge. Le corps a une forme variable (D, ovale, HMS, etc.), influençant la répartition de la force.
 
 ### Doigt (ou verrou)
 La partie mobile qui s'ouvre pour permettre l'insertion de la corde ou de l'équipement. Il existe deux principaux types de doigts :
-
 - **Doigt simple (non verrouillable) :** Un ressort permet au doigt de se refermer automatiquement une fois relâché.
 - **Doigt verrouillable :** Doté d'un mécanisme de verrouillage supplémentaire pour empêcher une ouverture accidentelle (système à vis, automatique, etc.).
 
@@ -32,7 +27,6 @@ Situé dans le doigt, il maintient le mousqueton fermé en appliquant une pressi
 
 ### Système de verrouillage
 Présent sur les mousquetons à verrouillage, ce mécanisme permet de sécuriser l'ouverture du doigt. Il peut être :
-
 - **À vis :** L’utilisateur visse manuellement une bague pour verrouiller le doigt.
 - **Automatique :** Un système de verrouillage qui se ferme automatiquement (souvent appelé "twist-lock" ou "triple-lock").
 
@@ -53,15 +47,13 @@ Sur certains mousquetons, notamment les modèles pour l’escalade artificielle,
 Les mousquetons utilisés dans des contextes d'escalade, de spéléologie ou dans des travaux en hauteur doivent répondre à des normes strictes pour garantir la sécurité. Voici les principales normes qui s'appliquent.
 
 ### Normes pour l'escalade et la spéléologie
-
 - **EN 12275** : Norme européenne qui définit les exigences pour les mousquetons utilisés en escalade et alpinisme. Elle spécifie notamment les tests de résistance pour les mousquetons dans différentes positions (axe majeur, mineur, avec le doigt ouvert, etc.).
-  
 - **UIAA 121** : Norme de l'Union Internationale des Associations d'Alpinisme (UIAA). Cette norme complète la norme EN 12275 et impose des critères supplémentaires, comme une résistance minimale de 20 kN pour les mousquetons d'escalade.
 
 Les mousquetons certifiés **EN 12275** ou **UIAA** doivent afficher leur résistance en kilonewtons (kN), selon les tests réalisés sur :
-  - **L'axe majeur** (résistance la plus forte),
-  - **L'axe mineur**,
-  - **Doigt ouvert**.
+- **L'axe majeur** (résistance la plus forte),
+- **L'axe mineur**,
+- **Doigt ouvert**.
 
 ### Normes pour les travaux en hauteur
 
@@ -93,36 +85,60 @@ Les mousquetons doivent également avoir un marquage clair avec le numéro de la
 
 ## Formes
 
-### D / type B, Q
-à privilégier, connecteur simple (ex: vache, dégaine)
-Type B
+### D
 
-### Ovale / type X ou B
-Le plus polyvalent.
-Poulie, bloqueur, vache etc
+**Types :** B, Q
 
-### Poire / type H, K ou B
-C'est le mousqueton officiel pour l'assurage et le rappel,
+À privilégier par défaut, connecteur simple (ex: vache, dégaine).
+ 
+La corde va souvent se placer aux extrémités du fond (donc à l'opposé du doigt) c'est là que le connecteur a le plus de résistance.
+
+| Utilisation | Oui | non | Remarques |
+| ----------- | --- | --- | --------- |
+| Noeuds      | X   |     | Dépanage  |
+| Assurage    | X   |     | Dépanage  |
+| Poulies     | X   |     | Dépanage  |
+
+### Ovale
+
+**Types :** X, B
+
+Utile et conseillé pour les poulies, bloqueur, jumars etc car cela fait travailler le monsqueton et le matériel dans l'axe
+
+| Utilisation | Oui | Non | Remarques |
+| ----------- | --- | --- | --------- |
+| Noeuds      |     | X   | Manqe de place |
+| Assurage    |     | X   | Peut se retourner, Moins robuste que le D |
+| Poulies     | X   |     | Travaille dans l'axe |
+
+### Poire
+
+**Types :** H, K ou certains B
+
+C'est le mousqueton officiel pour l'assurage et le rappel.
+
 Ils peuvent être utilisés comme un mousqueton de type B, mais il n'est pas recommandé de le faire : en raison de leur forme, ils ont tendance à bouger, et la corde a tendance à travailler près du doigt, ou transversalement, perdant l'axe de force et diminuant donc sa résistance.
 
+| Utilisation | Oui | Non | Remarques |
+| ----------- | --- | --- | --------- |
+| Noeuds      | X   |     |           |
+| Assurage    |     | X   | Travaille près du doigt |
+| Poulies     |     | X   | Travaille près du doigt, bouge beaucoup |
+
+**Rmq :** Il existe des modèles directionnels (avec un pontet) pour éviter l'effet de retournement
+
 ## Exemples d'application
-
 ### Cabestan
-
 HMS, Rond
 
 ### Rappel
-
 Poire, corps en H pour le freinage
 
 ### Vache
-
 D
 
 ### progression
-
 D doigt fil
 
 ### Poulie
-
 X
