@@ -1,7 +1,7 @@
 ---
 title: "Mousquetons"
 date: 2024-09-13
-lastmod: 2024-09-14
+lastmod: 2024-09-19
 lang: "fr"
 description:
 tags:
@@ -18,9 +18,35 @@ appelé aussi connecteur. ça sert à connecter des éléments entre eux
 
 ## Anatomie
 
-Corps, grand axe, petit axe, doigt
+### Corps
+La partie principale, souvent en aluminium ou en acier, qui supporte la charge. Le corps a une forme variable (D, ovale, HMS, etc.), influençant la répartition de la force.
 
-de sécurité, de progression
+### Doigt (ou verrou)
+La partie mobile qui s'ouvre pour permettre l'insertion de la corde ou de l'équipement. Il existe deux principaux types de doigts :
+
+- **Doigt simple (non verrouillable) :** Un ressort permet au doigt de se refermer automatiquement une fois relâché.
+- **Doigt verrouillable :** Doté d'un mécanisme de verrouillage supplémentaire pour empêcher une ouverture accidentelle (système à vis, automatique, etc.).
+
+### Ressort
+Situé dans le doigt, il maintient le mousqueton fermé en appliquant une pression pour que le doigt se referme automatiquement après ouverture.
+
+### Système de verrouillage
+Présent sur les mousquetons à verrouillage, ce mécanisme permet de sécuriser l'ouverture du doigt. Il peut être :
+
+- **À vis :** L’utilisateur visse manuellement une bague pour verrouiller le doigt.
+- **Automatique :** Un système de verrouillage qui se ferme automatiquement (souvent appelé "twist-lock" ou "triple-lock").
+
+### Nez
+La partie du mousqueton qui se trouve à l'opposé de la charnière du doigt. C’est la zone où le doigt vient se poser lorsqu'il est fermé. Certains mousquetons modernes ont un nez keylock (sans crochet) pour éviter les accrocs avec la corde ou d'autres équipements.
+
+### Charnière
+L'articulation du doigt, qui permet son ouverture et fermeture. C’est un point de faiblesse potentiel, mais il est conçu pour supporter des charges élevées dans les modèles d'escalade.
+
+### Fond
+La partie opposée au doigt, où la corde est censée rester positionnée pendant l'utilisation. Il est souvent plus épais pour éviter l'usure rapide de la corde.
+
+### Pontet
+Sur certains mousquetons, notamment les modèles pour l’escalade artificielle, il peut y avoir une petite barre fixe ou mobile qui empêche la corde de sortir accidentellement du mousqueton.
 
 ## Normes 
 
@@ -52,27 +78,18 @@ Les mousquetons certifiés **EN 12275** ou **UIAA** doivent afficher leur résis
 
 Les mousquetons doivent également avoir un marquage clair avec le numéro de la norme, la résistance en kN, et les informations du fabricant pour une utilisation en toute sécurité.
 - Il faut qu'ils aient une résistance minimale de 20kn
-- Norme **EN 12275** ou **UIAA 121**. Les autres sont à éviter
+- Norme **UIAA 121**, **EN 12275** ou **EN 362**. Les autres sont à éviter
 
 ## Classification norme EN 12275
 
-- **B (Basic)** :
-    - **Usage** : Mousqueton polyvalent, généralement utilisé pour des connexions de base, comme attacher des cordes, des sangles, ou des dispositifs d'assurage.
-- **H (HMS)** :
-    - **Usage** : Mousqueton en forme de poire ou de "HMS", principalement utilisé pour l'assurage avec un demi-cabestan (HMS signifie "Halbmastwurf" en allemand).
-- **K (Klettersteig)** :
-    - **Usage** : Spécifiquement conçu pour les via ferrata. Ces mousquetons sont dotés d'un mécanisme de verrouillage automatique pour une sécurité accrue.
-- **D (Directionnel)** :
-    - **Usage** : Mousqueton conçu pour assurer une charge dans une direction spécifique, minimisant le risque de charge latérale ou d'utilisation incorrecte.
-- **X (Double directionnel)** :
-    - **Usage** : Comme les mousquetons forme de D, mais conçus pour gérer des charges dans deux directions différentes, assurant une sécurité supplémentaire.
-- **Q (Quickdraw)** :
-    - **Usage** : Mousquetons utilisés dans les dégaines, souvent plus légers, conçus pour faciliter le mousquetonnage rapide de la corde.
-- **A (Autobloquant)** :
-    - **Usage** : Mousquetons équipés d'un système autobloquant, souvent utilisés dans des systèmes où un verrouillage instantané est nécessaire, comme pour des dispositifs d'assurage automatique.
-- **T (Technical)** :
-    - **Usage** : Utilisé dans des environnements où des manipulations techniques complexes sont nécessaires, tels que l'alpinisme technique ou le sauvetage.
-
+- **B (Basic)** : Mousqueton polyvalent, généralement utilisé pour des connexions de base, comme attacher des cordes, des sangles, ou des dispositifs d'assurage.
+- **H (HMS)** : Mousqueton en forme de poire ou de "HMS", principalement utilisé pour l'assurage avec un demi-cabestan (HMS signifie "Halbmastwurf" en allemand).
+- **K (Klettersteig)** : Spécifiquement conçu pour les via ferrata. Ces mousquetons sont dotés d'un mécanisme de verrouillage automatique pour une sécurité accrue.
+- **D (Directionnel)** : Mousqueton conçu pour assurer une charge dans une direction spécifique, minimisant le risque de charge latérale ou d'utilisation incorrecte.
+- **X (Double directionnel)** : Comme les mousquetons forme de D, mais conçus pour gérer des charges dans deux directions différentes, assurant une sécurité supplémentaire.
+- **Q (Quickdraw)** : Mousquetons utilisés dans les dégaines, souvent plus légers, conçus pour faciliter le mousquetonnage rapide de la corde.
+- **A (Autobloquant)** : Mousquetons équipés d'un système autobloquant, souvent utilisés dans des systèmes où un verrouillage instantané est nécessaire, comme pour des dispositifs d'assurage automatique.
+- **T (Technical)** : Utilisé dans des environnements où des manipulations techniques complexes sont nécessaires, tels que l'alpinisme technique ou le sauvetage.
 
 ## Formes
 
@@ -88,11 +105,24 @@ Poulie, bloqueur, vache etc
 C'est le mousqueton officiel pour l'assurage et le rappel,
 Ils peuvent être utilisés comme un mousqueton de type B, mais il n'est pas recommandé de le faire : en raison de leur forme, ils ont tendance à bouger, et la corde a tendance à travailler près du doigt, ou transversalement, perdant l'axe de force et diminuant donc sa résistance.
 
-### Grande ouverture / Type K
-via
-
 ## Exemples d'application
 
-### Demis cabestan
+### Cabestan
+
+HMS, Rond
 
 ### Rappel
+
+Poire, corps en H pour le freinage
+
+### Vache
+
+D
+
+### progression
+
+D doigt fil
+
+### Poulie
+
+X
