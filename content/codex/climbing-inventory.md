@@ -1,51 +1,51 @@
 ---
 title: "Inventory"
-date: 2024-09-13
-lastmod: 2024-09-19
+date: 2024-09-19
+lastmod: 2024-09-20
 description:
 tags:
 category: Ascent
 toc: true
 draft: false
 ---
-# Inventory
+# Climbing Inventory
 
 ## Carabiners
 
-| Shape | Type | Brand   | Model      | Color  | Strength* | Qty | Comment |
-| ----- | ---- | ------- | ---------- | ------ | ---------- | --- | ------- |
-| D     | B    | Simond  | 3000       | Black       | 30/10/10  | 2   | Used on a double lanyard    |
-| Pear  | K    | Simond  |            | Silver/Blue |           | 1   | Used for lanyard on via kit |
-| Pear  | K    | Petzl   |            |             |           | 2   |    |
-| Pear  | HMS  | Simond  | Goliath    | Blue   | 25/10/ 7  | 2   |         |
-| Pear  | HMS  | Simond  | Goliath    | Silver | 25/10/ 7  | 2   |         |
-| Oval  | B    | Petzl   | OK         | Gray   | 25/ 8/ 7  | 3   |         |
-| Oval  | B    | Black D |            | Silver | 23/ 9/ 7  | 2   |         |
-| Oval  | B    | Black D |            | Black  | 23/ 9/ 7  | 2   |         |
-| D     | B    | Petzl   | Sm'D SCREW | Orange | 23/ 8/ 7  | 2   |         |
-| D     | B    | Petzl   | Sm'D Twist | Orange | 23/ 8/ 7  | 1   |         |
-| D     | B    | Simond  | Rocky M    | Silver | 22/ 8/ 7  | 1   |         |
-| N/A   | N/A  | Petlz   | Quick N°8  | Silver |           | 1   |         |
-| N/A   | N/A  | Camp    | Quick N°8  | Silver |           | 2   | |
-| D     | Q    | Black D |            |        |           | 12  | | 
-| D     | Q    | Black D |            |        |           | 12  | |
-| D     | Q    | Camp    |            | Orange |           | 2   | |
-| D     | Q    | Camp    |            | Gray   |           | 2   | |
+| Shape | Type | Brand   | Model       | Color        | Strength* | Qty |
+| ----- | ---- | ------- | ----------- | ------------ | --------- | --- |
+| Oval  | N/A  | Camp    | 8mm         | Silver       | 40/10/--  | 2   |
+| Oval  | N/A  | Petlz   | Go 8mm      | Silver       | 30/10/--  | 1   |
+| D     | B    | Simond  | 3000        | Black        | 30/10/10  | 2   |
+| Pear  | K    | Simond  |             | Silver/Blue  |           | 1   |
+| Pear  | K    | Petzl   | Vertigo     |              | 25/10/8   | 2   |
+| Pear  | HMS  | Simond  | Goliath     | Blue         | 25/10/ 7  | 2   |
+| Pear  | HMS  | Simond  | Goliath     | Silver       | 25/10/ 7  | 2   |
+| Oval  | B    | Petzl   | OK          | Gray         | 25/ 8/ 7  | 3   |
+| Oval  | B    | Black D |             | Silver/Black | 23/ 9/ 7  | 2   |
+| Oval  | B    | Black D |             | Black        | 23/ 9/ 7  | 2   |
+| D     | B    | Petzl   | Sm'D SCREW  | Orange       | 23/ 8/ 7  | 2   |
+| D     | B    | Petzl   | Sm'D Twist  | Orange       | 23/ 8/ 7  | 1   |
+| D     | B    | Simond  | Rocky M     | Silver       | 22/ 8/ 7  | 1   |
+| D     | Q    | Black D | solid gate  |              |           | 12  |
+| D     | Q    | Black D | wire gate   |              |           | 12  |
+| D     | Q    | Camp    | Photon Wire | Orange       | 22/ 8/ 9  | 2   |
+| D     | Q    | Camp    | Nano 22     | Gray         | 21/ 8/ 9  | 2   |
 
 
 **Strength\*:** Major axis / Minor axis / Open gate (in Kn)
 
 ## Hardware
 
-| Type     | Brand   | Model         |
-| -------- | ------- | ------------- |
-| Ascender | Petzl   | Tibloc        |
-| Ascender | Edelrid | Jumar         |
-| Belay    | Simond  | Huit          |
-| Belay    | Petzl   | Reverso       |
-| Lanyard  | Kong    | Slyde         |
-| Pulley   | Petzl   | Micro Traxion |
-| Pulley   | Petzl   | Partner       |
+| Type     | Brand   | Model             |
+| -------- | ------- | ----------------- |
+| Ascender | Edelrid | Hand cruiser left |
+| Ascender | Petzl   | Tibloc            |
+| Belay    | Simond  | Huit              |
+| Belay    | Petzl   | Reverso           |
+| Lanyard  | Kong    | Slyde             |
+| Pulley   | Petzl   | Micro Traxion     |
+| Pulley   | Petzl   | Partner           |
 
 ## Lanyards, Sling, Ropes, ...
 
@@ -64,19 +64,21 @@ draft: false
 | Sewn Sling | Petzl    | 120cm           | 2   |         |
 | Sewn Sling |          | 120cm           | 1   |         |
 
+## Ice universe
 
+| Type     | Brand   | Model           | Qty |
+| -------- | ------- | --------------- | --- |
+| Crampons | Simond  | Monoceros         | 1 |
+| Ice Axe  | Simond  | Piranha (green)   | 2 |
+| Ice Axe  | Petzl   | Summit Evo (??cm) | 1 |     
 
- ## Ice universe
- 
-- Crampons Simond Monoceros
-- Ice Axe Simond Pirana x 2
-- Ice Axe Petzl
 
 ## Wishlist
 
-- 2 x Oxan (38/16/15) pour ancrage
-- D : Rocky M pour créer longe double réglable
-- 2 x D compacts pour remplacer les HMS de mashard
+- 2 x Petzl Oxan (38/16/15) For rope anchor
+- D : Rocky M to transform simple lanyard to double lanyard with kong slyde
+- 2 x compact D (for HMS replacement)
 	- (ex: https://www.blackdiamondequipment.com/fr_FR/product/hotforge-screwgate-carabiner/?colorid=2517)
 	- https://www.ekosport.fr/grivel-k3n-plume-screw-lock-p-9-86306
-- Ice Screw
+- Ice Screw ~ 16cm
+- https://www.blackdiamondequipment.com/fr_FR/product/standard-dogbone-12cm-6-pack/
