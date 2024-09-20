@@ -51,7 +51,9 @@ draft: false
 
 | Type       | Brand    | Name            | Qty | Year    |
 | ---------- | -------- | --------------- | --- | ------- |
-| Cord ring  | Simond   | 60cm   diam 5   | 2   |         |
+| Cord       | Simond   | Diam. 7 / 4m    | 1   |         |
+| Cord       | Simond   | Diam 6. / 2.5m  | 1   |         |
+| Cord ring  | Simond   | Diam 6. / 120cm | 2   |         |
 | Harness    | Edelrid  |                 | 1   |         |
 | Harness    | Blue Ice | Choucas Pro     | 1   | 2023-04 |
 | Lanyard    | Simond   | Double          | 1   |         |
@@ -81,4 +83,4 @@ draft: false
 	- (ex: https://www.blackdiamondequipment.com/fr_FR/product/hotforge-screwgate-carabiner/?colorid=2517)
 	- https://www.ekosport.fr/grivel-k3n-plume-screw-lock-p-9-86306
 - Ice Screw ~ 16cm
-- https://www.blackdiamondequipment.com/fr_FR/product/standard-dogbone-12cm-6-pack/
+- 2x https://www.blackdiamondequipment.com/fr_FR/product/standard-dogbone-12cm-6-pack/
