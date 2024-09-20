@@ -10,25 +10,26 @@ draft: false
 ---
 # Climbing Inventory
 ## Carabiners
-| Shape | Type | Brand   | Model       | Color        | Strength* | Qty |
-| ----- | ---- | ------- | ----------- | ------------ | --------- | --- |
-| Oval  | N/A  | Camp    | 8mm         | Silver       | 40/10/--  | 2   |
-| Oval  | N/A  | Petlz   | Go 8mm      | Silver       | 30/10/--  | 1   |
-| D     | B    | Simond  | 3000        | Black        | 30/10/10  | 2   |
-| Pear  | K    | Simond  |             | Silver/Blue  |           | 1   |
-| Pear  | K    | Petzl   | Vertigo     |              | 25/10/8   | 2   |
-| Pear  | HMS  | Simond  | Goliath     | Blue         | 25/10/ 7  | 2   |
-| Pear  | HMS  | Simond  | Goliath     | Silver       | 25/10/ 7  | 2   |
-| Oval  | B    | Petzl   | OK          | Gray         | 25/ 8/ 7  | 3   |
-| Oval  | B    | Black D |             | Silver/Black | 23/ 9/ 7  | 2   |
-| Oval  | B    | Black D |             | Black        | 23/ 9/ 7  | 2   |
-| D     | B    | Petzl   | Sm'D SCREW  | Orange       | 23/ 8/ 7  | 2   |
-| D     | B    | Petzl   | Sm'D Twist  | Orange       | 23/ 8/ 7  | 1   |
-| D     | B    | Simond  | Rocky M     | Silver       | 22/ 8/ 7  | 1   |
-| D     | Q    | Black D | solid gate  |              |           | 12  |
-| D     | Q    | Black D | wire gate   |              |           | 12  |
-| D     | Q    | Camp    | Photon Wire | Orange       | 22/ 8/ 9  | 2   |
-| D     | Q    | Camp    | Nano 22     | Gray         | 21/ 8/ 9  | 2   |
+| Shape | Type | Brand   | Model       | Color  | Strength* | Qty |
+| ----- | ---- | ------- | ----------- | ------ | --------- | --- |
+| Oval  | N/A  | Camp    | 8mm         | Silver | 40/10/-   | 2   |
+| Oval  | N/A  | Petlz   | Go 8mm      | Silver | 30/10/-   | 1   |
+| D     | B    | Simond  | 3000        | Black  | 30/10/10  | 2   |
+| Pear  | K    | Simond  |             | Silver |           | 1   |
+| Pear  | K    | Petzl   | Vertigo     |        | 25/10/8   | 2   |
+| Pear  | HMS  | Simond  | Goliath     | Blue   | 25/10/7   | 2   |
+| Pear  | HMS  | Simond  | Goliath     | Silver | 25/10/7   | 2   |
+| Oval  | B    | Petzl   | OK          | Gray   | 25/8/7    | 3   |
+| Oval  | B    | Black D |             | Silver | 23/9/7    | 2   |
+| Oval  | B    | Black D |             | Black  | 23/9/7    | 2   |
+| D     | B    | Petzl   | Sm'D SCREW  | Orange | 23/8/7    | 2   |
+| D     | B    | Petzl   | Sm'D Twist  | Orange | 23/8/7    | 1   |
+| D     | B    | Simond  | Rocky M     | Silver | 22/8/7    | 1   |
+| D     | Q    | Black D | solid gate  |        |           | 12  |
+| D     | Q    | Black D | wire gate   |        |           | 12  |
+| D     | Q    | Camp    | Photon Wire | Orange | 22/8/9    | 2   |
+| D     | Q    | Camp    | Nano 22     | Gray   | 21/8/9    | 2   |
+
 **Strength\*:** Major axis / Minor axis / Open gate (in Kn)
 
 ## Hardware
@@ -45,14 +46,15 @@ draft: false
 ## Lanyards, Sling, Ropes, ...
 | Type       | Brand    | Name               | Qty | Year    |
 | ---------- | -------- | ------------------ | --- | ------- |
-| Cord       | Simond   | Diam. 7 / 4m       |   1 |         |
-| Cord       | Simond   | Diam 6. / 2.5m     |   1 |         |
-| Cord ring  | Simond   | Diam 6. / 60cm     |   2 |         |
+| Cord       | Simond   | Diam. 2mm / 80m    |   1 |         |
+| Cord       | Simond   | Diam. 7mm / 4m     |   1 |         |
+| Cord       | Simond   | Diam. 6mm / 2.5m   |   1 |         |
+| Cord ring  | Simond   | Diam. 6mm / 60cm   |   2 |         |
 | Harness    | Edelrid  |                    |   1 |         |
 | Harness    | Blue Ice | Choucas Pro        |   1 | 2023-04 |
 | Lanyard    | Simond   | Double             |   1 |         |
 | Lanyard    | Petzl    | Scorpio Vertigo    |   1 |         |
-| Q Webbing  | Black D  |                    |  12 |         |
+| Q Webbing  | Black D. |                    |  12 |         |
 | Q Webbing  | Petzl    | Express 17cm       |   2 |         |
 | Q Webbing  | Camp     | MACH EXPRESS 60 cm |   2 |         |
 | Rope       |          | 80m                |   1 |         |
@@ -69,11 +71,10 @@ draft: false
 | Ice Axe  | Petzl   | Summit Evo (??cm) | 1 |     
 
 ## Wishlist
-
-- 2 x Petzl Oxan (38/16/15) For rope anchor
-- D : Rocky M to transform simple lanyard to double lanyard with kong slyde
-- 2 x compact D (for HMS replacement)
-	- (ex: https://www.blackdiamondequipment.com/fr_FR/product/hotforge-screwgate-carabiner/?colorid=2517)
-	- https://www.ekosport.fr/grivel-k3n-plume-screw-lock-p-9-86306
-- Ice Screw ~ 16cm
+- 2x Petzl Oxan (38/16/15) For rope anchor
+- 1x Simond Rocky M to transform simple lanyard to double lanyard with kong slyde
+- 2x compact D (for HMS replacement)
+  - eg. https://www.blackdiamondequipment.com/fr_FR/product/hotforge-screwgate-carabiner/?colorid=2517
+  - eg. https://www.ekosport.fr/grivel-k3n-plume-screw-lock-p-9-86306
+- 2x Ice Screw ~ 16cm
 - 2x https://www.blackdiamondequipment.com/fr_FR/product/standard-dogbone-12cm-6-pack/
