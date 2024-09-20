@@ -45,8 +45,3 @@ languages:
     languageDirection: ltr
     languageName: English
     weight: 1
-
-markup:
-  goldmark:
-    extensions:
-      footnote: true
