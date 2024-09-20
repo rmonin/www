@@ -10,27 +10,27 @@ draft: false
 ---
 # Climbing Inventory
 ## Carabiners
-| Shape | Type | Brand   | Model       | Color  | Strength* | Qty |
-| ----- | ---- | ------- | ----------- | ------ | --------- | --- |
-| Oval  | N/A  | Camp    | 8mm         | Silver | 40/10/-   | 2   |
-| Oval  | N/A  | Petlz   | Go 8mm      | Silver | 30/10/-   | 1   |
-| D     | B    | Simond  | 3000        | Black  | 30/10/10  | 2   |
-| Pear  | K    | Simond  |             | Silver |           | 1   |
-| Pear  | K    | Petzl   | Vertigo     |        | 25/10/8   | 2   |
-| Pear  | HMS  | Simond  | Goliath     | Blue   | 25/10/7   | 2   |
-| Pear  | HMS  | Simond  | Goliath     | Silver | 25/10/7   | 2   |
-| Oval  | B    | Petzl   | OK          | Gray   | 25/8/7    | 3   |
-| Oval  | B    | Black D |             | Silver | 23/9/7    | 2   |
-| Oval  | B    | Black D |             | Black  | 23/9/7    | 2   |
-| D     | B    | Petzl   | Sm'D SCREW  | Orange | 23/8/7    | 2   |
-| D     | B    | Petzl   | Sm'D Twist  | Orange | 23/8/7    | 1   |
-| D     | B    | Simond  | Rocky M     | Silver | 22/8/7    | 1   |
-| D     | Q    | Black D | solid gate  |        |           | 12  |
-| D     | Q    | Black D | wire gate   |        |           | 12  |
-| D     | Q    | Camp    | Photon Wire | Orange | 22/8/9    | 2   |
-| D     | Q    | Camp    | Nano 22     | Gray   | 21/8/9    | 2   |
+| Shape | Type | Brand   | Model       | Color  | Strength[^1] | Qty |
+| ----- | ---- | ------- | ----------- | ------ | ------------ | --- |
+| Oval  | N/A  | Camp    | 8mm         | Silver | 40/10/-      | 2   |
+| Oval  | N/A  | Petlz   | Go 8mm      | Silver | 30/10/-      | 1   |
+| D     | B    | Simond  | 3000        | Black  | 30/10/10     | 2   |
+| Pear  | K    | Simond  |             | Silver |              | 1   |
+| Pear  | K    | Petzl   | Vertigo     |        | 25/10/8      | 2   |
+| Pear  | HMS  | Simond  | Goliath     | Blue   | 25/10/7      | 2   |
+| Pear  | HMS  | Simond  | Goliath     | Silver | 25/10/7      | 2   |
+| Oval  | B    | Petzl   | OK          | Gray   | 25/8/7       | 3   |
+| Oval  | B    | Black D |             | Silver | 23/9/7       | 2   |
+| Oval  | B    | Black D |             | Black  | 23/9/7       | 2   |
+| D     | B    | Petzl   | Sm'D SCREW  | Orange | 23/8/7       | 2   |
+| D     | B    | Petzl   | Sm'D Twist  | Orange | 23/8/7       | 1   |
+| D     | B    | Simond  | Rocky M     | Silver | 22/8/7       | 1   |
+| D     | Q    | Black D | solid gate  |        |              | 12  |
+| D     | Q    | Black D | wire gate   |        |              | 12  |
+| D     | Q    | Camp    | Photon Wire | Orange | 22/8/9       | 2   |
+| D     | Q    | Camp    | Nano 22     | Gray   | 21/8/9       | 2   |
 
-**Strength\*:** Major axis / Minor axis / Open gate (in Kn)
+[^1]**Strength\*:** Major axis / Minor axis / Open gate (in Kn)
 
 ## Hardware
 | Type     | Brand   | Model             |
