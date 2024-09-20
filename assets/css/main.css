@@ -10,5 +10,5 @@
 }
 
 .footnotes {
-  @applyy text-xs;
+  @apply text-xs;
 }
