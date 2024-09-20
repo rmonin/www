@@ -11,7 +11,7 @@ draft: false
 # Climbing Inventory
 ## Carabiners
 | Shape | Type | Brand   | Model       | Color  | Strength[^1] | Qty |
-| ----- | ---- | ------- | ----------- | ------ | ------------ | --- |
+| ----- | ---- | ------- | ----------- | ------ | :----------: | --: |
 | Oval  | N/A  | Camp    | 8mm         | Silver | 40/10/-      | 2   |
 | Oval  | N/A  | Petlz   | Go 8mm      | Silver | 30/10/-      | 1   |
 | D     | B    | Simond  | 3000        | Black  | 30/10/10     | 2   |
@@ -30,7 +30,7 @@ draft: false
 | D     | Q    | Camp    | Photon Wire | Orange | 22/8/9       | 2   |
 | D     | Q    | Camp    | Nano 22     | Gray   | 21/8/9       | 2   |
 
-[^1]**Strength\*:** Major axis / Minor axis / Open gate (in Kn)
+[^1]**Strength (Kn)** Major axis / Minor axis / Open gate
 
 ## Hardware
 | Type     | Brand   | Model             |
@@ -45,7 +45,7 @@ draft: false
 
 ## Lanyards, Sling, Ropes, ...
 | Type       | Brand    | Name               | Qty | Year    |
-| ---------- | -------- | ------------------ | --- | ------- |
+| ---------- | -------- | ------------------ | --: | ------- |
 | Cord       | Simond   | Diam. 2mm / 80m    |   1 |         |
 | Cord       | Simond   | Diam. 7mm / 4m     |   1 |         |
 | Cord       | Simond   | Diam. 6mm / 2.5m   |   1 |         |
@@ -65,7 +65,7 @@ draft: false
 
 ## Ice universe
 | Type     | Brand   | Model           | Qty |
-| -------- | ------- | --------------- | --- |
+| -------- | ------- | --------------- | --: |
 | Crampons | Simond  | Monoceros         | 1 |
 | Ice Axe  | Simond  | Piranha (green)   | 2 |
 | Ice Axe  | Petzl   | Summit Evo (??cm) | 1 |     
