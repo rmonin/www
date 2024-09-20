@@ -30,7 +30,7 @@ draft: false
 | D     | Q    | Camp    | Photon Wire | Orange | 22/8/9       | 2   |
 | D     | Q    | Camp    | Nano 22     | Gray   | 21/8/9       | 2   |
 
-[^1]**Strength (Kn)** Major axis / Minor axis / Open gate
+[^1]: **Strength (Kn)** Major axis / Minor axis / Open gate
 
 ## Hardware
 | Type     | Brand   | Model             |
