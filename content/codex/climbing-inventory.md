@@ -9,9 +9,7 @@ toc: true
 draft: false
 ---
 # Climbing Inventory
-
 ## Carabiners
-
 | Shape | Type | Brand   | Model       | Color        | Strength* | Qty |
 | ----- | ---- | ------- | ----------- | ------------ | --------- | --- |
 | Oval  | N/A  | Camp    | 8mm         | Silver       | 40/10/--  | 2   |
@@ -31,12 +29,9 @@ draft: false
 | D     | Q    | Black D | wire gate   |              |           | 12  |
 | D     | Q    | Camp    | Photon Wire | Orange       | 22/ 8/ 9  | 2   |
 | D     | Q    | Camp    | Nano 22     | Gray         | 21/ 8/ 9  | 2   |
-
-
 **Strength\*:** Major axis / Minor axis / Open gate (in Kn)
 
 ## Hardware
-
 | Type     | Brand   | Model             |
 | -------- | ------- | ----------------- |
 | Ascender | Edelrid | Hand cruiser left |
@@ -48,32 +43,30 @@ draft: false
 | Pulley   | Petzl   | Partner           |
 
 ## Lanyards, Sling, Ropes, ...
-
-| Type       | Brand    | Name            | Qty | Year    |
-| ---------- | -------- | --------------- | --- | ------- |
-| Cord       | Simond   | Diam. 7 / 4m    | 1   |         |
-| Cord       | Simond   | Diam 6. / 2.5m  | 1   |         |
-| Cord ring  | Simond   | Diam 6. / 120cm | 2   |         |
-| Harness    | Edelrid  |                 | 1   |         |
-| Harness    | Blue Ice | Choucas Pro     | 1   | 2023-04 |
-| Lanyard    | Simond   | Double          | 1   |         |
-| Lanyard    | Petzl    | Scorpio Vertigo | 1   |         |
-| Q Webbing  | Black D  |                 | 12  |         |
-| Q Webbing  | Petzl    | 17              | 2   |         |
-| Rope       |          | 80m             | 1   |         |
-| Rope       | Eko      | 2m              | 1   |         |
-| Sewn Sling | Blue Ice | 60cm            | 1   |         |
-| Sewn Sling | Petzl    | 120cm           | 2   |         |
-| Sewn Sling |          | 120cm           | 1   |         |
+| Type       | Brand    | Name               | Qty | Year    |
+| ---------- | -------- | ------------------ | --- | ------- |
+| Cord       | Simond   | Diam. 7 / 4m       |   1 |         |
+| Cord       | Simond   | Diam 6. / 2.5m     |   1 |         |
+| Cord ring  | Simond   | Diam 6. / 60cm     |   2 |         |
+| Harness    | Edelrid  |                    |   1 |         |
+| Harness    | Blue Ice | Choucas Pro        |   1 | 2023-04 |
+| Lanyard    | Simond   | Double             |   1 |         |
+| Lanyard    | Petzl    | Scorpio Vertigo    |   1 |         |
+| Q Webbing  | Black D  |                    |  12 |         |
+| Q Webbing  | Petzl    | Express 17cm       |   2 |         |
+| Q Webbing  | Camp     | MACH EXPRESS 60 cm |   2 |         |
+| Rope       |          | 80m                |   1 |         |
+| Rope       | Eko      | Diam 9.1mm / 2m    |   1 |         |
+| Sewn Sling | Blue Ice | Mission Light 60cm |   1 |         |
+| Sewn Sling |          | 120cm              |   2 |         |
+| Sewn Sling |          | 120cm              |   1 |         |
 
 ## Ice universe
-
 | Type     | Brand   | Model           | Qty |
 | -------- | ------- | --------------- | --- |
 | Crampons | Simond  | Monoceros         | 1 |
 | Ice Axe  | Simond  | Piranha (green)   | 2 |
 | Ice Axe  | Petzl   | Summit Evo (??cm) | 1 |     
-
 
 ## Wishlist
 
