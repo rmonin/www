@@ -24,11 +24,12 @@ draft: false
 | Oval  | B    | Black D |             | Black  | 23/9/7       | 2   |
 | D     | B    | Petzl   | Sm'D SCREW  | Orange | 23/8/7       | 2   |
 | D     | B    | Petzl   | Sm'D Twist  | Orange | 23/8/7       | 1   |
-| D     | B    | Simond  | Rocky M     | Silver | 22/8/7       | 1   |
+| D     | B    | Simond  | Rocky M     | Silver | 22/8/7       | 2   |
 | D     | Q    | Black D | solid gate  |        |              | 12  |
 | D     | Q    | Black D | wire gate   |        |              | 12  |
 | D     | Q    | Camp    | Photon Wire | Orange | 22/8/9       | 2   |
 | D     | Q    | Camp    | Nano 22     | Gray   | 21/8/9       | 2   |
+| D     | B    | Grivel  | K3N         | Orange | 20/7/7       | 2   |
 
 [^1]: **Strength (Kn)** Major axis / Minor axis / Open gate
 
@@ -58,10 +59,12 @@ draft: false
 | Q Webbing  | Petzl    | Express 17cm       |   2 |         |
 | Q Webbing  | Camp     | MACH EXPRESS 60 cm |   2 |         |
 | Rope       |          | 80m                |   1 |         |
-| Rope       | Eko      | Diam 9.1mm / 2m    |   1 |         |
+| Rope       | Eko      | Diam 9.1mm / 2m    |   1 | 2024-09 |
+| Rope       | Eko      | Diam 9.1mm / 3m    |   1 | 2024-09 |
 | Sewn Sling | Blue Ice | Mission Light 60cm |   1 |         |
-| Sewn Sling |          | 120cm              |   2 |         |
-| Sewn Sling |          | 120cm              |   1 |         |
+| Sewn Sling | Petzl    | ST'Anneau 120cm    |   2 |         |
+| Sewn Sling | Petzl    | Pur Anneau 120cm   |   1 |         |
+| Sewn Sling | Simond   | Blue/Black 180cm   |   1 |         |
 
 ## Ice universe
 | Type     | Brand   | Model           | Qty |
@@ -71,10 +74,6 @@ draft: false
 | Ice Axe  | Petzl   | Summit Evo (??cm) | 1 |     
 
 ## Wishlist
-- 1x [Simond Rocky M](https://www.decathlon.fr/p/mousqueton-a-vis-d-escalade-et-alpinisme-rocky-m-poli/_/R-p-305503?mc=8529596) to transform simple lanyard to double lanyard with Kong Slyde
 - 12x [Black D Quickdraw wedding](https://www.blackdiamondequipment.com/fr_FR/product/standard-dogbone-12cm-6-pack/)
-- 2 x compact D (for HMS replacement)
-  - eg. [Black D. HotForge](https://www.blackdiamondequipment.com/fr_FR/product/hotforge-screwgate-carabiner/?colorid=2517)
-  - [Grivel K3N Plume](https://www.ekosport.fr/grivel-k3n-plume-screw-lock-p-9-86306)
 - Ice Screw ~ 16cm
 - 2 x [Petzl Oxan](https://www.champion-direct.com/mousquetons/mousquetons-oxan) (38/16/15) For rope anchor
