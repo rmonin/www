@@ -30,11 +30,6 @@ draft: false
 ## Labials (bilabials and labiodentals)
 
 Sounds like "b", "p", "m", and "f" are grouped together because they share the common feature of being produced with the lips. "B" and "p" are bilabials, meaning both lips come together or close to produce the sound, while "m" and "f" are labiodentals, produced by placing the lower lip against the upper teeth.
-[240304-KISS-web-browsers](/article/240304-KISS-web-browsers.md)
-
-[[240326a-i-hate-streamlining-ux-of-settings-panel2]]
-
-![/files/foo.svg](/files/foo.svg)
 
 | ∅   | b-   | p-   | m-   | f-   |          |
 | --- | ---- | ---- | ---- | ---- | -------- |

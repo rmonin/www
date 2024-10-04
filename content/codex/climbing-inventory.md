@@ -74,7 +74,8 @@ draft: false
 | Ice Axe  | Petzl   | Summit Evo (??cm) | 1 |     
 
 ## Wishlist
-- Static rope 6mm / 60m [Edelrid Rapline](https://www.ekosport.fr/edelrid-rap-line-protect-pro-dry-6mm-60-m-p-9-106243?tai=V00380511&msclkid=bb78ab54004f1f932cc8cda936c46d83&utm_source=bing&utm_medium=cpc&utm_campaign=PMax:%20FR-SMART%20SHOPPING%20ALPINISME%20ESCALADE%202024&utm_term=2324367581803530&utm_content=COCORICO)
+- Static rope 6mm / 50m 7Kn [NewDoar](https://www.amazon.fr/NewDoar-descalade-Accessoire-darboriste-transport-6M/dp/B0CY1FDRWL)
 - Dynamic ropde dry 8.9/60m [Decathlon Edge dry](https://www.decathlon.fr/p/corde-escalade-et-alpinisme-triple-norme-8-9-mm-x-60-m-edge-dry-rose/_/R-p-196870?mc=8495202&c=rouge_rose_gris)
 - 12x [Black D Quickdraw wedding](https://www.blackdiamondequipment.com/fr_FR/product/10mm-dynex-dogbone-16cm-3-pack/) or [this](https://www.blackdiamondequipment.com/fr_FR/product/standard-dogbone-16cm-6-pack/)
 - Ice Screw ~ 16cm
+- [Revo Wild Country](https://www.ekosport.fr/wild-country-revo-belay-device-p-9-103934)
