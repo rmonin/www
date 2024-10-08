@@ -19,14 +19,14 @@ draft: false
 | Pear  | K    | Petzl   | Vertigo     |        | 25/10/8      | 2   |
 | Pear  | HMS  | Simond  | Goliath     | Blue   | 25/10/7      | 2   |
 | Pear  | HMS  | Simond  | Goliath     | Silver | 25/10/7      | 2   |
+| D     | Q    | Black D | solid gate  |        | 25/8/8       | 12  |
+| D     | Q    | Black D | wire gate   |        | 25/8/7       | 12  |
 | Oval  | B    | Petzl   | OK          | Gray   | 25/8/7       | 3   |
 | Oval  | B    | Black D |             | Silver | 23/9/7       | 2   |
 | Oval  | B    | Black D |             | Black  | 23/9/7       | 2   |
 | D     | B    | Petzl   | Sm'D SCREW  | Orange | 23/8/7       | 2   |
 | D     | B    | Petzl   | Sm'D Twist  | Orange | 23/8/7       | 1   |
 | D     | B    | Simond  | Rocky M     | Silver | 22/8/7       | 2   |
-| D     | Q    | Black D | solid gate  |        |              | 12  |
-| D     | Q    | Black D | wire gate   |        |              | 12  |
 | D     | Q    | Camp    | Photon Wire | Orange | 22/8/9       | 2   |
 | D     | Q    | Camp    | Nano 22     | Gray   | 21/8/9       | 2   |
 | D     | B    | Grivel  | K3N         | Orange | 20/7/7       | 2   |
