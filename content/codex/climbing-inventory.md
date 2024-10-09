@@ -79,3 +79,5 @@ draft: false
 - 12x [Black D Quickdraw wedding](https://www.blackdiamondequipment.com/fr_FR/product/10mm-dynex-dogbone-16cm-3-pack/) or [this](https://www.blackdiamondequipment.com/fr_FR/product/standard-dogbone-16cm-6-pack/)
 - Ice Screw ~ 16cm
 - [Revo Wild Country](https://www.ekosport.fr/wild-country-revo-belay-device-p-9-103934)
+- [Progression hook](https://www.petzl.com/FR/fr/Sport/Sacs-et-accessoires/GOUTTE-D-EAU)
+- Aideer
