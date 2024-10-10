@@ -15,12 +15,16 @@ Appelé aussi connecteur. ça sert à connecter des éléments entre eux
 
 ## Anatomie
 ### Corps
-La partie principale, souvent en aluminium ou en acier, qui supporte la charge. Le corps a une forme variable (D, ovale, HMS, etc.), influençant la répartition de la force.
+La partie principale, souvent en aluminium ou en acier, qui supporte la charge. Le corps a une forme variable (Plein ou en H), influençant le coulissement de la corde et le poids.
 
 ### Doigt (ou verrou)
 La partie mobile qui s'ouvre pour permettre l'insertion de la corde ou de l'équipement. Il existe deux principaux types de doigts :
 - **Doigt simple (non verrouillable) :** Un ressort permet au doigt de se refermer automatiquement une fois relâché.
-- **Doigt verrouillable :** Doté d'un mécanisme de verrouillage supplémentaire pour empêcher une ouverture accidentelle (système à vis, automatique, etc.).
+- **Doigt verrouillable :** Doté d'un mécanisme de verrouillage supplémentaire pour empêcher une ouverture accidentelle
+  - à vis,
+  - automatique simple lock,
+  - automatique double lock,
+  - automatique triple lock
 
 ### Ressort
 Situé dans le doigt, il maintient le mousqueton fermé en appliquant une pression pour que le doigt se referme automatiquement après ouverture.
@@ -35,6 +39,9 @@ La partie du mousqueton qui se trouve à l'opposé de la charnière du doigt. C�
 
 ### Charnière
 L'articulation du doigt, qui permet son ouverture et fermeture. C’est un point de faiblesse potentiel, mais il est conçu pour supporter des charges élevées dans les modèles d'escalade.
+
+### Porte
+Espace laissé vide lorsque le doigt est ouvert. Entre le nez et la charnière.
 
 ### Fond
 La partie opposée au doigt, où la corde est censée rester positionnée pendant l'utilisation. Il est souvent plus épais pour éviter l'usure rapide de la corde.
@@ -131,29 +138,14 @@ Ils peuvent être utilisés comme un mousqueton de type B, mais il n'est pas rec
 **Rmq :** Il existe des modèles directionnels (avec un pontet) pour éviter l'effet de retournement
 
 ## Exemples d'application
-### Cabestan
-Poire, Ovale, D 
 
-### Assurage
-Poire, D peut etre avec une sécurité twist double lock plutôt que vis
-
-### Rappel
-Poire, corps en H pour le freinage
-
-### Vache
-D
-
-### progression
-D doigt fil ou plein
-
-### Poulie
-X
-
-### Via ferrata
-
-Poire, type K de préférence twist simple lock
-
-### Ancrage
-D, X à vis ou Twist 3 Lock (éviter double lock)
-
-Il faut privilégier un mousqueton avec la resistance la plus élevée.
+| Application | Poire | D   | Ovale | Remarques |
+| ----------- | :---: | :-: | :---: | --------- |
+| Cabestan    | X     | X   | X     |           |
+| Assurage    | X     | X   |       | Peut être automatique double lock minimum |
+| Rappel      | X     | X   |       | Peut avoir un corps en H pour rajouter de la friction |
+| Vache       |       | X   |       |           |
+| Progression |       | X   | X     | Peut avoir un doigt fil pour la légèreté |
+| Poulie      |       |     | X     | Pour travailler dans l'axe |
+| Via Ferrata | X     | X   |       | De type K, privilégier le simple lock pour la rapidité |
+| Ancrage     |       | X   | X     | Privilégier la resistance la plus élevée |
