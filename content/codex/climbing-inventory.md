@@ -15,8 +15,8 @@ draft: false
 | Oval  | N/A  | Camp    | 8mm         | Silver | 40/10/-      | 2   |
 | Oval  | N/A  | Petlz   | Go 8mm      | Silver | 30/10/-      | 1   |
 | D     | B    | Simond  | 3000        | Black  | 30/10/10     | 2   |
-| Pear  | K    | Simond  |             | Silver |              | 1   |
 | Pear  | K    | Petzl   | Vertigo     |        | 25/10/8      | 2   |
+| Pear  | K    | Simond  | Jumbo       | Silver | 25/10/7      | 1   |
 | Pear  | HMS  | Simond  | Goliath     | Blue   | 25/10/7      | 2   |
 | Pear  | HMS  | Simond  | Goliath     | Silver | 25/10/7      | 2   |
 | D     | Q    | Black D | solid gate  |        | 25/8/8       | 12  |

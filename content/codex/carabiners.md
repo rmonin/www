@@ -76,40 +76,27 @@ Les mousquetons certifiés **EN 12275** ou **UIAA** doivent afficher leur résis
 ### Ce qu'il faut retenir
 
 Les mousquetons doivent également avoir un marquage clair avec le numéro de la norme, la résistance en kN, et les informations du fabricant pour une utilisation en toute sécurité.
-- Il faut qu'ils aient une résistance minimale de 20kn
+- Il faut qu'ils aient une résistance minimale de **20 kNn**
 - Norme **UIAA 121**, **EN 12275** ou **EN 362**. Les autres sont à éviter
 
 ## Classification norme EN 12275
 
-- **B (Basic)** : Mousqueton polyvalent, généralement utilisé pour des connexions de base, comme attacher des cordes, des sangles, ou des dispositifs d'assurage.
-- **H (HMS)** : Mousqueton en forme de poire ou de "HMS", principalement utilisé pour l'assurage avec un demi-cabestan (HMS signifie "Halbmastwurf" en allemand).
-- **K (Klettersteig)** : Spécifiquement conçu pour les via ferrata. Ces mousquetons sont dotés d'un mécanisme de verrouillage automatique pour une sécurité accrue.
-- **D (Directionnel)** : Mousqueton conçu pour assurer une charge dans une direction spécifique, minimisant le risque de charge latérale ou d'utilisation incorrecte.
-- **X (Double directionnel)** : Comme les mousquetons forme de D, mais conçus pour gérer des charges dans deux directions différentes, assurant une sécurité supplémentaire.
-- **Q (Quickdraw)** : Mousquetons utilisés dans les dégaines, souvent plus légers, conçus pour faciliter le mousquetonnage rapide de la corde.
-- **A (Autobloquant)** : Mousquetons équipés d'un système autobloquant, souvent utilisés dans des systèmes où un verrouillage instantané est nécessaire, comme pour des dispositifs d'assurage automatique.
-- **T (Technical)** : Utilisé dans des environnements où des manipulations techniques complexes sont nécessaires, tels que l'alpinisme technique ou le sauvetage.
+- **`B` (Basic)** : Mousqueton polyvalent, généralement utilisé pour des connexions de base, comme attacher des cordes, des sangles, ou des dispositifs d'assurage.
+- **`H` (HMS)** : Mousqueton en forme de poire ou de "HMS", principalement utilisé pour l'assurage avec un demi-cabestan (HMS signifie "Halbmastwurf" en allemand).
+- **`K` (Klettersteig)** : Spécifiquement conçu pour les via ferrata. Ces mousquetons sont dotés d'un mécanisme de verrouillage automatique pour une sécurité accrue.
+- **`D` (Directionnel)** : Mousqueton conçu pour assurer une charge dans une direction spécifique, minimisant le risque de charge latérale ou d'utilisation incorrecte.
+- **`X` (Double directionnel)** : Comme les mousquetons forme de D, mais conçus pour gérer des charges dans deux directions différentes, assurant une sécurité supplémentaire.
+- **`Q` (Quickdraw)** : Mousquetons utilisés dans les dégaines, souvent plus légers, conçus pour faciliter le mousquetonnage rapide de la corde.
+- **`A` (Autobloquant)** : Mousquetons équipés d'un système autobloquant, souvent utilisés dans des systèmes où un verrouillage instantané est nécessaire, comme pour des dispositifs d'assurage automatique.
+- **`T` (Technical)** : Utilisé dans des environnements où des manipulations techniques complexes sont nécessaires, tels que l'alpinisme technique ou le sauvetage.
 
 ## Formes
 
-### D
-
-**Types :** B, Q
-
-À privilégier par défaut, connecteur simple (ex: vache, dégaine).
- 
-La corde va souvent se placer aux extrémités du fond (donc à l'opposé du doigt) c'est là que le connecteur a le plus de résistance.
-
-| Utilisation | Oui | Non | Remarques |
-| ----------- | :-: | :-: | --------- |
-| Noeuds      | X   |     | Dépanage  |
-| Assurage    | X   |     | Dépanage  |
-| Poulies     | X   |     | Dépanage  |
-| Connections | X   |     |           |
-
 ### Ovale
 
-**Types :** X, B
+**Types :** `X`, `B`
+
+Le mousqueton le plus simple. Le fond et le doigt sont parallèles, travaille dans l'axe
 
 Utile et conseillé pour les poulies, bloqueur, jumars etc car cela fait travailler le monsqueton et le matériel dans l'axe
 
@@ -120,9 +107,34 @@ Utile et conseillé pour les poulies, bloqueur, jumars etc car cela fait travail
 | Poulies     | X   |     | Travaille dans l'axe |
 | Connections | X   |     | Travaille dans l'axe |
 
+### B
+
+**Types :** `B`
+
+Entre l'ovale et de D, permet de faire travailler le mousqueton au plus près du fond, loin de la porte. Le fond et le doigt sont parrallèles.
+
+On en trouve très peu de nos jours.
+
+### D
+
+**Types :** `B`, `Q`
+
+À privilégier par défaut, connecteur simple (ex: vache, dégaine).
+ 
+La corde va souvent se placer aux extrémités du fond (donc à l'opposé du doigt) c'est là que le connecteur a le plus de résistance.
+
+Le fond et le doigt ne sont pas parralèles.
+
+| Utilisation | Oui | Non | Remarques |
+| ----------- | :-: | :-: | --------- |
+| Noeuds      | X   |     | Dépanage  |
+| Assurage    | X   |     | Dépanage  |
+| Poulies     | X   |     | Dépanage  |
+| Connections | X   |     |           |
+
 ### Poire
 
-**Types :** H, K ou certains B
+**Types :** `H`, `K` ou certains `B`
 
 C'est le mousqueton officiel pour l'assurage et le rappel.
 
