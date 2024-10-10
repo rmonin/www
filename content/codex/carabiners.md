@@ -96,7 +96,7 @@ Les mousquetons doivent également avoir un marquage clair avec le numéro de la
 
 ![carabiners shape](/files/climbing/carabiner-shape.jpg)
 
-Sur cette image, de gauche à droite : Ovale, Poire, D et B
+Sur cette image, de gauche à droite : Ovale, Poire, D asymétrique et D
 
 ### Ovale
 
@@ -113,19 +113,13 @@ Utile et conseillé pour les poulies, bloqueur, jumars etc car cela fait travail
 | Poulies     | X   |     | Travaille dans l'axe |
 | Connections | X   |     | Travaille dans l'axe |
 
-### B
-
-**Types :** `B`
-
-Entre l'ovale et de D, appelé parfois D aussi. Permet de faire travailler le mousqueton au plus près du fond, loin de la porte. Le fond et le doigt sont parrallèles.
-
-On en trouve très peu de nos jours.
-
-### D
+### D et D asymetriques
 
 **Types :** `B` certains `D`
 
 À privilégier par défaut, connecteur simple (ex: vache, dégaine).
+
+Le D simple a le fond parallèle au doigt contrairement à celui asymétrique. On ne trouve casiment que des D asymètriques
  
 La corde va souvent se placer aux extrémités du fond (donc à l'opposé du doigt) c'est là que le connecteur a le plus de résistance.
 
