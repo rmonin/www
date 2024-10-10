@@ -14,10 +14,13 @@ draft: false
 Appelé aussi connecteur. ça sert à connecter des éléments entre eux
 
 ## Anatomie
+
+![carabiner parts](/files/climbing/carabiner-parts-min.jpg)
+
 ### Corps
 La partie principale, souvent en aluminium ou en acier, qui supporte la charge. Le corps a une forme variable (Plein ou en H), influençant le coulissement de la corde et le poids.
 
-### Doigt (ou verrou)
+### Doigt
 La partie mobile qui s'ouvre pour permettre l'insertion de la corde ou de l'équipement. Il existe deux principaux types de doigts :
 - **Doigt simple (non verrouillable) :** Un ressort permet au doigt de se refermer automatiquement une fois relâché.
 - **Doigt verrouillable :** Doté d'un mécanisme de verrouillage supplémentaire pour empêcher une ouverture accidentelle
@@ -40,9 +43,6 @@ La partie du mousqueton qui se trouve à l'opposé de la charnière du doigt. C�
 ### Charnière
 L'articulation du doigt, qui permet son ouverture et fermeture. C’est un point de faiblesse potentiel, mais il est conçu pour supporter des charges élevées dans les modèles d'escalade.
 
-### Porte
-Espace laissé vide lorsque le doigt est ouvert. Entre le nez et la charnière.
-
 ### Fond
 La partie opposée au doigt, où la corde est censée rester positionnée pendant l'utilisation. Il est souvent plus épais pour éviter l'usure rapide de la corde.
 
@@ -62,6 +62,8 @@ Les mousquetons certifiés **EN 12275** ou **UIAA** doivent afficher leur résis
 - **L'axe mineur**,
 - **Doigt ouvert**.
 
+![carabiner strength ratings](/files/climbing/carabiner-strength-ratings.svg)
+
 ### Normes pour les travaux en hauteur
 
 - **EN 362** : Norme européenne pour les connecteurs utilisés dans les équipements de protection individuelle (EPI) pour les travaux en hauteur. Elle régule les mousquetons pour les systèmes antichute, de retenue, de sauvetage et de maintien au travail.
@@ -76,25 +78,29 @@ Les mousquetons certifiés **EN 12275** ou **UIAA** doivent afficher leur résis
 ### Ce qu'il faut retenir
 
 Les mousquetons doivent également avoir un marquage clair avec le numéro de la norme, la résistance en kN, et les informations du fabricant pour une utilisation en toute sécurité.
-- Il faut qu'ils aient une résistance minimale de **20 kNn**
+- Il faut qu'ils aient une résistance minimale de **20 kN**
 - Norme **UIAA 121**, **EN 12275** ou **EN 362**. Les autres sont à éviter
 
 ## Classification norme EN 12275
 
+![carabiners](/files/climbing/UIAA-121-carabiners.png)
+
 - **`B` (Basic)** : Mousqueton polyvalent, généralement utilisé pour des connexions de base, comme attacher des cordes, des sangles, ou des dispositifs d'assurage.
-- **`H` (HMS)** : Mousqueton en forme de poire ou de "HMS", principalement utilisé pour l'assurage avec un demi-cabestan (HMS signifie "Halbmastwurf" en allemand).
-- **`K` (Klettersteig)** : Spécifiquement conçu pour les via ferrata. Ces mousquetons sont dotés d'un mécanisme de verrouillage automatique pour une sécurité accrue.
 - **`D` (Directionnel)** : Mousqueton conçu pour assurer une charge dans une direction spécifique, minimisant le risque de charge latérale ou d'utilisation incorrecte.
 - **`X` (Double directionnel)** : Comme les mousquetons forme de D, mais conçus pour gérer des charges dans deux directions différentes, assurant une sécurité supplémentaire.
-- **`Q` (Quickdraw)** : Mousquetons utilisés dans les dégaines, souvent plus légers, conçus pour faciliter le mousquetonnage rapide de la corde.
-- **`A` (Autobloquant)** : Mousquetons équipés d'un système autobloquant, souvent utilisés dans des systèmes où un verrouillage instantané est nécessaire, comme pour des dispositifs d'assurage automatique.
-- **`T` (Technical)** : Utilisé dans des environnements où des manipulations techniques complexes sont nécessaires, tels que l'alpinisme technique ou le sauvetage.
+- **`H` (HMS)** : Mousqueton en forme de poire ou de "HMS", principalement utilisé pour l'assurage avec un demi-cabestan (HMS signifie "Halbmastwurf" en allemand).
+- **`K` (Klettersteig)** : Spécifiquement conçu pour les via ferrata. Ces mousquetons sont dotés d'un mécanisme de verrouillage automatique pour une sécurité accrue.
+- **`Q` (Quick link)** : Maillon rapdie. Utilisé pour des ancrage ou réchapes.
 
 ## Formes
 
+![carabiners shape](/files/climbing/carabiner-shape.jpg)
+
+Sur cette image, de gauche à droite : Ovale, Poire, D et B
+
 ### Ovale
 
-**Types :** `X`, `B`
+**Types :** `X`, certains `B`
 
 Le mousqueton le plus simple. Le fond et le doigt sont parallèles, travaille dans l'axe
 
@@ -111,13 +117,13 @@ Utile et conseillé pour les poulies, bloqueur, jumars etc car cela fait travail
 
 **Types :** `B`
 
-Entre l'ovale et de D, permet de faire travailler le mousqueton au plus près du fond, loin de la porte. Le fond et le doigt sont parrallèles.
+Entre l'ovale et de D, appelé parfois D aussi. Permet de faire travailler le mousqueton au plus près du fond, loin de la porte. Le fond et le doigt sont parrallèles.
 
 On en trouve très peu de nos jours.
 
 ### D
 
-**Types :** `B`, `Q`
+**Types :** `B` certains `D`
 
 À privilégier par défaut, connecteur simple (ex: vache, dégaine).
  
@@ -134,7 +140,7 @@ Le fond et le doigt ne sont pas parralèles.
 
 ### Poire
 
-**Types :** `H`, `K` ou certains `B`
+**Types :** `H`, `K` ou certains `B` et `D`
 
 C'est le mousqueton officiel pour l'assurage et le rappel.
 
@@ -161,3 +167,10 @@ Ils peuvent être utilisés comme un mousqueton de type B, mais il n'est pas rec
 | Poulie      |       |     | X     | Pour travailler dans l'axe |
 | Via Ferrata | X     | X   |       | De type K, privilégier le simple lock pour la rapidité |
 | Ancrage     |       | X   | X     | Privilégier la resistance la plus élevée |
+
+
+## Sources
+
+- [UIAA Recommendations Standard](https://theuiaa.org/documents/safety/Recommendations_Standard_121_BMC.pdf)
+- [UIAA - 121 2004](https://mproprovider.wordpress.com/wp-content/uploads/2008/07/uiaa121_connectors01-2004.pdf)
+- [How to Choose Carabiners | Trail & Crag](https://trailandcrag.com/rock-climbing/guide-carabiners)
