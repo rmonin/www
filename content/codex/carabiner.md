@@ -1,7 +1,7 @@
 ---
 title: "Mousquetons"
 date: 2024-09-13
-lastmod: 2024-09-19
+lastmod: 2024-10-10
 lang: "fr"
 description:
 tags:
@@ -93,11 +93,12 @@ Les mousquetons doivent également avoir un marquage clair avec le numéro de la
  
 La corde va souvent se placer aux extrémités du fond (donc à l'opposé du doigt) c'est là que le connecteur a le plus de résistance.
 
-| Utilisation | Oui | non | Remarques |
-| ----------- | --- | --- | --------- |
+| Utilisation | Oui | Non | Remarques |
+| ----------- | :-: | :-: | --------- |
 | Noeuds      | X   |     | Dépanage  |
 | Assurage    | X   |     | Dépanage  |
 | Poulies     | X   |     | Dépanage  |
+| Connections | X   |     |           |
 
 ### Ovale
 
@@ -106,10 +107,11 @@ La corde va souvent se placer aux extrémités du fond (donc à l'opposé du doi
 Utile et conseillé pour les poulies, bloqueur, jumars etc car cela fait travailler le monsqueton et le matériel dans l'axe
 
 | Utilisation | Oui | Non | Remarques |
-| ----------- | --- | --- | --------- |
+| ----------- | :-: | :-: | --------- |
 | Noeuds      |     | X   | Manqe de place |
 | Assurage    |     | X   | Peut se retourner, Moins robuste que le D |
 | Poulies     | X   |     | Travaille dans l'axe |
+| Connections | X   |     | Travaille dans l'axe |
 
 ### Poire
 
@@ -120,16 +122,20 @@ C'est le mousqueton officiel pour l'assurage et le rappel.
 Ils peuvent être utilisés comme un mousqueton de type B, mais il n'est pas recommandé de le faire : en raison de leur forme, ils ont tendance à bouger, et la corde a tendance à travailler près du doigt, ou transversalement, perdant l'axe de force et diminuant donc sa résistance.
 
 | Utilisation | Oui | Non | Remarques |
-| ----------- | --- | --- | --------- |
+| ----------- | :-: | :-: | --------- |
 | Noeuds      | X   |     |           |
-| Assurage    |     | X   | Travaille près du doigt |
+| Assurage    | X   |     | Travaille près du doigt |
 | Poulies     |     | X   | Travaille près du doigt, bouge beaucoup |
+| Connections |     | X   | Travaille près du doigt |
 
 **Rmq :** Il existe des modèles directionnels (avec un pontet) pour éviter l'effet de retournement
 
 ## Exemples d'application
 ### Cabestan
-HMS, Rond
+Poire, Ovale, D 
+
+### Assurage
+Poire, D peut etre avec une sécurité twist double lock plutôt que vis
 
 ### Rappel
 Poire, corps en H pour le freinage
@@ -138,7 +144,16 @@ Poire, corps en H pour le freinage
 D
 
 ### progression
-D doigt fil
+D doigt fil ou plein
 
 ### Poulie
 X
+
+### Via ferrata
+
+Poire, type K de préférence twist simple lock
+
+### Ancrage
+D, X à vis ou Twist 3 Lock (éviter double lock)
+
+Il faut privilégier un mousqueton avec la resistance la plus élevée.
