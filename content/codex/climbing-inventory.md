@@ -55,17 +55,19 @@ draft: false
 | Harness    | Edelrid  |                    |   1 |         |
 | Harness    | Blue Ice | Choucas Pro        |   1 | 2023-04 |
 | Lanyard    | Beal     | DynaDouble 40/70   |   1 | 2013    |
-| Lanyard    | Petzl    | Scorpio Vertigo    |   1 |         |
-| Q Webbing  | Black D. |                    |  12 |         |
-| Q Webbing  | Petzl    | Express 17cm       |   2 |         |
-| Q Webbing  | Camp     | MACH EXPRESS 60 cm |   2 |         |
-| Rope       |          | 80m                |   1 | 2013    |
+| Lanyard    | Petzl    | Scorpio Vertigo    |   1 | 2021-06 |
+| Q Webbing  | Black D. |                    |   6 | 2012    |
+| Q Webbing  | Black D. |                    |   6 | 2013    |
+| Q Webbing  | Petzl    | Express 17cm       |   2 | 2024-04 |
+| Q Webbing  | Camp     | MACH EXPRESS 60 cm |   1 | 2323-11 |
+| Q Webbing  | Camp     | MACH EXPRESS 60 cm |   1 | 2324-05 |
+| Rope       |          | 80m                |   1 | 2012    |
 | Rope       | Eko      | Diam 9.1mm / 2m    |   1 | 2024-09 |
 | Rope       | Eko      | Diam 9.1mm / 3m    |   1 | 2024-09 |
-| Sewn Sling | Blue Ice | Mission Light 60cm |   1 |         |
-| Sewn Sling | Petzl    | ST'Anneau 120cm    |   2 |         |
-| Sewn Sling | Petzl    | Pur Anneau 120cm   |   1 |         |
-| Sewn Sling | Simond   | Blue/Black 180cm   |   1 |         |
+| Sewn Sling | Blue Ice | Mission Light 60cm |   1 | 2024-01 |
+| Sewn Sling | Petzl    | ST'Anneau 120cm    |   2 | 2023-11 |
+| Sewn Sling | Petzl    | Pur Anneau 120cm   |   1 | 2023-12 |
+| Sewn Sling | Simond   | Blue/Black 180cm   |   1 | 2024-08 |
 
 ## Ice universe
 | Type     | Brand   | Model           | Qty |
@@ -83,5 +85,5 @@ draft: false
 - [Progression hook](https://www.petzl.com/FR/fr/Sport/Sacs-et-accessoires/GOUTTE-D-EAU)
 - [Aideer](https://www.ekosport.fr/petzl-etrier-gradistep-p-9-107713)
 - Nuts, at least 1 to 11 [eg. black Diamond](https://www.ekosport.fr/black-diamond-stopper-set-pro-1-13-p-9-37808)
-- Nuts bonus at least 4 to 7 (eg. [DMM](https://www.ekosport.fr/dmm-wallnut-set-3-8-p-9-126252))
+- Additionnal Nuts. At least 4 to 7 (eg. [DMM](https://www.ekosport.fr/dmm-wallnut-set-3-8-p-9-126252))
 - [Omega link cam #2](https://www.spelemat.com/produits/f/b/omega-pacific+p/link-cam-2)
