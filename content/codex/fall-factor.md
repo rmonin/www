@@ -3,8 +3,11 @@ title: Facteur de chute
 date: 2024-09-16
 lastmod: 2024-09-17
 lang: fr
-description:
+description: An informative sheet on fall factor in climbing, explaining its significance, calculations, and how it impacts safety during climbs.
 tags:
+  - FallFactor
+  - Climbing
+  - Safety
 category: Ascent
 toc: false
 draft: false

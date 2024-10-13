@@ -3,13 +3,21 @@ title: Noeuds
 date: 2024-09-13
 lastmod: 2024-10-09
 lang: "fr"
-description:
+description: A detailed guide on climbing knots, outlining their types, uses, and techniques to ensure safety and efficiency in climbing.
 tags:
+  - Knots
+  - Climbing
+  - Safety
 category: Ascent
 toc: false
 draft: false
 ---
 
+# Les noeuds
+
+## Vue d'ensemble
+
+En partant du Ashley's Book of Knots, voici un listing des illustrations que je trouve interressant d'explorer (les doublons et comparatifs etc seront fait plus tard)
 
 | ABoK  | Name | Join | Loop | Autoblock | Stopper |
 | ----: | ---- | :--: | :--: | :-------: | :-----: |
@@ -121,41 +129,24 @@ draft: false
 | #1822 | Slipped half Hitch |
 | #3114 | Two hitches      |
 
-p.50
+En cours: p.50 / Infografy p27
 
-Infografy p27
+**Types d'utilisation principales :** Tying | Anchor | Belay |  Rappel |
+
+### Autre
 
 - Bachmann
 - Blake's hitch
-- Bunny ears
+- Bunny ears / oreilles de lapin
 - Escape
-- Figure-eight
-- Loop
 - Machard / Klemheist
 - (French) Machard
-- Overhand
 - Self locking
 - Valdotain
-
----
-
-Tying | Anchor | Belay |  Rappel |
-
-
-- Noeud simple
-- Noeud de huit (Figure-Eight Knot)
-- oreilles de lapin
-- Papillon
-- Cabestan (Clove Hitch)
 - 1/2 Cabestan
 - Pecheur simple
-- Pecheur double (Double Fisherman’s Knot)
-- capucin
-- Noeud de chaise (Bowline Knot)
+- capucin (slip knot ?)
 - Noeud de coeur
-
----
-
 - Noeud de mule (Munter-Mule Knot)
 - noeud de chaise espagnol
 - Noeud de chaise de calfat
@@ -163,10 +154,13 @@ Tying | Anchor | Belay |  Rappel |
 - Noeud du fermier
 - Frein sur mousqueton
 - Noeud de fusion
-- 
+
+
 ## Autobloquant
 
 ### Prusik
+
+Bidirectionnel
 
 ### Mashard
 
@@ -192,7 +186,9 @@ perte de 2 à 3cm mais fonctionne bien quadn meme
 
 ### Valdotain
 
+
 ## Sources :
 
 - [ABoK](https://l-36.com/abok.php) ([pdf](https://dn790008.ca.archive.org/0/items/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots.pdf))
 - https://www.lesnoeuds.com/ (care with theses info, may be wrong sometimes)
+- http://zpag.net/Noeuds/escalade.htm

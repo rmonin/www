@@ -1,9 +1,10 @@
 ---
 title: "Inventory"
 date: 2024-09-19
-lastmod: 2024-09-20
-description:
+lastmod: 2024-10-13
+description: My personal inventory of climbing gear, detailing each item to help me select the right equipment for different climbing situations.
 tags:
+  - gear
 category: Ascent
 toc: true
 draft: false
@@ -47,18 +48,18 @@ draft: false
 ## Lanyards, Sling, Ropes, ...
 | Type       | Brand    | Name               | Qty | Year    |
 | ---------- | -------- | ------------------ | --: | ------- |
-| Cord       | Simond   | Diam. 2mm / 80m    |   1 |         |
-| Cord       | Simond   | Diam. 7mm / 4m     |   1 |         |
-| Cord       | Simond   | Diam. 6mm / 2.5m   |   1 |         |
-| Cord ring  | Simond   | Diam. 6mm / 60cm   |   2 |         |
+| Cord       | Simond   | Diam. 2mm / 80m    |   1 | 2024    |
+| Cord       | Simond   | Diam. 7mm / 4m     |   1 | 2024    |
+| Cord       | Simond   | Diam. 6mm / 2.5m   |   1 | 2024    |
+| Cord ring  | Simond   | Diam. 6mm / 60cm   |   2 | 2024    |
 | Harness    | Edelrid  |                    |   1 |         |
 | Harness    | Blue Ice | Choucas Pro        |   1 | 2023-04 |
-| Lanyard    | Simond   | Double             |   1 |         |
+| Lanyard    | Beal     | DynaDouble 40/70   |   1 | 2013    |
 | Lanyard    | Petzl    | Scorpio Vertigo    |   1 |         |
 | Q Webbing  | Black D. |                    |  12 |         |
 | Q Webbing  | Petzl    | Express 17cm       |   2 |         |
 | Q Webbing  | Camp     | MACH EXPRESS 60 cm |   2 |         |
-| Rope       |          | 80m                |   1 |         |
+| Rope       |          | 80m                |   1 | 2013    |
 | Rope       | Eko      | Diam 9.1mm / 2m    |   1 | 2024-09 |
 | Rope       | Eko      | Diam 9.1mm / 3m    |   1 | 2024-09 |
 | Sewn Sling | Blue Ice | Mission Light 60cm |   1 |         |
@@ -76,8 +77,11 @@ draft: false
 ## Wishlist
 - Static rope 6mm / 50m 7Kn [NewDoar](https://www.amazon.fr/NewDoar-descalade-Accessoire-darboriste-transport-6M/dp/B0CY1FDRWL)
 - Dynamic ropde dry 8.9/60m [Decathlon Edge dry](https://www.decathlon.fr/p/corde-escalade-et-alpinisme-triple-norme-8-9-mm-x-60-m-edge-dry-rose/_/R-p-196870?mc=8495202&c=rouge_rose_gris)
-- 12x [Black D Quickdraw wedding](https://www.blackdiamondequipment.com/fr_FR/product/10mm-dynex-dogbone-16cm-3-pack/) or [this](https://www.blackdiamondequipment.com/fr_FR/product/standard-dogbone-16cm-6-pack/)
+<!-- - 12x [Black D Quickdraw wedding](https://www.blackdiamondequipment.com/fr_FR/product/10mm-dynex-dogbone-16cm-3-pack/) or [this](https://www.blackdiamondequipment.com/fr_FR/product/standard-dogbone-16cm-6-pack/) -->
 - Ice Screw ~ 16cm
 - [Revo Wild Country](https://www.ekosport.fr/wild-country-revo-belay-device-p-9-103934)
 - [Progression hook](https://www.petzl.com/FR/fr/Sport/Sacs-et-accessoires/GOUTTE-D-EAU)
-- Aideer
+- [Aideer](https://www.ekosport.fr/petzl-etrier-gradistep-p-9-107713)
+- Nuts, at least 1 to 11 [eg. black Diamond](https://www.ekosport.fr/black-diamond-stopper-set-pro-1-13-p-9-37808)
+- Nuts bonus at least 4 to 7 (eg. [DMM](https://www.ekosport.fr/dmm-wallnut-set-3-8-p-9-126252))
+- [Omega link cam #2](https://www.spelemat.com/produits/f/b/omega-pacific+p/link-cam-2)

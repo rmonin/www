@@ -1,10 +1,13 @@
 ---
 title: "Mousquetons"
 date: 2024-09-13
-lastmod: 2024-10-10
+lastmod: 2024-10-13
 lang: "fr"
-description:
+description: A quick reference guide to understanding the key features of climbing carabiners, helping you choose the right connector for the right context, whether for rock climbing, mountaineering, or rope access.
 tags:
+  - carabiners
+  - climbing
+  - gear
 category: Ascent
 toc: true
 draft: false

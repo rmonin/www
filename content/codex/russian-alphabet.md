@@ -3,7 +3,7 @@ title: Алфавит
 date: 2024-09-16
 lastmod: 2024-09-17
 lang: ru
-description:
+description: A reference page listing the Cyrillic alphabet, providing the letters and their corresponding sounds for quick learning and reference.
 tags:
 category: Language Learning
 toc: false
