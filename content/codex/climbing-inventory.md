@@ -14,7 +14,7 @@ draft: false
 | Shape | Type | Brand   | Model       | Color  | Strength[^1] | Qty |
 | ----- | ---- | ------- | ----------- | ------ | :----------: | --: |
 | Oval  | N/A  | Camp    | 8mm         | Silver | 40/10/-      | 2   |
-| Oval  | N/A  | Petlz   | Go 8mm      | Silver | 30/10/-      | 1   |
+| Oval  | N/A  | Petlz   | Go 8mm      | Silver | 32/10/-      | 1   |
 | D     | B    | Simond  | 3000        | Black  | 30/10/10     | 2   |
 | Pear  | K    | Petzl   | Vertigo     |        | 25/10/8      | 2   |
 | Pear  | K    | Simond  | Jumbo       | Silver | 25/10/7      | 1   |
