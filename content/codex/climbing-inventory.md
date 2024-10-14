@@ -1,7 +1,7 @@
 ---
 title: "Inventory"
 date: 2024-09-19
-lastmod: 2024-10-13
+lastmod: 2024-10-14
 description: My personal inventory of climbing gear, detailing each item to help me select the right equipment for different climbing situations.
 tags:
   - gear
@@ -80,6 +80,9 @@ draft: false
 - Static rope 6mm / 50m 7Kn [NewDoar](https://www.amazon.fr/NewDoar-descalade-Accessoire-darboriste-transport-6M/dp/B0CY1FDRWL)
 - Dynamic ropde dry 8.9/60m [Decathlon Edge dry](https://www.decathlon.fr/p/corde-escalade-et-alpinisme-triple-norme-8-9-mm-x-60-m-edge-dry-rose/_/R-p-196870?mc=8495202&c=rouge_rose_gris)
 <!-- - 12x [Black D Quickdraw wedding](https://www.blackdiamondequipment.com/fr_FR/product/10mm-dynex-dogbone-16cm-3-pack/) or [this](https://www.blackdiamondequipment.com/fr_FR/product/standard-dogbone-16cm-6-pack/) -->
+- OXAN TL x2
+- OXAN TLN x1
+- Backfeed management x ??
 - Ice Screw ~ 16cm
 - [Revo Wild Country](https://www.ekosport.fr/wild-country-revo-belay-device-p-9-103934)
 - [Progression hook](https://www.petzl.com/FR/fr/Sport/Sacs-et-accessoires/GOUTTE-D-EAU)
