@@ -1,7 +1,7 @@
 ---
 title: Noeuds
 date: 2024-09-13
-lastmod: 2024-10-09
+lastmod: 2024-10-17
 lang: "fr"
 description: A detailed guide on climbing knots, outlining their types, uses, and techniques to ensure safety and efficiency in climbing.
 tags:
@@ -99,11 +99,45 @@ En partant du Ashley's Book of Knots, voici un listing des illustrations que je 
 | #0296 | Water knot       |
 | #0297 | Becket Hitch     |
 | #0298 | Slipped Becket Hitch |
-| #0310 | |
-| #0311 | |
-|       | |
+| #0306 | Jam Knot         |
+| #0307 | Half Hitch       |
+| #0308 | Figure Height    |
+| #0309 | Double Overhand  |
+| #0310 | Ring Hitch       |
+| #0311 | Noose            |
+| #0329 | |
+| #0331 | Lineman's loop   |
+| #0332 | Bowline          |
+| #0333 | Snell loop       |
+| #0334 | Becket Hitch     |
+| #0339 | Double overhand knot |
+| #0347 | Ring Hitches     |
+| #0355 | Constructor knot |
+| #0364 | Constrictor knot |
+| #0368 | Clove Hitch      |
+| #0369 | Two half hitches |
+| #0371 | Constrictor hitch |
+| #0372 | Constrictor knot |
+| #0385 | Transformation knot |
+| #0391 | Precipice knot   |
+| #0394 | Slipped half hitch |
+| #0400 | Clove Hitch      |
+| #0400 | Cow Hitch        |
+| #0420 | Figure height    |
+| #0421 | Clove Hitch      |
+| #0428 |     |
+| #0430 | Constrictor      |
+| #0431 | Adjustable Hitch |
+| #0435 | Bale Sling Hitch |
+| #0437 | Clove Hitch      |
+| #0438 | Simple knot      |
+| #0439 | Lanyard hitch    |
+| #0452 | |
 | #0515 | Overhand         |
+| #0520 | Figure height    |
 | #0524 | Figure Height    |
+| #0693 | Diamond knot     |
+| #1050 |
 | #1053 | Alpine Butterfly |
 | #1009 | Loop knot        |
 | #1010 | Bowline          |
@@ -117,19 +151,28 @@ En partant du Ashley's Book of Knots, voici un listing des illustrations que je 
 | #1177 | Clove hitch      |
 | #1178 | Clove Hitch      |
 | #1130 | Half Clove hitch / HMS |
+| #1249 | Constrictor knot |
 | #1391 | Tape             |
 | #1410 | Fisherman's knot |
 | #1415 | Double Fisherman’s knot |
 | #1425 | Zeppelin         |
+| #1431 | Sheet bend       |
+| #1480 | Rope yarn knot   |
+| #1606 | Overhand knot    |
 | #1710 | Two Half Hitches |
+| #1717 | Half Hitch sized |
+| #1719 | Two half Hitch sized |
 | #1735 | Rolling Hitch    |
 | #1759 | Bale SLing Hitch |
+| #1775 | Clove Hitch
 | #1786 | Reversed Half Hitches |
+| #1799 | Adjustable Hitch |
 | #1800 | Adjustable Hitch |
 | #1822 | Slipped half Hitch |
+| #1859 | Ring Hitches     |
 | #3114 | Two hitches      |
 
-En cours: p.50 / Infografy p27
+En cours: p.70 / Infografy p27
 
 **Types d'utilisation principales :** Tying | Anchor | Belay |  Rappel |
 
