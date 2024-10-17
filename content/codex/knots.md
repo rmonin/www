@@ -172,7 +172,7 @@ En partant du Ashley's Book of Knots, voici un listing des illustrations que je 
 | #1859 | Ring Hitches     |
 | #3114 | Two hitches      |
 
-En cours: p.70 / Infografy p27
+En cours: p.73 / Infografy p27
 
 **Types d'utilisation principales :** Tying | Anchor | Belay |  Rappel |
 
