@@ -84,6 +84,7 @@ draft: false
 - OXAN TLN x1
 - Backfeed management x ??
 - Ice Screw ~ 16cm
+- [Grivel Plume Captive K3WC](https://grivel.com/collections/carabiners/products/plume-captive-k3wc)
 - [Revo Wild Country](https://www.ekosport.fr/wild-country-revo-belay-device-p-9-103934)
 - [Progression hook](https://www.petzl.com/FR/fr/Sport/Sacs-et-accessoires/GOUTTE-D-EAU)
 - [Aideer](https://www.ekosport.fr/petzl-etrier-gradistep-p-9-107713)
