@@ -204,6 +204,7 @@ En cours: p.73 / Infografy p27
 ### Prusik
 
 Bidirectionnel
+le plus fort des 3
 
 ### Mashard
 
@@ -228,6 +229,7 @@ machard français à l'envers
 perte de 2 à 3cm mais fonctionne bien quadn meme
 
 ### Valdotain
+utile si pas de boucle ou cordelette de meme diametre que la corde
 
 
 ## Sources :
