@@ -10,7 +10,10 @@ draft: true
 ---
 # Lead Rope Solo
 
-## Anchor
+## Anchors
+
+- 2 anchors
+- 1 anchor réplicated
 
 ## Belay
 
@@ -20,9 +23,17 @@ draft: true
 
 ### Grigri
 
+### Barnet
+
+### Height (italian way)
+
 ## Backup
 
 ## Spare loop
 
 ## Back feed management
+
+- prusik
+- stopper knot above quickdraw (alpine)
+- soft artefact
 
