@@ -32,8 +32,6 @@ draft: false
 | D     | Q    | Camp    | Nano 22     | Gray   | 21/8/9       | 2   |
 | D     | B    | Grivel  | K3N         | Orange | 20/7/7       | 2   |
 
-[^1]: **Strength (Kn)** Major axis / Minor axis / Open gate
-
 ## Hardware
 | Type     | Brand   | Model             |
 | -------- | ------- | ----------------- |
@@ -58,7 +56,7 @@ draft: false
 | Q Webbing  | Petzl    | Express 17cm       |   2 | 2024-04 |
 | Q Webbing  | Camp     | MACH EXPRESS 60 cm |   1 | 2323-11 |
 | Q Webbing  | Camp     | MACH EXPRESS 60 cm |   1 | 2324-05 |
-| ~Rope~     | ~Eko~    | ~Diam 9.1mm / 2m~  | ~1~ | ~2024-09~ |
+| ~~Rope~~   | ~~Eko~~  | ~~Diam 9.1mm / 2m~~ | ~~1~~ | ~~2024-09~~ |
 | Rope       | Eko      | Diam 9.1mm / 3m    |   1 | 2024-09 |
 | Sewn Sling | Blue Ice | Mission Light 60cm |   1 | 2024-01 |
 | Sewn Sling | Petzl    | ST'Anneau 120cm    |   2 | 2023-11 |
@@ -74,11 +72,13 @@ draft: false
 
 
 ## Ropes
-| Type   | Brand / Model    | Diam  | Length | kg   | kN  | Year |
-| ------ | ---------------- | ----- | ------ | ---- | --- | ---- |
-| Single | Edelrid Tower    | 10.5  | 80m    | 69   |     | 2012 |
-| ~Triple~ | ~Decathlon Edge Dry~ | ~8.9mm~ | ~60m~    | ~3.24~ | ~7.9~ |      |
-| ~Static~ | ~NewDoar~      | ~6.0mm~ | ~50m~    | ~1.46~ | ~7.0~ |      |
+| Type       | Brand / Model          | Diam.[^2] | L.[^3] | Weigth      | kN      | UUIA | Year |
+| ---------- | ---------------------- | --------: | ------ | ----------- | ------- | ---: | ---- |
+| Single     | Edelrid Tower          | 10.5      | 80     | 69 g/m      |         |    9 | 2012 |
+| ~~Triple~~ | ~~Decathlon Edge Dry~~ | ~~8.9~~   | ~~60~~ | ~~3.24 Kg~~ | ~~7.9~~ |      |      |
+| ~~Static~~ | ~~NewDoar~~            | ~~6.0~~   | ~~50~~ | ~~1.46 Kg~~ | ~~7.0~~ |      |      |
+
+
 
 ## Ice universe
 | Type     | Brand   | Model             | Qty |
@@ -104,5 +104,9 @@ draft: false
 <!-- - 12x [Black D Quickdraw wedding](https://www.blackdiamondequipment.com/fr_FR/product/10mm-dynex-dogbone-16cm-3-pack/) or [this](https://www.blackdiamondequipment.com/fr_FR/product/standard-dogbone-16cm-6-pack/) -->
 - [Edelrid Kiwi slider](https://www.ekosport.fr/edelrid-kiwi-slider-p-9-106272)
 
-## Sources
+## Archives
 - [Edelrid 2012 Catalog](http://thestonegroupwest.com/uploads/2/8/9/7/2897956/edelrid_catalog_2012.pdf)
+
+[^1]: **Strength (kN)** Major axis / Minor axis / Open gate
+[^2]: **Diameter** in milimeters
+[^3]: **Length** in meters
