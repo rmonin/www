@@ -1,7 +1,7 @@
 ---
 title: "Inventory"
 date: 2024-09-19
-lastmod: 2024-10-14
+lastmod: 2024-10-22
 description: My personal inventory of climbing gear, detailing each item to help me select the right equipment for different climbing situations.
 tags:
   - gear
@@ -48,12 +48,9 @@ draft: false
 ## Lanyards, Sling, Ropes, ...
 | Type       | Brand    | Name               | Qty | Year    |
 | ---------- | -------- | ------------------ | --: | ------- |
-| Cord       | Simond   | Diam. 2mm / 80m    |   1 | 2024    |
-| Cord       | Simond   | Diam. 7mm / 4m     |   1 | 2024    |
-| Cord       | Simond   | Diam. 6mm / 2.5m   |   1 | 2024    |
 | Cord ring  | Simond   | Diam. 6mm / 60cm   |   2 | 2024    |
-| Harness    | Edelrid  |                    |   1 |         |
-| Harness    | Blue Ice | Choucas Pro        |   1 | 2023-04 |
+| Harness    | Edelrid  | Moe                |   1 | 2012    |
+| Harness    | Blue Ice | Choucas Pro L      |   1 | 2023-04 |
 | Lanyard    | Beal     | DynaDouble 40/70   |   1 | 2013    |
 | Lanyard    | Petzl    | Scorpio Vertigo    |   1 | 2021-06 |
 | Q Webbing  | Black D. |                    |   6 | 2012    |
@@ -61,33 +58,48 @@ draft: false
 | Q Webbing  | Petzl    | Express 17cm       |   2 | 2024-04 |
 | Q Webbing  | Camp     | MACH EXPRESS 60 cm |   1 | 2323-11 |
 | Q Webbing  | Camp     | MACH EXPRESS 60 cm |   1 | 2324-05 |
-| Rope       |          | 80m                |   1 | 2012    |
-| Rope       | Eko      | Diam 9.1mm / 2m    |   1 | 2024-09 |
+| ~Rope~     | ~Eko~    | ~Diam 9.1mm / 2m~  | ~1~ | ~2024-09~ |
 | Rope       | Eko      | Diam 9.1mm / 3m    |   1 | 2024-09 |
 | Sewn Sling | Blue Ice | Mission Light 60cm |   1 | 2024-01 |
 | Sewn Sling | Petzl    | ST'Anneau 120cm    |   2 | 2023-11 |
 | Sewn Sling | Petzl    | Pur Anneau 120cm   |   1 | 2023-12 |
 | Sewn Sling | Simond   | Blue/Black 180cm   |   1 | 2024-08 |
 
+## Cords
+| Brand  | Diam  | Length | Color       | kN  | Year |
+| ------ | ----- | ------ | ----------- | --- | ---- |
+| Simond | 2mm   | 80m    | Blue/Orange | 0.8 | 2024 |
+| Simond | 6mm   | 2.5m   | Oragne      | 9   | 2024 |
+| Simond | 7mm   | 4m     | Green       | 12  | 2024 |
+
+
+## Ropes
+| Type   | Brand / Model    | Diam  | Length | kg   | kN  | Year |
+| ------ | ---------------- | ----- | ------ | ---- | --- | ---- |
+| Single | Edelrid Tower    | 10.5  | 80m    | 69   |     | 2012 |
+| ~Triple~ | ~Decathlon Edge Dry~ | ~8.9mm~ | ~60m~    | ~3.24~ | ~7.9~ |      |
+| ~Static~ | ~NewDoar~      | ~6.0mm~ | ~50m~    | ~1.46~ | ~7.0~ |      |
+
 ## Ice universe
-| Type     | Brand   | Model           | Qty |
-| -------- | ------- | --------------- | --: |
-| Crampons | Simond  | Monoceros         | 1 |
-| Ice Axe  | Simond  | Piranha (green)   | 2 |
-| Ice Axe  | Petzl   | Summit Evo (??cm) | 1 |     
+| Type     | Brand   | Model             | Qty |
+| -------- | ------- | ----------------- | --: |
+| Crampons | Simond  | Monoceros         |   1 |
+| Ice Axe  | Simond  | Piranha (green)   |   2 |
+| Ice Axe  | Petzl   | Summit Evo (52cm) |   1 |
 
 ## Wishlist
 - Static rope 6mm / 50m 7Kn [NewDoar](https://www.amazon.fr/NewDoar-descalade-Accessoire-darboriste-transport-6M/dp/B0CY1FDRWL)
 - Dynamic ropde dry 8.9/60m [Decathlon Edge dry](https://www.decathlon.fr/p/corde-escalade-et-alpinisme-triple-norme-8-9-mm-x-60-m-edge-dry-rose/_/R-p-196870?mc=8495202&c=rouge_rose_gris)
-<!-- - 12x [Black D Quickdraw wedding](https://www.blackdiamondequipment.com/fr_FR/product/10mm-dynex-dogbone-16cm-3-pack/) or [this](https://www.blackdiamondequipment.com/fr_FR/product/standard-dogbone-16cm-6-pack/) -->
 - OXAN TL x2
 - OXAN TLN x1
 - Backfeed management x ??
 - Ice Screw ~ 16cm
-- [Grivel Plume Captive K3WC](https://grivel.com/collections/carabiners/products/plume-captive-k3wc)
 - [Revo Wild Country](https://www.ekosport.fr/wild-country-revo-belay-device-p-9-103934)
 - [Progression hook](https://www.petzl.com/FR/fr/Sport/Sacs-et-accessoires/GOUTTE-D-EAU)
 - [Aideer](https://www.ekosport.fr/petzl-etrier-gradistep-p-9-107713)
 - Nuts, at least 1 to 11 [eg. black Diamond](https://www.ekosport.fr/black-diamond-stopper-set-pro-1-13-p-9-37808)
 - Additionnal Nuts. At least 4 to 7 (eg. [DMM](https://www.ekosport.fr/dmm-wallnut-set-3-8-p-9-126252))
 - [Omega link cam #2](https://www.spelemat.com/produits/f/b/omega-pacific+p/link-cam-2)
+- Petzl Caritool x 3
+<!-- - 12x [Black D Quickdraw wedding](https://www.blackdiamondequipment.com/fr_FR/product/10mm-dynex-dogbone-16cm-3-pack/) or [this](https://www.blackdiamondequipment.com/fr_FR/product/standard-dogbone-16cm-6-pack/) -->
+- [Edelrid Kiwi slider](https://www.ekosport.fr/edelrid-kiwi-slider-p-9-106272)

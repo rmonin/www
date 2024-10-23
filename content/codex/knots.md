@@ -197,6 +197,7 @@ En cours: p.73 / Infografy p27
 - Noeud du fermier
 - Frein sur mousqueton
 - Noeud de fusion
+- Noeud du bourré
 
 
 ## Autobloquant

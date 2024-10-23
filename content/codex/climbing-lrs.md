@@ -6,7 +6,7 @@ description:
 tags:
 category: Ascent
 toc: true
-draft: true
+draft: false
 ---
 # Lead Rope Solo
 
