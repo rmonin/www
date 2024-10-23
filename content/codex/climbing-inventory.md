@@ -103,3 +103,6 @@ draft: false
 - Petzl Caritool x 3
 <!-- - 12x [Black D Quickdraw wedding](https://www.blackdiamondequipment.com/fr_FR/product/10mm-dynex-dogbone-16cm-3-pack/) or [this](https://www.blackdiamondequipment.com/fr_FR/product/standard-dogbone-16cm-6-pack/) -->
 - [Edelrid Kiwi slider](https://www.ekosport.fr/edelrid-kiwi-slider-p-9-106272)
+
+## Sources
+- [Edelrid 2012 Catalog](http://thestonegroupwest.com/uploads/2/8/9/7/2897956/edelrid_catalog_2012.pdf)
