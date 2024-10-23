@@ -64,21 +64,11 @@ draft: false
 | Sewn Sling | Simond   | Blue/Black 180cm   |   1 | 2024-08 |
 
 ## Cords
-| Brand  | Diam  | Length | Color       | kN  | Year |
-| ------ | ----- | ------ | ----------- | --- | ---- |
-| Simond | 2mm   | 80m    | Blue/Orange | 0.8 | 2024 |
-| Simond | 6mm   | 2.5m   | Oragne      | 9   | 2024 |
-| Simond | 7mm   | 4m     | Green       | 12  | 2024 |
-
-
-## Ropes
-| Type       | Brand / Model          | Diam.[^2] | L.[^3] | Weigth      | kN      | UUIA | Year |
-| ---------- | ---------------------- | --------: | ------ | ----------- | ------- | ---: | ---- |
-| Single     | Edelrid Tower          | 10.5      | 80     | 69 g/m      |         |    9 | 2012 |
-| ~~Triple~~ | ~~Decathlon Edge Dry~~ | ~~8.9~~   | ~~60~~ | ~~3.24 Kg~~ | ~~7.9~~ |      |      |
-| ~~Static~~ | ~~NewDoar~~            | ~~6.0~~   | ~~50~~ | ~~1.46 Kg~~ | ~~7.0~~ |      |      |
-
-
+| Brand  | D.[^2] | Length | Color       | BS[^3] | Year |
+| ------ | -----: | -----: | ----------- | -----: | ---- |
+| Simond | 2 mm   | 80 m   | Blue/Orange | 0.8    | 2024 |
+| Simond | 6 mm   | 2.5 m  | Oragne      | 9      | 2024 |
+| Simond | 7 mm   | 4 m    | Green       | 12     | 2024 |
 
 ## Ice universe
 | Type     | Brand   | Model             | Qty |
@@ -86,6 +76,23 @@ draft: false
 | Crampons | Simond  | Monoceros         |   1 |
 | Ice Axe  | Simond  | Piranha (green)   |   2 |
 | Ice Axe  | Petzl   | Summit Evo (52cm) |   1 |
+
+## Ropes
+<!-- | Type       | Brand / Model          | D.[^2]  |  | Weigth      |   | UUIA | Year |
+| ---------- | ---------------------- | ------: | ------ | ----------- | ------- | ---: | ---- |
+| Single     | Edelrid Tower          | 10.5    | 80     | 69 g/m      |         |    9 | 2012 |
+| ~~Triple~~ | ~~Decathlon Edge Dry~~ | ~~8.9~~ | ~~60~~ | ~~3.24 Kg~~ | ~~7.9~~ |      |      |
+| ~~Static~~ | ~~NewDoar~~            | ~~6.0~~ | ~~50~~ | ~~1.46 Kg~~ | ~~7.0~~ |      |      | -->
+
+### Edelrid Tower
+> **Type** Single
+> **Diameter** 9.8 mm
+> **Length** 70 m
+> **Weight** 61 g/m
+> **Color** Lava (Red/Pink)
+> **Characteristics[^3]** UIAA: 8
+> **Coating** None
+> **Manufacture Year** 2012
 
 ## Wishlist
 - Static rope 6mm / 50m 7Kn [NewDoar](https://www.amazon.fr/NewDoar-descalade-Accessoire-darboriste-transport-6M/dp/B0CY1FDRWL)
@@ -109,4 +116,4 @@ draft: false
 
 [^1]: **Strength (kN)** Major axis / Minor axis / Open gate
 [^2]: **Diameter** in milimeters
-[^3]: **Length** in meters
+[^3]: **BS** Breaking Strength (kN) / **IF** Impact Force (kN) / **UIAA** UIAA Falls
