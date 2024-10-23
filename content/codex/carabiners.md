@@ -13,44 +13,34 @@ toc: true
 draft: false
 ---
 # Mousquetons
-## Généralités
-Appelé aussi connecteur. ça sert à connecter des éléments entre eux
+Appelé aussi connecteur. Sert essentiellement à connecter des éléments entre eux.
 
 ## Anatomie
 
 ![carabiner parts](/files/climbing/carabiner-parts-min.jpg)
 
-### Corps
-La partie principale, souvent en aluminium ou en acier, qui supporte la charge. Le corps a une forme variable (Plein ou en H), influençant le coulissement de la corde et le poids.
+**Corps** La partie principale, souvent en aluminium ou en acier, qui supporte la charge. Le corps a une forme variable (Plein ou en H), influençant le coulissement de la corde et le poids.
 
-### Doigt
-La partie mobile qui s'ouvre pour permettre l'insertion de la corde ou de l'équipement. Il existe deux principaux types de doigts :
+**Doigt** La partie mobile qui s'ouvre pour permettre l'insertion de la corde ou de l'équipement. Il existe deux principaux types de doigts :
 - **Doigt simple (non verrouillable) :** Un ressort permet au doigt de se refermer automatiquement une fois relâché.
 - **Doigt verrouillable :** Doté d'un mécanisme de verrouillage supplémentaire pour empêcher une ouverture accidentelle
-  - à vis,
-  - automatique simple lock,
-  - automatique double lock,
-  - automatique triple lock
 
-### Ressort
-Situé dans le doigt, il maintient le mousqueton fermé en appliquant une pression pour que le doigt se referme automatiquement après ouverture.
+**Ressort** Situé dans le doigt, il maintient le mousqueton fermé en appliquant une pression pour que le doigt se referme automatiquement après ouverture.
+
+**Nez** La partie du mousqueton qui se trouve à l'opposé de la charnière du doigt. C’est la zone où le doigt vient se poser lorsqu'il est fermé. Certains mousquetons modernes ont un nez keylock (sans crochet) pour éviter les accrocs avec la corde ou d'autres équipements.
+
+**Charnière** L'articulation du doigt, qui permet son ouverture et fermeture. C’est un point de faiblesse potentiel, mais il est conçu pour supporter des charges élevées dans les modèles d'escalade.
+
+**Fond** La partie opposée au doigt, où la corde est censée rester positionnée pendant l'utilisation. Il est souvent plus épais pour éviter l'usure rapide de la corde.
+
+**Pontet** Sur certains mousquetons, notamment les modèles pour l’escalade artificielle ou l'assurage. Il peut y avoir une petite barre fixe ou mobile qui empêche la corde de sortir accidentellement du mousqueton.
 
 ### Système de verrouillage
 Présent sur les mousquetons à verrouillage, ce mécanisme permet de sécuriser l'ouverture du doigt. Il peut être :
 - **À vis :** L’utilisateur visse manuellement une bague pour verrouiller le doigt.
-- **Automatique :** Un système de verrouillage qui se ferme automatiquement (souvent appelé "twist-lock" ou "triple-lock").
-
-### Nez
-La partie du mousqueton qui se trouve à l'opposé de la charnière du doigt. C’est la zone où le doigt vient se poser lorsqu'il est fermé. Certains mousquetons modernes ont un nez keylock (sans crochet) pour éviter les accrocs avec la corde ou d'autres équipements.
-
-### Charnière
-L'articulation du doigt, qui permet son ouverture et fermeture. C’est un point de faiblesse potentiel, mais il est conçu pour supporter des charges élevées dans les modèles d'escalade.
-
-### Fond
-La partie opposée au doigt, où la corde est censée rester positionnée pendant l'utilisation. Il est souvent plus épais pour éviter l'usure rapide de la corde.
-
-### Pontet
-Sur certains mousquetons, notamment les modèles pour l’escalade artificielle, il peut y avoir une petite barre fixe ou mobile qui empêche la corde de sortir accidentellement du mousqueton.
+- **Automatique :** Un système de verrouillage qui se ferme automatiquement
+  - twist-lock
+  - triple-lock
 
 ## Normes 
 

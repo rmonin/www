@@ -23,11 +23,11 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | Pear  | K    | Simond  | Jumbo       | Silver | 25/10/7      | 1   |
 | Pear  | HMS  | Simond  | Goliath     | Blue   | 25/10/7      | 2   |
 | Pear  | HMS  | Simond  | Goliath     | Silver | 25/10/7      | 2   |
-| D     | Q    | Black D | solid gate  |        | 25/8/8       | 12  |
-| D     | Q    | Black D | wire gate   |        | 25/8/7       | 12  |
+| D     | Q    | Black D | HotForge    | Blue   | 25/8/8       | 12  |
+| D     | Q    | Black D | Hotwire     | Blue   | 25/8/7       | 12  |
 | Oval  | B    | Petzl   | OK          | Gray   | 25/8/7       | 3   |
-| Oval  | B    | Black D |             | Silver | 23/9/7       | 2   |
-| Oval  | B    | Black D |             | Black  | 23/9/7       | 2   |
+| Oval  | B    | Black D | OKSC[^3]    | Silver | 23/9/7       | 2   |
+| Oval  | B    | Black D | OKSC[^3]    | Black  | 23/9/7       | 2   |
 | D     | B    | Petzl   | Sm'D SCREW  | Orange | 23/8/7       | 2   |
 | D     | B    | Petzl   | Sm'D Twist  | Orange | 23/8/7       | 1   |
 | D     | B    | Simond  | Rocky M     | Silver | 22/8/7       | 2   |
@@ -47,22 +47,22 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | Pulley   | Petzl   | Partner           |
 
 ## Lanyards & Sling
-| Type       | Brand    | Name               | Qty | Year    |
-| ---------- | -------- | ------------------ | --: | ------- |
-| Cord ring  | Simond   | Ø 6mm / 60cm   |   2 | 2024    |
-| Lanyard    | Beal     | DynaDouble 40/70   |   1 | 2013    |
-| Lanyard    | Petzl    | Scorpio Vertigo    |   1 | 2021-06 |
-| Q Webbing  | Black D. |                    |   6 | 2012    |
-| Q Webbing  | Black D. |                    |   6 | 2013    |
-| Q Webbing  | Petzl    | Express 17cm       |   2 | 2024-04 |
-| Q Webbing  | Camp     | MACH EXPRESS 60 cm |   1 | 2323-11 |
-| Q Webbing  | Camp     | MACH EXPRESS 60 cm |   1 | 2324-05 |
+| Type       | Brand    | Name                  | Qty | Year    |
+| ---------- | -------- | --------------------- | --: | ------- |
+| Cord ring  | Simond   | Ø 6mm / 60cm          |   2 | 2024    |
+| Lanyard    | Beal     | DynaDouble 40/70      |   1 | 2013    |
+| Lanyard    | Petzl    | Scorpio Vertigo       |   1 | 2021-06 |
+| Q Webbing  | Black D. | Standard Dogbone 12cm |   6 | 2012    |
+| Q Webbing  | Black D. | Standard Dogbone 12cm |   6 | 2013    |
+| Q Webbing  | Petzl    | Express 17cm          |   2 | 2024-04 |
+| Q Webbing  | Camp     | MACH EXPRESS 60 cm    |   1 | 2323-11 |
+| Q Webbing  | Camp     | MACH EXPRESS 60 cm    |   1 | 2324-05 |
 | ~~Rope~~   | ~~Eko~~  | ~~Ø 9.1mm / 2m~~ | ~~1~~ | ~~2024-09~~ |
-| Rope       | Eko      | Ø 9.1mm / 3m    |   1 | 2024-09 |
-| Sewn Sling | Blue Ice | Mission Light 60cm |   1 | 2024-01 |
-| Sewn Sling | Petzl    | ST'Anneau 120cm    |   2 | 2023-11 |
-| Sewn Sling | Petzl    | Pur Anneau 120cm   |   1 | 2023-12 |
-| Sewn Sling | Simond   | Blue/Black 180cm   |   1 | 2024-08 |
+| Rope       | Eko      | Ø 9.1mm / 3m          |   1 | 2024-09 |
+| Sewn Sling | Blue Ice | Mission Light 60cm    |   1 | 2024-01 |
+| Sewn Sling | Petzl    | ST'Anneau 120cm       |   2 | 2023-11 |
+| Sewn Sling | Petzl    | Pur Anneau 120cm      |   1 | 2023-12 |
+| Sewn Sling | Simond   | Blue/Black 180cm      |   1 | 2024-08 |
 
 ## Cords
 | Brand  |    Ø | Length | Color       | Strength | Year |
@@ -116,4 +116,5 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 
 [^1]: **Carabiner strength (kN)** Major axis / Minor axis / Open gate
 [^2]: **Diameter** (mm) / **Length** (m) / **Weigth** (g/m)
+[^3]: **OKSC** Oval Keylock Screwgate Carabiner
 [^4]: **BS** Breaking Strength (kN) / **IF** Impact Force (kN) / **UIAA** UIAA Falls
