@@ -19,7 +19,7 @@ draft: false
 find / -name "foo.txt" 2>/dev/null
 ```
 
-> `2>/dev/null` silence permission errors
+`2>/dev/null` silence permission errors
 
 ### Find a single file by approximate name
 
@@ -118,7 +118,7 @@ for i in */.git; do cd $(dirname $i); git pull; cd ..; done
 watch -n 5 -d '/bin/free -m'
 ```
 
-> `-d` highlight diff between current and previous refresh !
+`-d` highlight diff between current and previous refresh !
 
 ## Misc.
 

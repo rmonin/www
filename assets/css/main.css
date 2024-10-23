@@ -11,4 +11,11 @@
 
 .footnotes {
   @apply text-xs;
+
+  hr {
+    @apply mb-4;
+  }
+  li p {
+    @apply my-2;
+  }
 }

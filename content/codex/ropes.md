@@ -1,7 +1,7 @@
 ---
 title: Cordes
 date: 2024-09-13
-lastmod: 2024-09-14
+lastmod: 2024-10-24
 lang: "fr"
 description: A quick reference on climbing ropes, summarizing different types, their characteristics, and key points to remember for proper selection and use.
 tags: climbing
@@ -43,10 +43,20 @@ il faut prendre en compte également le matériel utilisé avec la corde. un Gri
 - Un **traitement hydrophobe** (ex. Dry Cover ou Golden Dry) protège la corde contre l'humidité, essentiel pour l'alpinisme et les conditions hivernales où une corde mouillée peut perdre en performance et devenir dangereuse.
 
 
-### Choisir la bonne corde
+## Choisir la bonne corde
 - **Escalade sportive**, une corde dynamique simple entre 9,5 mm et 10 mm est idéale.
 - **Grandes voies**, une corde à double sera plus adaptée pour les descentes en rappel et les protections éloignées.
 - **Alpinisme**, une corde fine et légère avec traitement hydrophobe sera plus pratique pour les conditions de neige et de glace. **Dynamique** par défaut
   - Dynamique si évolution sur arrète pour jonctions escalade
   - Statique peut etre suffisant pour une rando glacière. La neige réduit la force de choc, plus comode pour la remonté sur corde
   - Statique si solo sans assurage autre que rappel et remonté
+
+## Année de fabrication & Vérification
+
+![code couleur](/files/climbing/rope-manufacture-year-code.jpg)
+
+- [Edelrid Inspection instruction](https://avs.edelrid.com/images/attribut/Pruefanweisung_Seil.pdf)
+
+| Changelog  |
+| ---------- | - |
+| 2024-10-24 | Ajout du code couleur + pdf inspection edelrid |

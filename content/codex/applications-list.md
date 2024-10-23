@@ -1,7 +1,7 @@
 ---
 title: Applications List
 date: 2024-02-29
-lastmod: 2024-03-15
+lastmod: 2024-10-23
 description: Explore diverse topics including applications and cloud technology
 tags:
   - productivity
@@ -79,7 +79,6 @@ draft: false
 | Office suite | Microsoft 365 | [microsoft.com/microsoft-365](https://www.microsoft.com/microsoft-365) |
 | Text editor  | vim           | [vim.org](https://www.vim.org/)                                        |
 
-|
 
 ### Development
 
@@ -259,6 +258,10 @@ zeal ?
 - ~~Micosoft~~
 - ~~Ubuntu~~
   - https://www.zdnet.com/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/#google_vignette
+
+## à trier
+
+yocto, icecream (icecc), k6
 
 ## Resources
 

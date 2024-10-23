@@ -13,7 +13,7 @@ draft: false
 ## Anchors
 
 - 2 anchors
-- 1 anchor réplicated
+- 1 anchor replicated
 
 ## Belay
 
@@ -37,3 +37,8 @@ draft: false
 - stopper knot above quickdraw (alpine)
 - soft artefact
 
+## References
+
+- https://www.brentbarghahn.com/climbing-blog/redpoint-rope-soloing-revised-2023
+- https://app.box.com/s/xe19rd4mymgu63vqaq1owf1doh2na92g
+- https://www.youtube.com/@YannCamusBlissClimbing
