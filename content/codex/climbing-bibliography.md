@@ -16,6 +16,9 @@ Collection of selected references on climbing and mountaineering, presented in t
 
 ---
 
+Conche, Sylvain\
+**Escalade - Guide des techniques sportives et traditionnelles** _fr_. 2013-05
+
 Constant, Sébastien\
 [**ESCALADE mode d’emploi**](https://www.sebastien-constant.com/shop/livres/mountain-essentials-escalade-mode-demploi-falaise-bloc-salle/) _fr_. 2012-07.\
 [**MARCHER sur un GLACIER**](https://www.sebastien-constant.com/shop/livres/mountain-essentials-marcher-sur-un-glacier/) _fr_. 2011-05.\
@@ -26,6 +29,9 @@ Cox, Steven M.\
 **Mountaineering: The Freedom of the Hills: 10th Edition**. 2024-09.\
 [**Guide de la montagne: L'alpinisme en liberté**](https://www.editionspaulsen.com/guerin/152-nouveau-guide-de-la-montagne.html) _fr_. 2018-10.
 
+Debon, Nicolas\
+**L'invention du vide** _fr_. 2012-12
+
 ESNA. Hagenmuller, Jean-François. Marsigny, François. Pallandre, François.\
 [**L'alpinisme: Des premiers pas aux grandes ascensions**](https://www.glenat.com/montagne-randonnee/lalpinisme-9782344015414). 2016-05-25.
 
@@ -33,3 +39,12 @@ Kirkpatrick, Andy.\
 [**Down: The Complete Descent Manual for Climbers** [...]](https://www.andy-kirkpatrick.com/shop/view/down). 2020-07-01.\
 [**Me, Myself & I - Third Edition: The Dark Art of Big Wall Soloing**](https://www.andy-kirkpatrick.com/shop/view/me_myself_i_the_dark_art_of_big_wall_soloing). 2024-08-20.\
 [**On the Line: Top Rope Solo Manual**](https://www.andy-kirkpatrick.com/shop/view/on-the-line). 2024-01-02.
+
+Laroche, Jean-Louis. Lelong, Florence.\
+[**Alpinisme plaisir dans le massif du Mont-Blanc**](https://www.glenat.com/montagne-evasion/alpinisme-plaisir-dans-le-massif-du-mont-blanc-9782344015407) _fr_. 2016-05-18
+
+Ranc, Bernard\
+**Via ferrata françaises, 163 parcours - 5eme édition** _fr_. 2021-07
+
+Taniguchi, Jirô. Yumemakura, Baku\
+**Le Sommet des Dieux** _fr_. 2010-01
