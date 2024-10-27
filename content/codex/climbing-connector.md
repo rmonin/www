@@ -1,5 +1,5 @@
 ---
-title: "Mousquetons"
+title: "Connecteurs"
 date: 2024-09-13
 lastmod: 2024-10-13
 lang: "fr"
@@ -12,8 +12,9 @@ category: Ascent
 toc: true
 draft: false
 ---
-# Mousquetons
-Appelé aussi connecteur. Sert essentiellement à connecter des éléments entre eux.
+# Connecteurs
+
+Terme générique, regroupe les mousquetons ainsi que les maillons rapides.
 
 ## Anatomie
 

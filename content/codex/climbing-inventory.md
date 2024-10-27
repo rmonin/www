@@ -13,7 +13,7 @@ draft: false
 
 I’m taking inventory of my gear to have a quick overview of what I own, noting certain references that aren’t listed on the products and the years of manufacture for items considered ‘perishable’.
 
-## Carabiners
+## Connectors
 | Shape | Type | Brand   | Model       | Color  | Strength[^1] | Qty |
 | ----- | ---- | ------- | ----------- | ------ | :----------: | --: |
 | Oval  | N/A  | Camp    | 8mm         | Silver | 40/10/-      | 2   |
@@ -100,7 +100,7 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 
 ## Pending Purchases
 - [NewDoar Static rope Ø 6mm / 50m / BS 7kN](https://www.amazon.fr/NewDoar-descalade-Accessoire-darboriste-transport-6M/dp/B0CY1FDRWL)
-- [Decathlon Edge Dry Ø 8.9 / 60m ](https://www.decathlon.fr/p/corde-escalade-et-alpinisme-triple-norme-8-9-mm-x-60-m-edge-dry-rose/_/R-p-196870?mc=8495202&c=rouge_rose_gris)
+- [Decathlon Edge Dry Ø 8.9 / 60m ](https://www.decathlon.fr/p/corde-escalade-et-alpinisme-triple-norme-8-9-mm-x-60-m-edge-dry-rose/_/R-p-196870?mc=8495202&c=rouge_rose_gris) or [edelrid eco dry](https://edelrid.com/fr-fr/sport/cordes/swift-eco-dry-8-9mm?variant=557080)
 - OXAN TL x2 / OXAN TLN x1
 - Backfeed management x ?? ([Slide Clinch](https://avantclimbing.com/products/quicklink-slide-cinch-lead-rope-solo-backfeed-preventer?variant=46991970861340) + [Soft Clinch](https://avantclimbing.com/products/soft-cinch-lead-rope-solo-backfeed-preventer-5-pack?variant=46932672545052))
 - Ice Screw ~ 16cm

@@ -12,7 +12,7 @@ draft: false
 ---
 # Bibliography
 
-Collection of selected references on climbing and mountaineering, presented in the [Chicago style](/codex/chicago-style). Titles marked with a ★ are those that I own.
+Collection of selected references on climbing and mountaineering, presented in the [Chicago style](/codex/chicago-style). Titles marked with a ✓ are those that I own.
 
 ---
 
@@ -25,7 +25,7 @@ Chappaz, Gilles\
 [**En solo: Alpinistes et grimpeurs racontent**](https://www.glenat.com/hommes-et-montagnes/en-solo-9782344013847) (_fr_); 2016
 
 Conche, Sylvain\
-**Escalade - Guide des techniques sportives et traditionnelles** (_fr_); 2013 ★
+**Escalade - Guide des techniques sportives et traditionnelles** (_fr_); 2013 ✓
 
 Constant, Sébastien\
 [**ESCALADE mode d’emploi**](https://www.sebastien-constant.com/shop/livres/mountain-essentials-escalade-mode-demploi-falaise-bloc-salle/) (_fr_); 2012\
@@ -38,7 +38,7 @@ Cox, Steven M\
 [**Guide de la montagne: L'alpinisme en liberté**](https://www.editionspaulsen.com/guerin/152-nouveau-guide-de-la-montagne.html) (_fr_); 2018
 
 ESNA\
-[**L'alpinisme: Des premiers pas aux grandes ascensions**](https://www.glenat.com/montagne-randonnee/lalpinisme-9782344015414) (_fr_); 2016 ★\
+[**L'alpinisme: Des premiers pas aux grandes ascensions**](https://www.glenat.com/montagne-randonnee/lalpinisme-9782344015414) (_fr_); 2016 ✓\
 [**Ski de montagne**](https://www.glenat.com/montagne-randonnee/ski-de-montagne-9782344027776) (_fr_); 2018
 
 Gardien, Claude\
@@ -53,7 +53,7 @@ Lansard, Gilles; Lansard, Catherine\
 [**Savoie Haute-Savoie, randonnées insolites**](https://www.glenat.com/montagne-randonnee/savoie-haute-savoie-randonnees-insolites-9782344015384) _(fr)_; 2016
 
 Laroche, Jean-Louis; Lelong, Florence\
-[**Alpinisme plaisir dans le massif du Mont-Blanc**](https://www.glenat.com/montagne-evasion/alpinisme-plaisir-dans-le-massif-du-mont-blanc-9782344015407) _(fr)_; 2016 ★
+[**Alpinisme plaisir dans le massif du Mont-Blanc**](https://www.glenat.com/montagne-evasion/alpinisme-plaisir-dans-le-massif-du-mont-blanc-9782344015407) _(fr)_; 2016 ✓
 
 Lutz, Alain\
 [**100 sommets des Alpes du Nord**](https://www.glenat.com/montagne-randonnee/100-sommets-des-alpes-du-nord-9782344027691) _(fr)_; 2019
@@ -62,12 +62,13 @@ Millon, Pierre\
 [**Les sentiers du vertige en Haute-Savoie**](https://www.glenat.com/montagne-randonnee/les-sentiers-du-vertige-en-haute-savoie-9782344031223) _(fr)_; 2019
 
 Ranc, Bernard\
-**Via ferrata françaises, 163 parcours - 5eme édition** _(fr)_; 2021 ★
+**Via ferrata françaises, 163 parcours - 5eme édition** _(fr)_; 2021 ✓
+
 
 ## Graphic Novels & Narratives
 
 Debon, Nicolas\
-**L'invention du vide** (_fr_); 2012 ★
+**L'invention du vide** (_fr_); 2012 ✓
 
 Asselin, Jean-Michel\
 [**Un Mensonge à l'Everest**](https://www.glenat.com/hommes-et-montagnes/un-mensonge-leverest-9782344050408) (_fr_); 2022
@@ -90,6 +91,8 @@ Taniguchi, Jirô; Yumemakura, Baku\
 TOSAKI, Shiro\
 **K**; _(fr)_; 1998
 
+Troillet, Jean\
+**Un homme: des 8000** _(fr)_; 2005
 
 ## Online Articles and PDFs
 
