@@ -1,7 +1,7 @@
 ---
 title: "Protections"
 date: 2024-10-26
-lastmod: 2024-10-26
+lastmod: 2024-10-28
 lang: "fr"
 description:
 tags:
@@ -15,6 +15,9 @@ Pour l'instant, une simple prise de note des types de protections (coinceurs / f
 
 Je ne parle ici que des protections temporaires. Tout ce qui est ancrage définitif, spits etc est ignoré.
 
+## cam multi-segment
+
+Omega pacific link cam
 
 ## Coperhead
 
@@ -26,7 +29,9 @@ Je ne parle ici que des protections temporaires. Tout ce qui est ancrage défini
 - https://www.auvieuxcampeur.fr/coinceur-mecanique-gipsy.html
 - https://www.youtube.com/watch?v=f_cCKSwlQLo
 
+## tube chocks
 
+ Big Bros de Trango
 
 ## Broche à glace
 https://www.auvieuxcampeur.fr/activites/alpinisme/materiel-d-alpinisme/broches-a-glace-rocket-plus.html
