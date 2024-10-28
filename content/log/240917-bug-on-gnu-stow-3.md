@@ -8,7 +8,7 @@ tags:
   - bug
   - fix
 toc: false
-draft: true
+draft: false
 ---
 
 # Stow is fixed by the community !
