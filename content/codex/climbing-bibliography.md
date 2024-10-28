@@ -98,3 +98,11 @@ Troillet, Jean\
 
 - [**Escalade et techniques de corde**](https://virpamadegaine.fr/wp-content/uploads/2013/09/Escalade-techniques-de-corde.pdf) _(fr)_; [_virpamadegaine.fr_](foo); 2013
 - [**Lead rope solo free climbing manual**](https://app.box.com/s/xe19rd4mymgu63vqaq1owf1doh2na92g) _(en)_; [_andreacalligaris_](https://andreacalligaris.netsons.org); 2022
+
+## Bookmarks
+
+- [Denis Corpet](http://fcorpet.free.fr/Denis/Solo.html)
+- [IGKT France - Guilde Internationale des Noueurs](http://www.igkt.fr/index.html)
+- [lesnoeuds.com](https://www.lesnoeuds.com/)
+- [mattevrard.over-blog.com](http://mattevrard.over-blog.com/)
+  
