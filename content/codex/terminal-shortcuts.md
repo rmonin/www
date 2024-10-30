@@ -63,4 +63,4 @@ draft: false
 | `Shift+Ctrl+T` | `⌘+T`     | Open a new tab (in supported terminal emulators) |
 | `Shift+Ctrl+W` | `⌘+W`     | Close current tab (in supported terminal emulators) |
 
-[^1] **⌘** Command, **⌃** Control, **⌥** Option, **⇧** Shift
+[^1]: **⌘** Command, **⌃** Control, **⌥** Option, **⇧** Shift
