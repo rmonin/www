@@ -3,7 +3,7 @@ title: Tarp
 date: 2024-10-30
 lastmod: 2024-10-31
 lang: "fr"
-category: Ascent
+category: Outdoor
 toc: false
 draft: false
 ---

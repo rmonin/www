@@ -5,7 +5,7 @@ lastmod: 2024-09-14
 lang: "fr"
 description:
 tags:
-category: Ascent
+category: Outdoor
 toc: false
 draft: false
 ---
