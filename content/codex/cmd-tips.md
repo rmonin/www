@@ -1,12 +1,12 @@
 ---
-title: 0-Tips
+title: Tips
 date: 2024-03-05
 lastmod: 2024-03-05
 description: Enhance your command line skills with these useful tips.
 tags:
   - cli
   - tips
-category: CLI Tools
+category: Digital Toolkit
 toc: true
 draft: false
 ---
