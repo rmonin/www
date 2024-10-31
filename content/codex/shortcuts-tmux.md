@@ -5,7 +5,7 @@ lastmod: 2024-10-30
 tags:
   - cli
   - tips
-category: CLI Tools
+category: Digital Toolkit
 toc: false
 draft: false
 ---

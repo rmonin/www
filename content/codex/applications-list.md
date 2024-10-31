@@ -8,7 +8,7 @@ tags:
   - applications
   - cloud
   - efficiency
-category: Other
+category: Digital Toolkit
 toc: true
 draft: false
 ---

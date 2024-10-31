@@ -7,7 +7,7 @@ tags:
   - shell
   - cli
   - scripting
-category: CLI Tools
+category: Digital Toolkit
 toc: true
 draft: false
 ---

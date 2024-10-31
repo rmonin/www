@@ -6,7 +6,7 @@ description:
 tags:
 category: Glossary
 toc: false
-draft: false
+draft: true
 ---
 
 # Configuration management database

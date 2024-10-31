@@ -6,7 +6,7 @@ description: Dive into the world of command shells and their functionalities.
 tags:
   - shell
   - cli
-category: CLI Tools
+category: Digital Toolkit
 toc: false
 draft: false
 ---
