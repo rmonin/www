@@ -525,8 +525,6 @@ draft: false
 > - Traditional 繁体
 > - Pinyin 拼音
 > - Role (verb, numeral, noun, measure word, adverb, adjective, auxiliary, pronoun, conjunction, preposition) Can be multiple
-> - ~~Radical (can be multiple) ?~~
-> - ~~Strokes ?~~
 > - Translate : En, Fr, Es, Ru
 > - Role/POS (part of speech) detail [github.com/ivankra/hsk30](https://github.com/ivankra/hsk30)
 >   - `N` (名): noun
