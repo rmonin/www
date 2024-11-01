@@ -64,6 +64,8 @@ Millon, Pierre\
 Ranc, Bernard\
 **Via ferrata françaises, 163 parcours - 5eme édition** _(fr)_; 2021 ✓
 
+Vionnet, Frederic
+**Le mental du grimpeur** _(fr)_; 2022
 
 ## Graphic Novels & Narratives
 
@@ -89,10 +91,11 @@ Taniguchi, Jirô; Yumemakura, Baku\
 **Le Sommet des Dieux** _(fr)_; 1994
 
 TOSAKI, Shiro\
-**K**; _(fr)_; 1998
+**K, L’ivresse Des Sommets**; _(fr)_; 1998
 
 Troillet, Jean\
 **Un homme: des 8000** _(fr)_; 2005
+
 
 ## Online Articles and PDFs
 
