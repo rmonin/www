@@ -19,19 +19,20 @@ draft: false
 
 ### Internet
 
-| Type              | Name         | Website                                                         |
-| ----------------- | ------------ | --------------------------------------------------------------- |
-| BitTorrent client | Transmission | [transmissionbt.com](https://transmissionbt.com/)               |
-| File sharing      | cURL         | [curl.haxx.se](https://curl.haxx.se/)                           |
-| FTP server        | SSH          | [openssh.com](https://www.openssh.com/)                         |
-| Gemini Browser    | Lagrange     | [gmi.skyjake.fi/lagrange](https://gmi.skyjake.fi/lagrange)      |
-| Gemini Browser    | Offpunk      | [sr.ht/~lioploum/offpunk](https://sr.ht/~lioploum/offpunk/)     |
-| VPN               | OpenVPN      | [openvpn.net](https://openvpn.net/)                             |
-| VPN               | ProtonVPN    | [protonvpn.com](https://protonvpn.com/)                         |
-| Web Browser       | Chrome       | [google.com/chrome](https://www.google.com/chrome/)             |
-| Web Browser       | Lynx         | [lynx.invisible-island.net](https://lynx.invisible-island.net/) |
-| Web Browser       | Safari       | [apple.com/safari](https://www.apple.com/safari/)               |
-| Web Server        | nginx        | [nginx.org](https://nginx.org/)                                 |
+| Type              | Name               | Website                                                         |
+| ----------------- | ------------------ | --------------------------------------------------------------- |
+| BitTorrent client | Transmission       | [transmissionbt.com](https://transmissionbt.com/)               |
+| File sharing      | cURL               | [curl.haxx.se](https://curl.haxx.se/)                           |
+| FTP server        | SSH                | [openssh.com](https://www.openssh.com/)                         |
+| Gemini Browser    | Lagrange           | [gmi.skyjake.fi/lagrange](https://gmi.skyjake.fi/lagrange)      |
+| Gemini Browser    | Offpunk            | [sr.ht/~lioploum/offpunk](https://sr.ht/~lioploum/offpunk/)     |
+| VPN               | OpenVPN            | [openvpn.net](https://openvpn.net/)                             |
+| VPN               | ProtonVPN          | [protonvpn.com](https://protonvpn.com/)                         |
+| Web Browser       | Chrome             | [google.com/chrome](https://www.google.com/chrome/)             |
+| Web Browser       | Lynx               | [lynx.invisible-island.net](https://lynx.invisible-island.net/) |
+| Web Browser       | Safari             | [apple.com/safari](https://www.apple.com/safari/)               |
+| Web Browser       | ungoogled-chromium | [github.com/ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) |
+| Web Server        | nginx              | [nginx.org](https://nginx.org/)                                 |
 
 ### Multimedia
 
@@ -65,10 +66,9 @@ draft: false
 | Package manager  | brew          | [brew.sh](https://brew.sh)                                                                  |
 | Package manager  | pacman        | [wiki.archlinux.org/Pacman](https://wiki.archlinux.org/title/Pacman)                        |
 | Pager            | less          | `man less`                                                                                  |
+| Symlink Manager  | stow          | [gnu.org/software/stow](https://www.gnu.org/software/stow/)                                 |
 | Task manager     | htop          | [htop.dev](https://htop.dev)                                                                |
 | Version control  | git           | [git-scm.com](https://git-scm.com)                                                          |
-| Virtualization   | Orbstack      | [orbstack.dev](https://orbstack.dev)                                                        |
-| Other            | stow          | [gnu.org/software/stow](https://www.gnu.org/software/stow/)                                 |
 
 ### Documents
 
@@ -130,7 +130,7 @@ draft: false
 |                 | Midnight Commander | [midnight-commander.org](https://midnight-commander.org/) |
 | Version Control | svn                |                                                           |
 | Version Control | mercurial          |                                                           |
-
+| Virtualization   | Orbstack      | [orbstack.dev](https://orbstack.dev)                                                        |
 #### Other
 
 - WeChat
@@ -210,23 +210,27 @@ draft: false
 
 #### API documentation browsers
 zeal ?
+
+https://refind.com/
+https://hq.getmatter.com/
+https://www.instapaper.com/
 -->
 
 ## Cloud Services
 
 | Type             | Model | Service              |                                             |
 | ---------------- | ----- | -------------------- | ------------------------------------------- |
+| Automation       |       | IFTTT                | [ifttt.com](https://ifttt.com)              |
+| Code Snippet     |       | Gist                 | [gist.github.com](https://gist.github.com/) |
+| Drive            |       | Dropbox              |                                             |
 | Drive            |       | Gdrive               |                                             |
 | Drive            |       | Microsoft OneDrive   |                                             |
 | Drive            |       | ProtonDrive          |                                             |
-|                  |       | IFTTT                | [ifttt.com](https://ifttt.com)              |
-|                  |       | Gist                 | [gist.github.com](https://gist.github.com/) |
-|                  |       | Dropbox              |                                             |
 |                  |       | Minio                |                                             |
 |                  |       | https://miro.com/fr/ |                                             |
 | Bookmark Manager |       | Raindrop             |
-|                  |       | Tiny Tiny RSS        | [tt-rss.org](https://tt-rss.org/)           |
-|                  |       | Wallabag             |                                             |
+| RSS Reader       |       | Tiny Tiny RSS        | [tt-rss.org](https://tt-rss.org/)           |
+| Read-it-Later    |       | Wallabag             |                                             |
 
 ## OS & Distrib
 
@@ -259,9 +263,10 @@ zeal ?
 - ~~Ubuntu~~
   - https://www.zdnet.com/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/#google_vignette
 
-## à trier
+## Vrac
 
-yocto, icecream (icecc), k6
+- yocto, icecream (icecc), k6, k9s, k8s, k3s
+- duckduckgoo
 
 ## Resources
 
