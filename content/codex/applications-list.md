@@ -23,10 +23,14 @@ draft: false
 | FTP server        | SSH                | [openssh.com](https://www.openssh.com/)                         |
 | Gemini Browser    | Lagrange           | [gmi.skyjake.fi/lagrange](https://gmi.skyjake.fi/lagrange)      |
 | Gemini Browser    | Offpunk            | [sr.ht/~lioploum/offpunk](https://sr.ht/~lioploum/offpunk/)     |
+| VPN               | Mullvald           | [mullvad.net](https://mullvad.net/)                             |
 | VPN               | OpenVPN            | [openvpn.net](https://openvpn.net/)                             |
 | VPN               | ProtonVPN          | [protonvpn.com](https://protonvpn.com/)                         |
 | Web Browser       | Chrome             | [google.com/chrome](https://www.google.com/chrome/)             |
+| Web Browser       | Chromium           | [chromium.org](https://www.chromium.org/)                       |
+| Web Browser       | Firefox            | [mozilla.com/firefox](https://mozilla.com/firefox/)             |
 | Web Browser       | Lynx               | [lynx.invisible-island.net](https://lynx.invisible-island.net/) |
+| Web Browser       | Opera              | [opera.com](https://opera.com/)                                 |
 | Web Browser       | Safari             | [apple.com/safari](https://www.apple.com/safari/)               |
 | Web Browser       | ungoogled-chromium | [github.com/ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) |
 | Web Server        | nginx              | [nginx.org](https://nginx.org/)                                 |
@@ -114,24 +118,16 @@ draft: false
 ## Avoid!
 ### Applications
 - ~~Brave~~
-  - [Stop using brave browser](https://www.spacebar.news/stop-using-brave-browser/)
-  - [Brave selling copyrighted data](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
-  - [Brave install VPN Services without user consent](https://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/)
-- ~~Edge~~
-  - [Stop using Microsoft Edge](https://www.howtogeek.com/888506/stop-using-microsoft-edge/)
-  - ~~FileZilla~~
-    - https://www.bleepingcomputer.com/news/security/filezillas-use-of-bundled-offers-sparks-outrage-from-users/
-- ~~Keybase~~
-  - [Zoom has ties to China](https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/)
-- ~~Firefox~~
-  - [Mozilla - Devil Incarnate](https://digdeeper.neocities.org/articles/mozilla)
-- ~~Outlook~~
-  - https://proton.me/blog/outlook-is-microsofts-new-data-collection-service
-
-### OS / Distrib
+  [Stop using brave browser](https://www.spacebar.news/stop-using-brave-browser/),
+  [Brave selling copyrighted data](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/),
+  [Brave install VPN Services without user consent](https://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/)
+- ~~Edge~~ [Stop using Microsoft Edge](https://www.howtogeek.com/888506/stop-using-microsoft-edge/),
+- ~~FileZilla~~ [filezillas-use-of-bundled-offers-sparks-outrage-from-users](https://www.bleepingcomputer.com/news/security/filezillas-use-of-bundled-offers-sparks-outrage-from-users/)
+- ~~Keybase~~ [Zoom has ties to China](https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/)
+- ~~Firefox~~ [Mozilla - Devil Incarnate](https://digdeeper.neocities.org/articles/mozilla)
 - ~~Micosoft~~
-- ~~Ubuntu~~
-  - https://www.zdnet.com/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/#google_vignette
+- ~~Outlook~~ [outlook-is-microsofts-new-data-collection-service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
+- ~~Ubuntu~~ [user-privacy-problem](https://www.zdnet.com/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/#google_vignette)
 
 
 ## Vrac / TODO
@@ -140,11 +136,7 @@ draft: false
 #### Internet
 | Type              | Name        | Website                                                                                        |
 | ----------------- | ----------- | ---------------------------------------------------------------------------------------------- |
-| VPN               | Mullvald    | [mullvad.net](https://mullvad.net/)                                                            |
 | Proxy cache       | Varnish     | [varnish-cache.org](https://varnish-cache.org/)                                                |
-| Web Browser       | Chromium    | [chromium.org](https://www.chromium.org/)                                                      |
-| Web Browser       | Firefox     | [mozilla.com/firefox](https://mozilla.com/firefox/)                                            |
-| Web Browser       | Opera       | [opera.com](https://opera.com/)                                                                |
 | Web Server        | Apache HTTP | [httpd.apache.org](https://httpd.apache.org/)                                                  |
 | Web Server        | Traefik     | [traefik.io/traefik](https://traefik.io/traefik/)                                              |
 | File sharing      | HTTPie      | [github.com/httpie/httpie](https://github.com/httpie/httpie)                                   |
@@ -212,35 +204,34 @@ draft: false
 | Audio editors    | Audacity | [audacityteam.org](https://www.audacityteam.org/)  |
 | Audio tag editor | Beets    | [beets.io](https://beets.io/)                      |
 
-
+[Bazel](https://bazel.build/),
 bitbake,
 dbeaver,
 duckduckgo,
+[f2](https://github.com/ayoisaiah/f2),
+[git-open](https://github.com/paulirish/git-open),
+[github-cli](https://github.com/cli/cli),
 [harlequin](https://harlequin.sh),
+[hub](https://hub.github.com/),
 icecream (icecc),
+[jq](https://stedolan.github.io/jq/),
 Karabiner,
 k6,
 k3s, k8s, k9s,
-pgcli
+pgcli,
+[Phing](https://www.phing.info/),
 Rectangle,
+rename,
 [sqlgpt](https://sqlgpt.cn/en),
+[syncany](https://www.syncany.org),
 WeChat,
 Whatsapp,
 yocto,
+zeal,
 
-https://www.syncany.org
-rename
-f2 [https://github.com/ayoisaiah/f2](https://github.com/ayoisaiah/f2)
-jq JSON tool [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)
-**git-open** [https://github.com/paulirish/git-open](https://github.com/paulirish/git-open)
-**github-cli** [https://github.com/cli/cli](https://github.com/cli/cli)
-**hub** [https://hub.github.com](https://hub.github.com/)
-Bazel [https://bazel.build/](https://bazel.build/)
-Phing [https://www.phing.info/](https://www.phing.info/)
-zeal
-https://refind.com/
-https://hq.getmatter.com/
-https://www.instapaper.com/
+[refind](https://refind.com/),
+[matter](https://hq.getmatter.com/),
+[instapaper](https://www.instapaper.com/),
 
 ## Resources
 
