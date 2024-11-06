@@ -1,24 +1,21 @@
 ---
 title: Applications List
 date: 2024-02-29
-lastmod: 2024-10-23
-description: Explore diverse topics including applications and cloud technology
+lastmod: 2024-11-06
+description: Kind of inventory of OS, Apps, Cloud Services, Mics that I use or know
 tags:
-  - productivity
   - applications
   - cloud
-  - efficiency
+  - inventory
 category: Digital Toolkit
 toc: true
 draft: false
 ---
-
 # Applications, cloud & misc
 
 ## Applications
 
 ### Internet
-
 | Type              | Name               | Website                                                         |
 | ----------------- | ------------------ | --------------------------------------------------------------- |
 | BitTorrent client | Transmission       | [transmissionbt.com](https://transmissionbt.com/)               |
@@ -34,8 +31,8 @@ draft: false
 | Web Browser       | ungoogled-chromium | [github.com/ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) |
 | Web Server        | nginx              | [nginx.org](https://nginx.org/)                                 |
 
-### Multimedia
 
+### Multimedia
 | Type             | Name        | Website                                                                |
 | ---------------- | ----------- | ---------------------------------------------------------------------- |
 | Audio tag editor | id3         | [squell.github.io/id3](https://squell.github.io/id3/)                  |
@@ -45,8 +42,8 @@ draft: false
 | Video editor     | LosslessCut | [mifi.no/losslesscut](https://mifi.no/losslesscut/)                    |
 | Video player     | VLC         | [videolan.org/vlc](https://www.videolan.org/vlc/)                      |
 
-### Utilities
 
+### Utilities
 | Type             | Name          | Website                                                                                     |
 | ---------------- | ------------- | ------------------------------------------------------------------------------------------- |
 | Shell            | Sh            | `man sh`                                                                                    |
@@ -70,8 +67,8 @@ draft: false
 | Task manager     | htop          | [htop.dev](https://htop.dev)                                                                |
 | Version control  | git           | [git-scm.com](https://git-scm.com)                                                          |
 
-### Documents
 
+### Documents
 | Type         | Name          | Website                                                                |
 | ------------ | ------------- | ---------------------------------------------------------------------- |
 | Markdown     | Obsidian      | [https://obsidian.md/](https://obsidian.md/)                           |
@@ -81,30 +78,66 @@ draft: false
 
 
 ### Development
+| Type | Name     | Website                              |
+| ---- | -------- | ------------------------------------ |
+| IDE  | Cursor   | [cursor.sh](https://cursor.sh)       |
+| IDE  | VSCodium | [vscodium.com](https://vscodium.com) |
 
-| Type | Name   | Website                        |
-| ---- | ------ | ------------------------------ |
-| IDE  | Cursor | [cursor.sh](https://cursor.sh) |
 
-<!--
-### Security
-### Science
--->
-
-### Other
-
+### Education
 | Type       | Name      | Website                                       |
 | ---------- | --------- | --------------------------------------------- |
 | Flashcards | Anki      | [apps.ankiweb.net](https://apps.ankiweb.net/) |
-|            | Karabiner |                                               |
-|            | Rectangle |                                               |
-|            | Whatsapp  |                                               |
 
-<!--
+
+## Cloud Services
+| Type             | Model | Service              |                                             |
+| ---------------- | ----- | -------------------- | ------------------------------------------- |
+| Automation       |       | IFTTT                | [ifttt.com](https://ifttt.com)              |
+| Code Snippet     |       | Gist                 | [gist.github.com](https://gist.github.com/) |
+| Drive            |       | Dropbox              |                                             |
+| Drive            |       | Gdrive               |                                             |
+| Drive            |       | Microsoft OneDrive   |                                             |
+| Drive            |       | ProtonDrive          |                                             |
+|                  |       | Minio                |                                             |
+|                  |       | https://miro.com/fr/ |                                             |
+| Bookmark Manager |       | Raindrop             |
+| RSS Reader       |       | Tiny Tiny RSS        | [tt-rss.org](https://tt-rss.org/)           |
+| Read-it-Later    |       | Wallabag             |                                             |
+
+
+## OS & Distrib
+- Darwin (MacOS)
+- Debian, Mint (LMDE)
+- ArchHurd, ArchLinux, ArchARM
+
+## Avoid!
+### Applications
+- ~~Brave~~
+  - [Stop using brave browser](https://www.spacebar.news/stop-using-brave-browser/)
+  - [Brave selling copyrighted data](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
+  - [Brave install VPN Services without user consent](https://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/)
+- ~~Edge~~
+  - [Stop using Microsoft Edge](https://www.howtogeek.com/888506/stop-using-microsoft-edge/)
+  - ~~FileZilla~~
+    - https://www.bleepingcomputer.com/news/security/filezillas-use-of-bundled-offers-sparks-outrage-from-users/
+- ~~Keybase~~
+  - [Zoom has ties to China](https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/)
+- ~~Firefox~~
+  - [Mozilla - Devil Incarnate](https://digdeeper.neocities.org/articles/mozilla)
+- ~~Outlook~~
+  - https://proton.me/blog/outlook-is-microsofts-new-data-collection-service
+
+### OS / Distrib
+- ~~Micosoft~~
+- ~~Ubuntu~~
+  - https://www.zdnet.com/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/#google_vignette
+
+
+## Vrac / TODO
+
 ### Not used but usefull
-
 #### Internet
-
 | Type              | Name        | Website                                                                                        |
 | ----------------- | ----------- | ---------------------------------------------------------------------------------------------- |
 | VPN               | Mullvald    | [mullvad.net](https://mullvad.net/)                                                            |
@@ -120,7 +153,6 @@ draft: false
 | FTP client        | Putty       | [chiark.greenend.org.uk/~sgtatham/putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)  |
 
 #### Utilities
-
 | Type            | Name               | Website                                                   |
 | --------------- | ------------------ | --------------------------------------------------------- |
 | Archiver        | 7zip               |                                                           |
@@ -131,14 +163,10 @@ draft: false
 | Version Control | svn                |                                                           |
 | Version Control | mercurial          |                                                           |
 | Virtualization   | Orbstack      | [orbstack.dev](https://orbstack.dev)                                                        |
-#### Other
 
-- WeChat
 
 ### Not tested yet
-
 #### Internet
-
 | Type              | Name                   | Website                                                                                                      |
 | ----------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------ |
 | Proxy server      | Brook                  | [txthinking.github.io/brook](https://txthinking.github.io/brook/)                                            |
@@ -177,96 +205,42 @@ draft: false
 | Cloud sync client | Seafile Client         | [seafile.com](https://www.seafile.com/)                                                                      |
 | Blog engine       | Diaspora               | [diasporafoundation.org](https://diasporafoundation.org/)                                                    |
 
-- https://sqlgpt.cn/en
-- dbeaver
-- https://harlequin.sh
-- pgcli
-
 #### Multimedia
-
 | Type             | Name     | Website                                            |
 | ---------------- | -------- | -------------------------------------------------- |
 | Audio players    | Cozy     | [cozy.geigi.de](https://cozy.geigi.de/)            |
 | Audio editors    | Audacity | [audacityteam.org](https://www.audacityteam.org/)  |
 | Audio tag editor | Beets    | [beets.io](https://beets.io/)                      |
 
-#### Utilities
 
-- https://www.syncany.org
-- rename
-- f2 [https://github.com/ayoisaiah/f2](https://github.com/ayoisaiah/f2)
-- jq JSON tool [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)
+bitbake,
+dbeaver,
+duckduckgo,
+[harlequin](https://harlequin.sh),
+icecream (icecc),
+Karabiner,
+k6,
+k3s, k8s, k9s,
+pgcli
+Rectangle,
+[sqlgpt](https://sqlgpt.cn/en),
+WeChat,
+Whatsapp,
+yocto,
 
-##### Code forge clients
-
-- **git-open** [https://github.com/paulirish/git-open](https://github.com/paulirish/git-open)
-- **github-cli** [https://github.com/cli/cli](https://github.com/cli/cli)
-- **hub** [https://hub.github.com](https://hub.github.com/)
-
-#### Build automation
-
-- Bazel [https://bazel.build/](https://bazel.build/)
-- Phing [https://www.phing.info/](https://www.phing.info/)
-
-#### API documentation browsers
-zeal ?
-
+https://www.syncany.org
+rename
+f2 [https://github.com/ayoisaiah/f2](https://github.com/ayoisaiah/f2)
+jq JSON tool [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)
+**git-open** [https://github.com/paulirish/git-open](https://github.com/paulirish/git-open)
+**github-cli** [https://github.com/cli/cli](https://github.com/cli/cli)
+**hub** [https://hub.github.com](https://hub.github.com/)
+Bazel [https://bazel.build/](https://bazel.build/)
+Phing [https://www.phing.info/](https://www.phing.info/)
+zeal
 https://refind.com/
 https://hq.getmatter.com/
 https://www.instapaper.com/
--->
-
-## Cloud Services
-
-| Type             | Model | Service              |                                             |
-| ---------------- | ----- | -------------------- | ------------------------------------------- |
-| Automation       |       | IFTTT                | [ifttt.com](https://ifttt.com)              |
-| Code Snippet     |       | Gist                 | [gist.github.com](https://gist.github.com/) |
-| Drive            |       | Dropbox              |                                             |
-| Drive            |       | Gdrive               |                                             |
-| Drive            |       | Microsoft OneDrive   |                                             |
-| Drive            |       | ProtonDrive          |                                             |
-|                  |       | Minio                |                                             |
-|                  |       | https://miro.com/fr/ |                                             |
-| Bookmark Manager |       | Raindrop             |
-| RSS Reader       |       | Tiny Tiny RSS        | [tt-rss.org](https://tt-rss.org/)           |
-| Read-it-Later    |       | Wallabag             |                                             |
-
-## OS & Distrib
-
-- Darwin (MacOS)
-- Debian, Mint (LMDE)
-- ArchHurd, ArchLinux, ArchARM
-
-## Avoid!
-
-### Applications
-
-- ~~Brave~~
-  - [Stop using brave browser](https://www.spacebar.news/stop-using-brave-browser/)
-  - [Brave selling copyrighted data](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
-  - [Brave install VPN Services without user consent](https://www.ghacks.net/2023/10/18/brave-is-installing-vpn-services-without-user-consent/)
-- ~~Edge~~
-  - [Stop using Microsoft Edge](https://www.howtogeek.com/888506/stop-using-microsoft-edge/)
-  - ~~FileZilla~~
-    - https://www.bleepingcomputer.com/news/security/filezillas-use-of-bundled-offers-sparks-outrage-from-users/
-- ~~Keybase~~
-  - [Zoom has ties to China](https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/)
-- ~~Firefox~~
-  - [Mozilla - Devil Incarnate](https://digdeeper.neocities.org/articles/mozilla)
-- ~~Outlook~~
-  - https://proton.me/blog/outlook-is-microsofts-new-data-collection-service
-
-### OS / Distrib
-
-- ~~Micosoft~~
-- ~~Ubuntu~~
-  - https://www.zdnet.com/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/#google_vignette
-
-## Vrac
-
-- yocto, icecream (icecc), k6, k9s, k8s, k3s
-- duckduckgoo
 
 ## Resources
 
