@@ -116,7 +116,6 @@ draft: false
 - ArchHurd, ArchLinux, ArchARM
 
 ## Avoid!
-### Applications
 - ~~Brave~~
   [Stop using brave browser](https://www.spacebar.news/stop-using-brave-browser/),
   [Brave selling copyrighted data](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/),
@@ -207,31 +206,41 @@ draft: false
 [Bazel](https://bazel.build/),
 bitbake,
 dbeaver,
+docker,
 duckduckgo,
 [f2](https://github.com/ayoisaiah/f2),
 [git-open](https://github.com/paulirish/git-open),
 [github-cli](https://github.com/cli/cli),
+guake,
 [harlequin](https://harlequin.sh),
 [hub](https://hub.github.com/),
 icecream (icecc),
+[instapaper](https://www.instapaper.com/),
+jira,
 [jq](https://stedolan.github.io/jq/),
 Karabiner,
 k6,
 k3s, k8s, k9s,
+[matter](https://hq.getmatter.com/),
+newman,
+openbao
+opentofu,
 pgcli,
 [Phing](https://www.phing.info/),
+postman,
 Rectangle,
+[refind](https://refind.com/),
 rename,
 [sqlgpt](https://sqlgpt.cn/en),
 [syncany](https://www.syncany.org),
+terraform,
+vault (Hashicorp),
+virtualbox
 WeChat,
 Whatsapp,
+Wireshark,
 yocto,
 zeal,
-
-[refind](https://refind.com/),
-[matter](https://hq.getmatter.com/),
-[instapaper](https://www.instapaper.com/),
 
 ## Resources
 
