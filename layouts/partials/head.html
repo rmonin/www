@@ -49,13 +49,16 @@
     <meta name="keywords" content="{{ . }}" />
   {{- end -}}
   {{- with $author -}}
-    <meta name="author" content="{{ . }}" />
+    <meta name="author" content="{{ . }}" /> <!-- Improve author tag -->
   {{- end -}}
   {{ hugo.Generator }}
   {{- if not hugo.IsProduction -}}
     <meta name="robots" content="noindex, nofollow" />
   {{- end -}}
+  <!-- Add link prev if exists -->
   <link rel="canonical" href="{{ .Permalink }}" />
+  <!-- Add link prev if exists -->
+  <!-- Add rss -->
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"

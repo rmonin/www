@@ -59,7 +59,7 @@ Lutz, Alain\
 [**100 sommets des Alpes du Nord**](https://www.glenat.com/montagne-randonnee/100-sommets-des-alpes-du-nord-9782344027691) _(fr)_; 2019
 
 Millon, Pierre\
-[**Les sentiers du vertige en Haute-Savoie**](https://www.glenat.com/montagne-randonnee/les-sentiers-du-vertige-en-haute-savoie-9782344031223) _(fr)_; 2019
+[**Les sentiers du vertige en Haute-Savoie**](https://www.glenat.com/montagne-randonnee/les-sentiers-du-vertige-en-haute-savoie-9782344031223) _(fr)_; 2019 ✓
 
 Ranc, Bernard\
 **Via ferrata françaises, 163 parcours - 5eme édition** _(fr)_; 2021 ✓
@@ -73,7 +73,7 @@ Debon, Nicolas\
 **L'invention du vide** (_fr_); 2012 ✓
 
 Asselin, Jean-Michel\
-[**Un Mensonge à l'Everest**](https://www.glenat.com/hommes-et-montagnes/un-mensonge-leverest-9782344050408) (_fr_); 2022
+[**Un Mensonge à l'Everest**](https://www.glenat.com/hommes-et-montagnes/un-mensonge-leverest-9782344050408) (_fr_); 2022 ✓
 
 Ferreira, Fernando\
 [**L'alpiniste errant, journal aux pages manquantes**](https://www.glenat.com/hommes-et-montagnes/lalpiniste-errant-journal-aux-pages-manquantes-9782344016565) _(fr)_; 2017
