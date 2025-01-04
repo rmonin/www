@@ -1,64 +1,33 @@
 {{- $title:= .Site.Title -}}
-{{- with .Site.Params.Subtitle }}
-  {{ $title = print
-    $title ", " .
-  }}
-{{ end -}}
-{{- if not .IsHome }}
-  {{ $title = print .Title " | "
-    $title
-  }}
-{{ end -}}
+{{- with .Site.Params.Subtitle }}{{ $title = print $title ", " . }}{{ end -}}
+{{- if not .IsHome }}{{ $title = print .Title " | " $title }}{{ end -}}
 {{- $description:= .Params.Description -}}
-{{- if and (not
-  $description) .IsPage
--}}
-  {{- $description = .Summary -}}
-{{- end -}}
+{{- if and (not $description) .IsPage -}}{{- $description = .Summary -}}{{- end -}}
 {{- $keywords := false -}}
 {{- with .Params.Keywords }}{{ $keywords = delimit . ", " }}{{ end -}}
 {{- if not $keywords -}}
-  {{- with .Params.Tags }}
-    {{ $keywords =
-      delimit . ", "
-    }}
-  {{ end -}}
+  {{- with .Params.Tags }}{{ $keywords = delimit . ", " }}{{ end -}}
 {{- end -}}
 {{- $author:= false -}}
-{{- with
-  .Site.Params.Author
-}}
-  {{ $author = . }}
-{{ end -}}
+{{- with .Site.Params.Author }}{{ $author = . }}{{ end -}}
 {{- if .IsPage }}
-  {{ with
-    .Params.author
-  }}
-    {{ $author = . }}
-  {{ end }}
+  {{ with .Params.author}}{{ $author = . }}{{ end }}
 {{ end -}}
 {{- $style := resources.Get "css/style.css" | fingerprint "md5" -}}
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>{{ $title }}</title>
-  {{- with $description -}}
-    <meta name="description" content="{{ . }}" />
-  {{- end -}}
-  {{- with $keywords -}}
-    <meta name="keywords" content="{{ . }}" />
-  {{- end -}}
-  {{- with $author -}}
-    <meta name="author" content="{{ . }}" /> <!-- Improve author tag -->
-  {{- end -}}
+  {{- with $description -}}<meta name="description" content="{{ . }}" />{{- end -}}
+  {{- with $keywords -}}<meta name="keywords" content="{{ . }}" />{{- end -}}
+  {{- with $author -}}<meta name="author" content="{{ . }}" />{{- end -}} <!-- Improve author tag -->
   {{ hugo.Generator }}
-  {{- if not hugo.IsProduction -}}
-    <meta name="robots" content="noindex, nofollow" />
-  {{- end -}}
+  {{- if not hugo.IsProduction -}}<meta name="robots" content="noindex, nofollow" />{{- end -}}
   <!-- Add link prev if exists -->
   <link rel="canonical" href="{{ .Permalink }}" />
   <!-- Add link prev if exists -->
-  <!-- Add rss -->
+  <link rel="alternate" type="application/rss+xml" title="RMM (rss)" href="/index.xml" />
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"

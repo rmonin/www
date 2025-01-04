@@ -32,7 +32,7 @@ menus:
     - name: "Github"
       params:
         rel: external
-      pre: <i class="fa-brands fa-github"></i>
+      pre: <i class="fa-brands fa-github"></i><span class="hidden">GitHub</span>
       url: https://github.com/rmonin
       weight: 99
 

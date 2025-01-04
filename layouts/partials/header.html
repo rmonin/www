@@ -2,13 +2,12 @@
   class="mx-auto flex max-w-screen-md flex-row items-end justify-between gap-2 p-2 text-sm text-neutral-400"
 >
   <a
+    id="site-title"
     class="block text-2xl transition duration-200 ease-linear hover:text-pink-600"
     href="{{ absLangURL "/" }}"
   >
     <span class="font-semibold">~</span>
-    <span class="font-extrabold text-black dark:text-white"
-      >{{ .Site.Title }}</span
-    >
+    <span class="font-extrabold text-black dark:text-white">{{ .Site.Title }}</span>
   </a>
   {{ partial "menu.html" . }}
 </header>

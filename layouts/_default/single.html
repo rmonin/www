@@ -1,7 +1,84 @@
 {{ define "main" }}
+<header class="not-prose mb-2">
+  <div class=" text-2xl font-extrabold text-black dark:text-white">
+    {{ .Title }}
+    {{ if .Params.lang }}
+      <span
+        class="whitespace-nowrap font-mono text-sm font-thin uppercase tracking-wide text-neutral-400"
+      >
+        ({{ .Params.lang }})
+      </span>
+    {{ end }}
+  </div>
+
+  <aside class="font-mono text-xs tracking-wide">
+    {{ if eq .Section "log" }}
+      <time class="whitespace-nowrap"
+        >{{ .Date | time.Format "2006-01-02" }}</time
+      >
+    {{ else if eq .Section "articles" }}
+      <time class="whitespace-nowrap"
+        >{{ .Date | time.Format ":date_long" }}</time
+      ><time class="whitespace-nowrap pl-1 before:pr-1 before:content-['·']"
+        >edit {{ .Lastmod | time.Format "2006-01-02" }}</time
+      ><time class="pl-1 before:pr-1 before:content-['·']"
+        >{{ .ReadingTime }} min</time
+      >
+    {{ else if eq .Section "codex" }}
+      <time class="whitespace-nowrap"
+        >edit {{ .Lastmod | time.Format "2006-01-02" }}</time
+      >
+    {{ else }}
+      <time class="whitespace-nowrap"
+        >{{ .Date | time.Format ":date_long" }}</time
+      ><time class="pl-1 before:pr-1 before:content-['·']"
+        >{{ .ReadingTime }} min</time
+      >
+    {{ end }}
+
+    {{ with .GetTerms "tags" }}
+      <ul class="inline space-x-2 pl-1 before:pr-1 before:content-['·']">
+        {{ range . }}
+          <li class="inline">
+            <a
+              class="text-neutral-400 transition duration-200 ease-linear hover:text-pink-600"
+              href="{{ .RelPermalink }}"
+            >
+              {{ lower .LinkTitle }}
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </aside>
+</header>
+
+<!-- <aside class="mb-4 p-4 border border-gray-200 rounded-lg bg-gray-50 text-sm text-gray-600 dark:bg-gray-700 dark:border-gray-600 dark:text-gray-300">
+  <nav aria-label="Breadcrumb" class="text-xs text-gray-500 dark:text-gray-400 mb-2">
+    <a href="/" class="hover:text-gray-700 dark:hover:text-gray-200">~</a> /
+    <a href="/categorie" class="hover:text-gray-700 dark:hover:text-gray-200">Codex</a> /
+    <a href="/categorie" class="hover:text-gray-700 dark:hover:text-gray-200">Catégorie</a> /
+    <span>Nom de l'article</span>
+  </nav>
+  <p>Tags : <a href="/tags/organisation" class="text-pink-600 hover:underline dark:text-pink-400">Organisation</a>, 
+  <a href="/tags/productivite" class="text-pink-600 hover:underline dark:text-pink-400">Productivité</a></p>
+  <p>Temps de lecture : 5 minutes</p>
+  <p>Dernière mise à jour : 10 novembre 2024</p>
+</aside> -->
+
+
+<!-- Table des matières -->
+<!-- <nav aria-label="Table des matières" class="mb-6 pl-4 border-l-4 border-gray-300 dark:border-gray-600">
+  <ul class="space-y-2">
+    <li><a href="#section-1" class="text-gray-700 hover:text-pink-600 dark:text-gray-300 dark:hover:text-pink-400">Planifiez votre journée</a></li>
+    <li><a href="#section-2" class="text-gray-700 hover:text-pink-600 dark:text-gray-300 dark:hover:text-pink-400">Organisez votre espace de travail</a></li>
+    <li><a href="#section-3" class="text-gray-700 hover:text-pink-600 dark:text-gray-300 dark:hover:text-pink-400">Prenez des pauses régulières</a></li>
+  </ul>
+</nav> -->
+{{ if .Params.toc }}{{ .TableOfContents }}{{ end }}
   <article
-    class="prose mb-10
-   dark:prose-invert
+    class="prose my-12
+    dark:prose-invert
     prose-h1:text-center
     prose-p:before:content-['']
     prose-a:font-light
@@ -18,59 +95,6 @@
     prose-img:mx-auto
     prose-img:block"
   >
-    <header class="not-prose mb-12 border-b">
-      <div class=" text-2xl font-extrabold text-black dark:text-white">
-        {{ .Title }}
-        {{ if .Params.lang }}
-          <span
-            class="whitespace-nowrap font-mono text-sm font-thin uppercase tracking-wide text-neutral-400"
-          >
-            ({{ .Params.lang }})
-          </span>
-        {{ end }}
-      </div>
-      <aside class="font-mono text-xs tracking-wide">
-        {{ if eq .Section "log" }}
-          <time class="whitespace-nowrap"
-            >{{ .Date | time.Format "2006-01-02" }}</time
-          >
-        {{ else if eq .Section "articles" }}
-          <time class="whitespace-nowrap"
-            >{{ .Date | time.Format ":date_long" }}</time
-          ><time class="whitespace-nowrap pl-1 before:pr-1 before:content-['·']"
-            >edit {{ .Lastmod | time.Format "2006-01-02" }}</time
-          ><time class="pl-1 before:pr-1 before:content-['·']"
-            >{{ .ReadingTime }} min</time
-          >
-        {{ else if eq .Section "codex" }}
-          <time class="whitespace-nowrap"
-            >edit {{ .Lastmod | time.Format "2006-01-02" }}</time
-          >
-        {{ else }}
-          <time class="whitespace-nowrap"
-            >{{ .Date | time.Format ":date_long" }}</time
-          ><time class="pl-1 before:pr-1 before:content-['·']"
-            >{{ .ReadingTime }} min</time
-          >
-        {{ end }}
-
-        {{ with .GetTerms "tags" }}
-          <ul class="inline space-x-2 pl-1 before:pr-1 before:content-['·']">
-            {{ range . }}
-              <li class="inline">
-                <a
-                  class="text-neutral-400 transition duration-200 ease-linear hover:text-pink-600"
-                  href="{{ .RelPermalink }}"
-                >
-                  {{ lower .LinkTitle }}
-                </a>
-              </li>
-            {{ end }}
-          </ul>
-        {{ end }}
-      </aside>
-    </header>
-    {{ if .Params.toc }}{{ .TableOfContents }}{{ end }}
     {{ .Content | emojify }}
   </article>
 
