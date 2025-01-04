@@ -114,6 +114,8 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | Poles (Hike) | [Brand]     | [Model]            | [Color]  | [Year]  |
 | Poles (All)  | Salomon     | [Model]            | [Color]  | [Year]  |
 | Avalanche Beacon (DVA) | Arva | EVO BT          | [Color]  | 2024  |
+| Shovel       | Black Diamond |                  |          |       |
+| Probe        | Wedze         |                  |          |       |
 | Backpack     | Blue Ice     | Firecrest 38 S/M  | [Color]  | 2024  |
 
 ## Harnesses & Shoes

@@ -64,7 +64,7 @@ Millon, Pierre\
 Ranc, Bernard\
 **Via ferrata françaises, 163 parcours - 5eme édition** _(fr)_; 2021 ✓
 
-Vionnet, Frederic
+Vionnet, Frederic\
 **Le mental du grimpeur** _(fr)_; 2022
 
 ## Graphic Novels & Narratives
