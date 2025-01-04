@@ -102,6 +102,20 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | Ice Axe  | Simond  | Piranha (green)   |   2 |
 | Ice Axe  | Petzl   | Summit Evo (52cm) |   1 |
 
+## Ski Gear
+| Type         | Brand       | Model              | Color    | Year |
+| ------------ | ----------- | ------------------ | -------- | ---- |
+| Helmet       | Julbo       | [Model]            | [Color]  | 2024 |
+| Ski Boots    | Langre      | [Model]            | [Color]  | 2020 |
+| Ski Boots    | Salomon     | [Model]            | [Color]  | 2024 |
+| Skis         | Scott       | Double Spat        | [Length] | [Year]  |
+| Skis         | Wedze       |                    | 166-76   | [Year]  |
+| Poles (Ski)  | [Brand]     | [Model]            | [Color]  | [Year]  |
+| Poles (Hike) | [Brand]     | [Model]            | [Color]  | [Year]  |
+| Poles (All)  | Salomon     | [Model]            | [Color]  | [Year]  |
+| Avalanche Beacon (DVA) | Arva | EVO BT          | [Color]  | 2024  |
+| Backpack     | Blue Ice     | Firecrest 38 S/M  | [Color]  | 2024  |
+
 ## Harnesses & Shoes
 | Type       | Brand       | Name               | Color      | Year    |
 | ---------- | ----------- | ------------------ | ---------- | ------- |

@@ -35,7 +35,7 @@ Constant, Sébastien\
 
 Cox, Steven M\
 **Mountaineering: The Freedom of the Hills: 10th Edition** _(en)_; 2024\
-[**Guide de la montagne: L'alpinisme en liberté**](https://www.editionspaulsen.com/guerin/152-nouveau-guide-de-la-montagne.html) (_fr_); 2018
+[**Guide de la montagne: L'alpinisme en liberté**](https://www.editionspaulsen.com/guerin/152-nouveau-guide-de-la-montagne.html) (_fr_); 2018 ✓
 
 ESNA\
 [**L'alpinisme: Des premiers pas aux grandes ascensions**](https://www.glenat.com/montagne-randonnee/lalpinisme-9782344015414) (_fr_); 2016 ✓\
