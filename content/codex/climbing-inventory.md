@@ -18,7 +18,7 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | ----- | ---- | ------- | ----------- | ------ | :----------: | --: |
 | Oval  | N/A  | Camp    | 8mm         | Silver | 40/10/-      | 2   |
 | Oval  | N/A  | Petlz   | Go 8mm      | Silver | 32/10/-      | 1   |
-| D     | B    | Simond  | 3000        | Black  | 30/10/10     | 2   |
+| ~~D~~ | ~~B~~ | ~~Simond~~ | ~~3000~~ | ~~Black~~ | ~~30/10/10~~ | ~~2~~ |
 | Pear  | K    | Petzl   | Vertigo     |        | 25/10/8      | 2   |
 | Pear  | K    | Simond  | Jumbo       | Silver | 25/10/7      | 1   |
 | Pear  | HMS  | Simond  | Goliath     | Blue   | 25/10/7      | 2   |
@@ -47,22 +47,22 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | Pulley   | Petzl   | Partner           |
 
 ## Lanyards & Sling
-| Type       | Brand    | Name                  | Qty | Year    |
-| ---------- | -------- | --------------------- | --: | ------- |
-| Cord ring  | Simond   | Ø 6mm / 60cm          |   2 | 2024    |
-| Lanyard    | Beal     | DynaDouble 40/70      |   1 | 2013    |
-| Lanyard    | Petzl    | Scorpio Vertigo       |   1 | 2021-06 |
-| Q Webbing  | Black D. | Standard Dogbone 12cm |   6 | 2012    |
-| Q Webbing  | Black D. | Standard Dogbone 12cm |   6 | 2013    |
-| Q Webbing  | Petzl    | Express 17cm          |   2 | 2024-04 |
-| Q Webbing  | Camp     | MACH EXPRESS 60 cm    |   1 | 2323-11 |
-| Q Webbing  | Camp     | MACH EXPRESS 60 cm    |   1 | 2324-05 |
-| ~~Rope~~   | ~~Eko~~  | ~~Ø 9.1mm / 2m~~ | ~~1~~ | ~~2024-09~~ |
-| Rope       | Eko      | Ø 9.1mm / 3m          |   1 | 2024-09 |
-| Sewn Sling | Blue Ice | Mission Light 60cm    |   1 | 2024-01 |
-| Sewn Sling | Petzl    | ST'Anneau 120cm       |   2 | 2023-11 |
-| Sewn Sling | Petzl    | Pur Anneau 120cm      |   1 | 2023-12 |
-| Sewn Sling | Simond   | Blue/Black 180cm      |   1 | 2024-08 |
+| Type        | Brand    | Name                  | Qty | Year    |
+| ----------- | -------- | --------------------- | --: | ------- |
+| Cord ring   | Simond   | Ø 6mm / 60cm          |   2 | 2024    |
+| ~~Lanyard~~ | ~~Beal~~ | ~~DynaDouble 40/70~~ | ~~1~~ | ~~2013~~ |
+| Lanyard     | Petzl    | Scorpio Vertigo       |   1 | 2021-06 |
+| Q Webbing   | Black D. | Standard Dogbone 12cm |   6 | 2012    |
+| Q Webbing   | Black D. | Standard Dogbone 12cm |   6 | 2013    |
+| Q Webbing   | Petzl    | Express 17cm          |   2 | 2024-04 |
+| Q Webbing   | Camp     | MACH EXPRESS 60 cm    |   1 | 2323-11 |
+| Q Webbing   | Camp     | MACH EXPRESS 60 cm    |   1 | 2324-05 |
+| ~~Rope~~    | ~~Eko~~  | ~~Ø 9.1mm / 2m~~ | ~~1~~ | ~~2024-09~~ |
+| Rope        | Eko      | Ø 9.1mm / 3m          |   1 | 2024-09 |
+| Sewn Sling  | Blue Ice | Mission Light 60cm    |   1 | 2024-01 |
+| Sewn Sling  | Petzl    | ST'Anneau 120cm       |   2 | 2023-11 |
+| Sewn Sling  | Petzl    | Pur Anneau 120cm      |   1 | 2023-12 |
+| Sewn Sling  | Simond   | Blue/Black 180cm      |   1 | 2024-08 |
 
 ## Cords
 | Brand  |    Ø | Length | Color       | Strength | Year |
