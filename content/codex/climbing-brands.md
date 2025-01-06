@@ -27,9 +27,13 @@ draft: false
 
 ## Grivel
 
+## Millet
+
 ## New Doar
 
 ## Petzl
+
+## Salewa
 
 ## Simond
 

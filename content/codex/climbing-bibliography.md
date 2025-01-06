@@ -1,7 +1,7 @@
 ---
 title: "Bibliography"
 date: 2024-10-23
-lastmod: 2024-10-23
+lastmod: 2025-01-07
 description: A collection of my climbing books, including physical copies, local PDFs, online resources, and other formats, to document and explore various aspects of climbing.
 tags:
   - books
@@ -99,8 +99,18 @@ Troillet, Jean\
 
 ## Online Articles and PDFs
 
-- [**Escalade et techniques de corde**](https://virpamadegaine.fr/wp-content/uploads/2013/09/Escalade-techniques-de-corde.pdf) _(fr)_; [_virpamadegaine.fr_](foo); 2013
+- [**Escalade et techniques de corde**](https://virpamadegaine.fr/wp-content/uploads/2013/09/Escalade-techniques-de-corde.pdf) _(fr)_; [_virpamadegaine.fr_](https://virpamadegaine.fr); 2013
 - [**Lead rope solo free climbing manual**](https://app.box.com/s/xe19rd4mymgu63vqaq1owf1doh2na92g) _(en)_; [_andreacalligaris_](https://andreacalligaris.netsons.org); 2022
+- [**Petzl ACCESSBOOK 1 - Belaying in a climbing gym**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-1-Belaying-EN-2024.pdf) _(en)_; [_petzl.com_](https://www.petzl.com/US/en/Sport/Downloads-eBooks); 2024
+- [**Petzl ACCESSBOOK 1 - Assurer en salle d’escalade**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-1-Belaying-FR-2024.pdf) _(fr)_; [_petzl.com_](https://www.petzl.com/FR/fr/Sport/Downloads-eBooks); 2024
+- [**Petzl ACCESSBOOK 2 - How do I prepare for ski touring?**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-2-preparer-sortie-ski-2019-EN.pdf) _(en)_; [_petzl.com_](https://www.petzl.com/US/en/Sport/Downloads-eBooks); 2019
+- [**Petzl ACCESSBOOK 2 - Comment préparer sa sortie à skis ?**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-2-preparer-sortie-ski-2019-FR.pdf) _(fr)_; [_petzl.com_](https://www.petzl.com/FR/fr/Sport/Downloads-eBooks); 2019
+- [**Petzl ACCESSBOOK 3 - Progression basics for via ferrata**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-3-VIAFERRATA-2023-EN.pdf) _(en)_; [_petzl.com_](https://www.petzl.com/US/en/Sport/Downloads-eBooks); 2023
+- [**Petzl ACCESSBOOK 3 - Basiques de la progression en via ferrata**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-5-ROCK-CLIMBING-2024+FR.pdf) _(fr)_; [_petzl.com_](https://www.petzl.com/FR/fr/Sport/Downloads-eBooks); 2023
+- [**Petzl ACCESSBOOK 4 - Ice climbing basics**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-ICE-CLIMBING-EN-2018.pdf) _(en)_; [_petzl.com_](https://www.petzl.com/US/en/Sport/Downloads-eBooks); 2018
+- [**Petzl ACCESSBOOK 4 - Techniques de base en cascade de glace**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-ICE-CLIMBING-FR-2018.pdf) _(fr)_; [_petzl.com_](https://www.petzl.com/FR/fr/Sport/Downloads-eBooks); 2018
+- [**Petzl ACCESSBOOK 5 - Sport climbing: climbing and belaying**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-5-ROCK-CLIMBING-2024+EN.pdf) _(en)_; [_petzl.com_](https://www.petzl.com/US/en/Sport/Downloads-eBooks); 2024
+- [**Petzl ACCESSBOOK 5 - Assurer et grimper en falaise**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-5-ROCK-CLIMBING-2024+FR.pdf) _(fr)_; [_petzl.com_](https://www.petzl.com/FR/fr/Sport/Downloads-eBooks); 2024
 
 ## Bookmarks
 
