@@ -11,8 +11,7 @@ toc: true
 draft: false
 ---
 # Bibliography
-
-Collection of selected references on climbing and mountaineering, presented in the [Chicago style](/codex/chicago-style). Titles marked with a ✓ are those that I own.
+Collection of selected references on climbing and mountaineering, presented in the [Chicago style](/codex/chicago-style). Titles marked with ✓ indicate books I have read, while ✓✓ indicates books I own.
 
 ---
 
@@ -25,7 +24,7 @@ Chappaz, Gilles\
 [**En solo: Alpinistes et grimpeurs racontent**](https://www.glenat.com/hommes-et-montagnes/en-solo-9782344013847) (_fr_); 2016
 
 Conche, Sylvain\
-**Escalade - Guide des techniques sportives et traditionnelles** (_fr_); 2013 ✓
+**Escalade - Guide des techniques sportives et traditionnelles** (_fr_); 2013 ✓✓
 
 Constant, Sébastien\
 [**ESCALADE mode d’emploi**](https://www.sebastien-constant.com/shop/livres/mountain-essentials-escalade-mode-demploi-falaise-bloc-salle/) (_fr_); 2012\
@@ -35,10 +34,10 @@ Constant, Sébastien\
 
 Cox, Steven M\
 **Mountaineering: The Freedom of the Hills: 10th Edition** _(en)_; 2024\
-[**Guide de la montagne: L'alpinisme en liberté**](https://www.editionspaulsen.com/guerin/152-nouveau-guide-de-la-montagne.html) (_fr_); 2018 ✓
+[**Guide de la montagne: L'alpinisme en liberté**](https://www.editionspaulsen.com/guerin/152-nouveau-guide-de-la-montagne.html) (_fr_); 2018 ✓✓
 
 ESNA\
-[**L'alpinisme: Des premiers pas aux grandes ascensions**](https://www.glenat.com/montagne-randonnee/lalpinisme-9782344015414) (_fr_); 2016 ✓\
+[**L'alpinisme: Des premiers pas aux grandes ascensions**](https://www.glenat.com/montagne-randonnee/lalpinisme-9782344015414) (_fr_); 2016 ✓✓\
 [**Ski de montagne**](https://www.glenat.com/montagne-randonnee/ski-de-montagne-9782344027776) (_fr_); 2018
 
 Gardien, Claude\
@@ -53,16 +52,16 @@ Lansard, Gilles; Lansard, Catherine\
 [**Savoie Haute-Savoie, randonnées insolites**](https://www.glenat.com/montagne-randonnee/savoie-haute-savoie-randonnees-insolites-9782344015384) _(fr)_; 2016
 
 Laroche, Jean-Louis; Lelong, Florence\
-[**Alpinisme plaisir dans le massif du Mont-Blanc**](https://www.glenat.com/montagne-evasion/alpinisme-plaisir-dans-le-massif-du-mont-blanc-9782344015407) _(fr)_; 2016 ✓
+[**Alpinisme plaisir dans le massif du Mont-Blanc**](https://www.glenat.com/montagne-evasion/alpinisme-plaisir-dans-le-massif-du-mont-blanc-9782344015407) _(fr)_; 2016 ✓✓
 
 Lutz, Alain\
 [**100 sommets des Alpes du Nord**](https://www.glenat.com/montagne-randonnee/100-sommets-des-alpes-du-nord-9782344027691) _(fr)_; 2019
 
 Millon, Pierre\
-[**Les sentiers du vertige en Haute-Savoie**](https://www.glenat.com/montagne-randonnee/les-sentiers-du-vertige-en-haute-savoie-9782344031223) _(fr)_; 2019 ✓
+[**Les sentiers du vertige en Haute-Savoie**](https://www.glenat.com/montagne-randonnee/les-sentiers-du-vertige-en-haute-savoie-9782344031223) _(fr)_; 2019 ✓✓
 
 Ranc, Bernard\
-**Via ferrata françaises, 163 parcours - 5eme édition** _(fr)_; 2021 ✓
+**Via ferrata françaises, 163 parcours - 5eme édition** _(fr)_; 2021 ✓✓
 
 Vionnet, Frederic\
 **Le mental du grimpeur** _(fr)_; 2022
@@ -70,10 +69,10 @@ Vionnet, Frederic\
 ## Graphic Novels & Narratives
 
 Debon, Nicolas\
-**L'invention du vide** (_fr_); 2012 ✓
+**L'invention du vide** (_fr_); 2012 ✓✓
 
 Asselin, Jean-Michel\
-[**Un Mensonge à l'Everest**](https://www.glenat.com/hommes-et-montagnes/un-mensonge-leverest-9782344050408) (_fr_); 2022 ✓
+[**Un Mensonge à l'Everest**](https://www.glenat.com/hommes-et-montagnes/un-mensonge-leverest-9782344050408) (_fr_); 2022 ✓✓
 
 Ferreira, Fernando\
 [**L'alpiniste errant, journal aux pages manquantes**](https://www.glenat.com/hommes-et-montagnes/lalpiniste-errant-journal-aux-pages-manquantes-9782344016565) _(fr)_; 2017
@@ -91,31 +90,29 @@ Taniguchi, Jirô; Yumemakura, Baku\
 **Le Sommet des Dieux** _(fr)_; 1994
 
 TOSAKI, Shiro\
-**K, L’ivresse Des Sommets**; _(fr)_; 1998
+**K, L’ivresse Des Sommets**; _(fr)_; 1998 ✓
 
 Troillet, Jean\
 **Un homme: des 8000** _(fr)_; 2005
 
 
 ## Online Articles and PDFs
-
 - [**Escalade et techniques de corde**](https://virpamadegaine.fr/wp-content/uploads/2013/09/Escalade-techniques-de-corde.pdf) _(fr)_; [_virpamadegaine.fr_](https://virpamadegaine.fr); 2013
 - [**Lead rope solo free climbing manual**](https://app.box.com/s/xe19rd4mymgu63vqaq1owf1doh2na92g) _(en)_; [_andreacalligaris_](https://andreacalligaris.netsons.org); 2022
-- [**Petzl ACCESSBOOK 1 - Belaying in a climbing gym**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-1-Belaying-EN-2024.pdf) _(en)_; [_petzl.com_](https://www.petzl.com/US/en/Sport/Downloads-eBooks); 2024
-- [**Petzl ACCESSBOOK 1 - Assurer en salle d’escalade**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-1-Belaying-FR-2024.pdf) _(fr)_; [_petzl.com_](https://www.petzl.com/FR/fr/Sport/Downloads-eBooks); 2024
-- [**Petzl ACCESSBOOK 2 - How do I prepare for ski touring?**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-2-preparer-sortie-ski-2019-EN.pdf) _(en)_; [_petzl.com_](https://www.petzl.com/US/en/Sport/Downloads-eBooks); 2019
-- [**Petzl ACCESSBOOK 2 - Comment préparer sa sortie à skis ?**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-2-preparer-sortie-ski-2019-FR.pdf) _(fr)_; [_petzl.com_](https://www.petzl.com/FR/fr/Sport/Downloads-eBooks); 2019
-- [**Petzl ACCESSBOOK 3 - Progression basics for via ferrata**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-3-VIAFERRATA-2023-EN.pdf) _(en)_; [_petzl.com_](https://www.petzl.com/US/en/Sport/Downloads-eBooks); 2023
-- [**Petzl ACCESSBOOK 3 - Basiques de la progression en via ferrata**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-5-ROCK-CLIMBING-2024+FR.pdf) _(fr)_; [_petzl.com_](https://www.petzl.com/FR/fr/Sport/Downloads-eBooks); 2023
-- [**Petzl ACCESSBOOK 4 - Ice climbing basics**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-ICE-CLIMBING-EN-2018.pdf) _(en)_; [_petzl.com_](https://www.petzl.com/US/en/Sport/Downloads-eBooks); 2018
-- [**Petzl ACCESSBOOK 4 - Techniques de base en cascade de glace**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-ICE-CLIMBING-FR-2018.pdf) _(fr)_; [_petzl.com_](https://www.petzl.com/FR/fr/Sport/Downloads-eBooks); 2018
-- [**Petzl ACCESSBOOK 5 - Sport climbing: climbing and belaying**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-5-ROCK-CLIMBING-2024+EN.pdf) _(en)_; [_petzl.com_](https://www.petzl.com/US/en/Sport/Downloads-eBooks); 2024
-- [**Petzl ACCESSBOOK 5 - Assurer et grimper en falaise**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-5-ROCK-CLIMBING-2024+FR.pdf) _(fr)_; [_petzl.com_](https://www.petzl.com/FR/fr/Sport/Downloads-eBooks); 2024
+- [**ACCESSBOOK 1 - Belaying in a climbing gym**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-1-Belaying-EN-2024.pdf) _(en)_; [_petzl.com_](https://www.petzl.com/US/en/Sport/Downloads-eBooks); 2024
+- [**ACCESSBOOK 1 - Assurer en salle d’escalade**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-1-Belaying-FR-2024.pdf) _(fr)_; [_petzl.com_](https://www.petzl.com/FR/fr/Sport/Downloads-eBooks); 2024
+- [**ACCESSBOOK 2 - How do I prepare for ski touring?**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-2-preparer-sortie-ski-2019-EN.pdf) _(en)_; [_petzl.com_](https://www.petzl.com/US/en/Sport/Downloads-eBooks); 2019
+- [**ACCESSBOOK 2 - Comment préparer sa sortie à skis ?**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-2-preparer-sortie-ski-2019-FR.pdf) _(fr)_; [_petzl.com_](https://www.petzl.com/FR/fr/Sport/Downloads-eBooks); 2019
+- [**ACCESSBOOK 3 - Progression basics for via ferrata**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-3-VIAFERRATA-2023-EN.pdf) _(en)_; [_petzl.com_](https://www.petzl.com/US/en/Sport/Downloads-eBooks); 2023
+- [**ACCESSBOOK 3 - Basiques de la progression en via ferrata**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-5-ROCK-CLIMBING-2024+FR.pdf) _(fr)_; [_petzl.com_](https://www.petzl.com/FR/fr/Sport/Downloads-eBooks); 2023
+- [**ACCESSBOOK 4 - Ice climbing basics**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-ICE-CLIMBING-EN-2018.pdf) _(en)_; [_petzl.com_](https://www.petzl.com/US/en/Sport/Downloads-eBooks); 2018
+- [**ACCESSBOOK 4 - Techniques de base en cascade de glace**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-ICE-CLIMBING-FR-2018.pdf) _(fr)_; [_petzl.com_](https://www.petzl.com/FR/fr/Sport/Downloads-eBooks); 2018
+- [**ACCESSBOOK 5 - Sport climbing: climbing and belaying**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-5-ROCK-CLIMBING-2024+EN.pdf) _(en)_; [_petzl.com_](https://www.petzl.com/US/en/Sport/Downloads-eBooks); 2024
+- [**ACCESSBOOK 5 - Assurer et grimper en falaise**](https://s3.amazonaws.com/Petzl_home_Prod/Accessbook/ACCESSBOOK-5-ROCK-CLIMBING-2024+FR.pdf) _(fr)_; [_petzl.com_](https://www.petzl.com/FR/fr/Sport/Downloads-eBooks); 2024
+
 
 ## Bookmarks
-
 - [Denis Corpet](http://fcorpet.free.fr/Denis/Solo.html)
 - [IGKT France - Guilde Internationale des Noueurs](http://www.igkt.fr/index.html)
 - [lesnoeuds.com](https://www.lesnoeuds.com/)
 - [mattevrard.over-blog.com](http://mattevrard.over-blog.com/)
-  
