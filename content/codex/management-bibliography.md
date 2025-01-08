@@ -29,9 +29,9 @@ Chatelain-Berry, Gaël\
 **Sois un homme ma fille** _(fr)_; 2021 ✓✓
 
 Sutton, Robert\
-**Kit de survie face aux sales cons** _(fr)_; 2018 ✓\
+**Kit de survie face aux sales cons** _(fr)_; 2018 ✓✓\
 **Objectif Zéro-Sale-Con** _(fr)_; 2010 ✓\
-**Petit chef ou vrai patron ?** _(fr)_; 2013 ✓
+**Petit chef ou vrai patron ?** _(fr)_; 2013
 
 
 ## Bookmarks
