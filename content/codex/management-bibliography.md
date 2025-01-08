@@ -26,14 +26,12 @@ Chatelain-Berry, Gaël\
 **Les 10 commandements de la bienveillance en entreprise** _(fr)_; 2019\
 **Mon boss est nul mais je le soigne** _(fr)_; 2019 ✓✓\
 **Mon collègue est nul, mais je le soigne** _(fr)_; 2024\
-**Sois un homme ma fille** _(fr)_; 2021 ✓✓\
+**Sois un homme ma fille** _(fr)_; 2021 ✓✓
 
 Sutton, Robert\
-**Kit de survie face aux sales cons ** _(fr)_; 2018 ✓\
+**Kit de survie face aux sales cons** _(fr)_; 2018 ✓\
 **Objectif Zéro-Sale-Con** _(fr)_; 2010 ✓\
-**Petit chef ou vrai patron ?** _(fr)_; 2013 ✓\
-
-## Online Articles and PDFs
+**Petit chef ou vrai patron ?** _(fr)_; 2013 ✓
 
 
 ## Bookmarks
