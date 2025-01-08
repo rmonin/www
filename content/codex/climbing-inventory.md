@@ -137,6 +137,7 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 - Nuts, at least 1 to 11 [eg. black Diamond](https://www.ekosport.fr/black-diamond-stopper-set-pro-1-13-p-9-37808)
 - Additionnal Nuts. At least 4 to 7 (eg. [DMM](https://www.ekosport.fr/dmm-wallnut-set-3-8-p-9-126252)) & [Omega Pacific Link Cam #2](https://www.spelemat.com/produits/f/b/omega-pacific+p/link-cam-2)
 - Petzl Caritool x 3
+- [Petzl Swift® RL](https://www.petzl.com/FR/fr/Sport/Lampes-frontales/SWIFT-RL)
 - [Edelrid Kiwi slider](https://www.ekosport.fr/edelrid-kiwi-slider-p-9-106272)
 
 ## References
