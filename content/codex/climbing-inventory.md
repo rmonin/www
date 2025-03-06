@@ -1,7 +1,7 @@
 ---
 title: "Inventory"
 date: 2024-09-19
-lastmod: 2025-01-06
+lastmod: 2025-02-04
 description: My personal inventory of climbing gear, detailing each item to help me select the right equipment for different climbing situations.
 tags:
   - gear
@@ -94,7 +94,6 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | **Coating**          | Dry                |
 | **Manufacture Year** | 2024-07            |
 
-
 ## Ice Gears
 | Type     | Brand   | Model             | Qty |
 | -------- | ------- | ----------------- | --: |
@@ -124,7 +123,7 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | Harness    | Edelrid     | Moe                | Green/Gray | 2012    |
 | Harness    | Blue Ice    | Choucas Pro L      | Blue/White | 2023-04 |
 | Shoes      | Millet      | T.43.5             | Orange     | 2012    |
-| Shoes      | La Sportiva | Katana T.42        | Yellow     | 2015    |
+| Shoes      | ~~La Sportiva~~ | ~~Katana T.42~~  | Yellow   | 2015    |
 
 ## Pending Purchases
 - [NewDoar Static rope Ø 6mm / 50m / BS 7kN](https://www.amazon.fr/NewDoar-descalade-Accessoire-darboriste-transport-6M/dp/B0CY1FDRWL)
@@ -136,9 +135,9 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 - [Aideer](https://www.ekosport.fr/petzl-etrier-gradistep-p-9-107713) & [Progression hook](https://www.petzl.com/FR/fr/Sport/Sacs-et-accessoires/GOUTTE-D-EAU)
 - Nuts, at least 1 to 11 [eg. black Diamond](https://www.ekosport.fr/black-diamond-stopper-set-pro-1-13-p-9-37808)
 - Additionnal Nuts. At least 4 to 7 (eg. [DMM](https://www.ekosport.fr/dmm-wallnut-set-3-8-p-9-126252)) & [Omega Pacific Link Cam #2](https://www.spelemat.com/produits/f/b/omega-pacific+p/link-cam-2)
-- Petzl Caritool x 3
+- Petzl Caritool x 2
 - [Petzl Swift® RL](https://www.petzl.com/FR/fr/Sport/Lampes-frontales/SWIFT-RL)
-- [Edelrid Kiwi slider](https://www.ekosport.fr/edelrid-kiwi-slider-p-9-106272)
+- ~~[Edelrid Kiwi slider](https://www.ekosport.fr/edelrid-kiwi-slider-p-9-106272)~~
 
 ## References
 - [Edelrid Catalog - 2012](http://thestonegroupwest.com/uploads/2/8/9/7/2897956/edelrid_catalog_2012.pdf)
