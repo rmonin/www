@@ -1,7 +1,7 @@
 ---
 title: "Inventory"
 date: 2024-09-19
-lastmod: 2025-02-04
+lastmod: 2025-03-16
 description: My personal inventory of climbing gear, detailing each item to help me select the right equipment for different climbing situations.
 tags:
   - gear
@@ -14,26 +14,28 @@ draft: false
 I’m taking inventory of my gear to have a quick overview of what I own, noting certain references that aren’t listed on the products and the years of manufacture for items considered ‘perishable’.
 
 ## Connectors
-| Shape | Type | Brand   | Model       | Color  | Strength[^1] | Qty |
-| ----- | ---- | ------- | ----------- | ------ | :----------: | --: |
-| Oval  | N/A  | Camp    | 8mm         | Silver | 40/10/-      | 2   |
-| Oval  | N/A  | Petlz   | Go 8mm      | Silver | 32/10/-      | 1   |
-| ~~D~~ | ~~B~~ | ~~Simond~~ | ~~3000~~ | ~~Black~~ | ~~30/10/10~~ | ~~2~~ |
-| Pear  | K    | Petzl   | Vertigo     |        | 25/10/8      | 2   |
-| Pear  | K    | Simond  | Jumbo       | Silver | 25/10/7      | 1   |
-| Pear  | HMS  | Simond  | Goliath     | Blue   | 25/10/7      | 2   |
-| Pear  | HMS  | Simond  | Goliath     | Silver | 25/10/7      | 2   |
-| D     | Q    | Black D | HotForge    | Blue   | 25/8/8       | 12  |
-| D     | Q    | Black D | Hotwire     | Blue   | 25/8/7       | 12  |
-| Oval  | B    | Petzl   | OK          | Gray   | 25/8/7       | 3   |
-| Oval  | B    | Black D | OKSC[^3]    | Silver | 23/9/7       | 2   |
-| Oval  | B    | Black D | OKSC[^3]    | Black  | 23/9/7       | 2   |
-| D     | B    | Petzl   | Sm'D SCREW  | Orange | 23/8/7       | 2   |
-| D     | B    | Petzl   | Sm'D Twist  | Orange | 23/8/7       | 1   |
-| D     | B    | Simond  | Rocky M     | Silver | 22/8/7       | 2   |
-| D     | Q    | Camp    | Photon Wire | Orange | 22/8/9       | 2   |
-| D     | Q    | Camp    | Nano 22     | Gray   | 21/8/9       | 2   |
-| D     | B    | Grivel  | K3N         | Orange | 20/7/7       | 2   |
+| Shape | Type | Brand   | Model         | Color  | Strength[^1] | Qty |
+| ----- | ---- | ------- | ------------- | ------ | :----------: | --: |
+| Oval  | N/A  | Camp    | 8mm           | Silver | 40/10/-      | 2   |
+| Oval  | N/A  | Petlz   | Go 8mm        | Silver | 32/10/-      | 1   |
+| ~~D~~ | ~~B~~ | ~~Simond~~ | ~~3000~~  | ~~Black~~ | ~~30/10/10~~ | ~~2~~ |
+| Pear  | K    | Petzl   | Vertigo       |        | 25/10/8      | 2   |
+| Pear  | K    | Simond  | Jumbo         | Silver | 25/10/7      | 1   |
+| Pear  | HMS  | Simond  | Goliath       | Blue   | 25/10/7      | 2   |
+| Pear  | HMS  | Simond  | Goliath       | Silver | 25/10/7      | 2   |
+| Oval  | B    | Edelrid | Kiwi Slider   | Gray   | 24/10/8      | 1   |
+| D     | B    | Black D | HotWire       | Black  | 24/8/8       | 1   |
+| D     | Q    | Black D | HotForge      | Blue   | 25/8/8       | 12  |
+| D     | Q    | Black D | Hotwire       | Blue   | 25/8/7       | 12  |
+| Oval  | B    | Petzl   | OK            | Gray   | 25/8/7       | 3   |
+| Oval  | B    | Black D | OKSC[^3]      | Silver | 23/9/7       | 2   |
+| Oval  | B    | Black D | OKSC[^3]      | Black  | 23/9/7       | 2   |
+| D     | B    | Petzl   | Sm'D SCREW    | Orange | 23/8/7       | 2   |
+| D     | B    | Petzl   | Sm'D Twist    | Orange | 23/8/7       | 1   |
+| D     | B    | Simond  | Rocky M       | Silver | 22/8/7       | 2   |
+| D     | Q    | Camp    | Photon Wire   | Orange | 22/8/9       | 2   |
+| D     | Q    | Camp    | Nano 22       | Gray   | 21/8/9       | 2   |
+| D     | B    | Grivel  | K3N           | Orange | 20/7/7       | 2   |
 
 ## Hardware
 | Type     | Brand   | Model             |
@@ -45,6 +47,11 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | Lanyard  | Kong    | Slyde             |
 | Pulley   | Petzl   | Micro Traxion     |
 | Pulley   | Petzl   | Partner           |
+
+## Protection
+| Type      | Brand   | Model         |
+| --------- | ------- | ------------- |
+| Hexentric | Black D | HEX SET #4-10 |
 
 ## Lanyards & Sling
 | Type        | Brand    | Name                  | Qty | Year    |
@@ -65,11 +72,11 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | Sewn Sling  | Simond   | Blue/Black 180cm      |   1 | 2024-08 |
 
 ## Cords
-| Brand  |    Ø | Length | Color       | Strength | Year |
-| ------ | ---: | -----: | ----------- | -------: | ---- |
-| Simond | 2 mm | 80 m   | Blue/Orange |    .8 kN | 2024 |
-| Simond | 6 mm | 2.5 m  | Oragne      |     9 kN | 2024 |
-| Simond | 7 mm | 4 m    | Green       |    12 kN | 2024 |
+| Brand  | Ø[^2] | Length | Color       | Strength | Year |
+| ------ | ----: | -----: | ----------- | -------: | ---- |
+| Simond |  2 mm | 80 m   | Blue/Orange |    .8 kN | 2024 |
+| Simond |  6 mm | 2.5 m  | Oragne      |     9 kN | 2024 |
+| Simond |  7 mm | 4 m    | Green       |    12 kN | 2024 |
 
 ## Rope 
 | EDELRID TOWER        |
@@ -126,18 +133,25 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | Shoes      | ~~La Sportiva~~ | ~~Katana T.42~~  | Yellow   | 2015    |
 
 ## Pending Purchases
+- OXAN TL x2 / OXAN TLN x2
+- [MACH EXPRESS DYNEEMA 60 CM 4 PACK](https://www.ekosport.fr/camp-mach-express-dyneema-60-cm-4-pack-p-9-171088)
+- [Progression hook](https://www.petzl.com/FR/fr/Sport/Sacs-et-accessoires/GOUTTE-D-EAU)
+- [Aideer](https://www.ekosport.fr/petzl-etrier-gradistep-p-9-107713) x2
+- [DMM WALLDO](https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/mousqueton-walldo.html) x2
 - [NewDoar Static rope Ø 6mm / 50m / BS 7kN](https://www.amazon.fr/NewDoar-descalade-Accessoire-darboriste-transport-6M/dp/B0CY1FDRWL)
 - [edelrid eco dry 50m](https://edelrid.com/fr-fr/sport/cordes/swift-eco-dry-8-9mm?variant=557080)
-- OXAN TL x2 / OXAN TLN x1
+- Ice Screw ~ 16cm x2
 - Backfeed management x ?? ([Slide Clinch](https://avantclimbing.com/products/quicklink-slide-cinch-lead-rope-solo-backfeed-preventer?variant=46991970861340) + [Soft Clinch](https://avantclimbing.com/products/soft-cinch-lead-rope-solo-backfeed-preventer-5-pack?variant=46932672545052))
-- Ice Screw ~ 16cm
 - [Revo Wild Country](https://www.ekosport.fr/wild-country-revo-belay-device-p-9-103934)
-- [Aideer](https://www.ekosport.fr/petzl-etrier-gradistep-p-9-107713) & [Progression hook](https://www.petzl.com/FR/fr/Sport/Sacs-et-accessoires/GOUTTE-D-EAU)
-- Nuts, at least 1 to 11 [eg. black Diamond](https://www.ekosport.fr/black-diamond-stopper-set-pro-1-13-p-9-37808)
-- Additionnal Nuts. At least 4 to 7 (eg. [DMM](https://www.ekosport.fr/dmm-wallnut-set-3-8-p-9-126252)) & [Omega Pacific Link Cam #2](https://www.spelemat.com/produits/f/b/omega-pacific+p/link-cam-2)
+
+- Nuts, at least 3 to 8 [eg. DMM](https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/wall-nuts-pack-complet-1-11.html)
+- ideal: 1-11 + 3-8
+- Additionnal Nuts. alloy offset (eg. [DMM](https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/coinceurs-alloy-offsets-set-7-11.html))
+- Micro Stopper 1-6 + 2-4
+- [halfnut 1-7](https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/coinceurs-halfnuts-set-1-7.html)
+- [Omega Pacific Link Cam #2](https://www.spelemat.com/produits/f/b/omega-pacific+p/link-cam-2)
 - Petzl Caritool x 2
 - [Petzl Swift® RL](https://www.petzl.com/FR/fr/Sport/Lampes-frontales/SWIFT-RL)
-- ~~[Edelrid Kiwi slider](https://www.ekosport.fr/edelrid-kiwi-slider-p-9-106272)~~
 
 ## References
 - [Edelrid Catalog - 2012](http://thestonegroupwest.com/uploads/2/8/9/7/2897956/edelrid_catalog_2012.pdf)
