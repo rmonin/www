@@ -21,7 +21,7 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | ~~D~~ | ~~B~~ | ~~Simond~~ | ~~3000~~  | ~~Black~~ | ~~30/10/10~~ | ~~2~~ |
 | Pear  | K    | Petzl   | Vertigo       |        | 25/10/8      | 2   |
 | Pear  | K    | Simond  | Jumbo         | Silver | 25/10/7      | 1   |
-| ~~Pear~~ | ~~HMS~~ | ~~Simond~~ | ~~Goliath | ~~Blue~~ | ~~25/10/7~~ | ~~1~~ |
+| ~~Pear~~ | ~~HMS~~ | ~~Simond~~ | ~~Goliath~~ | ~~Blue~~ | ~~25/10/7~~ | ~~1~~ |
 | Pear  | HMS  | Simond  | Goliath       | Blue   | 25/10/7      | 1   |
 | Pear  | HMS  | Simond  | Goliath       | Silver | 25/10/7      | 2   |
 | Oval  | B    | Edelrid | Kiwi Slider   | Gray   | 24/10/8      | 1   |
@@ -158,6 +158,11 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 - [Omega Pacific Link Cam #2](https://www.spelemat.com/produits/f/b/omega-pacific+p/link-cam-2)
 - Petzl Caritool x 2
 - [Petzl Swift® RL](https://www.petzl.com/FR/fr/Sport/Lampes-frontales/SWIFT-RL)
+- [Plaquettes 10mm](https://www.auvieuxcampeur.fr/plaquette-bolt-hanger.html) x2
+- [Plaquettes 12mm](https://www.auvieuxcampeur.fr/plaquette-bolt-hanger.html) x2
+- https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/mousqueton-spectre-fil-droit.html
+- [gear organiser](https://www.printables.com/model/860182-climbing-gear-organizer-topology-optimized)
+
 
 ## References
 - [Edelrid Catalog - 2012](http://thestonegroupwest.com/uploads/2/8/9/7/2897956/edelrid_catalog_2012.pdf)
