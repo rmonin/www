@@ -55,13 +55,16 @@ Laroche, Jean-Louis; Lelong, Florence\
 [**Alpinisme plaisir dans le massif du Mont-Blanc**](https://www.glenat.com/montagne-evasion/alpinisme-plaisir-dans-le-massif-du-mont-blanc-9782344015407) _(fr)_; 2016 ✓✓
 
 Lutz, Alain\
-[**100 sommets des Alpes du Nord**](https://www.glenat.com/montagne-randonnee/100-sommets-des-alpes-du-nord-9782344027691) _(fr)_; 2019
+[**100 sommets des Alpes du Nord**](https://www.glenat.com/montagne-randonnee/100-sommets-des-alpes-du-nord-9782344027691) _(fr)_; 2019 ✓✓
 
 Millon, Pierre\
 [**Les sentiers du vertige en Haute-Savoie**](https://www.glenat.com/montagne-randonnee/les-sentiers-du-vertige-en-haute-savoie-9782344031223) _(fr)_; 2019 ✓✓
 
 Ranc, Bernard\
 **Via ferrata françaises, 163 parcours - 5eme édition** _(fr)_; 2021 ✓✓
+
+Thillet, Jean-Jacques; Schueller Dominique\
+[**Petit manuel de météo montagne**](https://www.glenat.com/solo-guides-techniques/petit-manuel-de-meteo-montagne-9782723463195) _(fr)_; 2009 ✓✓
 
 Vionnet, Frederic\
 **Le mental du grimpeur** _(fr)_; 2022
