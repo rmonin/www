@@ -1,7 +1,7 @@
 ---
 title: "Inventory"
 date: 2024-09-19
-lastmod: 2025-03-16
+lastmod: 2025-05-14
 description: My personal inventory of climbing gear, detailing each item to help me select the right equipment for different climbing situations.
 tags:
   - gear
