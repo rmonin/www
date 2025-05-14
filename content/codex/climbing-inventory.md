@@ -18,6 +18,9 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | ----- | ---- | ------- | ------------- | ------ | :----------: | --: |
 | Oval  | N/A  | Camp    | 8mm           | Silver | 40/10/-      | 2   |
 | Oval  | N/A  | Petlz   | Go 8mm        | Silver | 32/10/-      | 1   |
+| Oval  | N/A  | Petlz   | Go 7mm        | Silver | 25/10/-      | 1   |
+| Oval  | B    | Petzl   | OXAN TL       | Silver | 38/16/15     | 2   |
+| Oval  | B    | Petzl   | OXAN TLN      | Black  | 38/16/15     | 2   |
 | ~~D~~ | ~~B~~ | ~~Simond~~ | ~~3000~~  | ~~Black~~ | ~~30/10/10~~ | ~~2~~ |
 | Pear  | K    | Petzl   | Vertigo       |        | 25/10/8      | 2   |
 | Pear  | K    | Simond  | Jumbo         | Silver | 25/10/7      | 1   |
@@ -25,6 +28,8 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | Pear  | HMS  | Simond  | Goliath       | Blue   | 25/10/7      | 1   |
 | Pear  | HMS  | Simond  | Goliath       | Silver | 25/10/7      | 2   |
 | Oval  | B    | Edelrid | Kiwi Slider   | Gray   | 24/10/8      | 1   |
+| D     | B    | DMM     | Spectre fil   | Gray   | 24/8/9       | 2   |
+| D     | B    | CT      | Auto Lime     | Silver | 24/8/8       | 1   |
 | D     | B    | Black D | HotWire       | Black  | 24/8/8       | 1   |
 | D     | Q    | Black D | HotForge      | Blue   | 25/8/8       | 12  |
 | D     | Q    | Black D | Hotwire       | Blue   | 25/8/7       | 12  |
@@ -56,6 +61,8 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | Hook      | Petzl   | Fifi          |
 | Hook      | Petzl   | Goutte d'eau  |
 | Hook      | Petzl   | Reglette      |
+| Nuts      | DMM     | Wallnut #1-11 |
+| Offsets   | DMM     | Alloy Offsets #7-11 |
 
 ## Lanyards & Sling
 | Type        | Brand    | Name                  | Qty | Year    |
@@ -81,6 +88,7 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | ------ | ----: | -----: | ----------- | -------: | ---- |
 | Simond |  2 mm | 80 m   | Blue/Orange |    .8 kN | 2024 |
 | Simond |  6 mm | 2.5 m  | Oragne      |     9 kN | 2024 |
+| Simond |  7 mm | 4 m    | Green       |    12 kN | 2024 |
 | Simond |  7 mm | 4 m    | Green       |    12 kN | 2024 |
 
 ## Rope 
@@ -121,8 +129,6 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | Ski Boots    | Salomon     | [Model]            | [Color]  | 2024 |
 | Skis         | Scott       | Double Spat        | [Length] | [Year]  |
 | Skis         | Wedze       |                    | 166-76   | [Year]  |
-| Poles (Ski)  | [Brand]     | [Model]            | [Color]  | [Year]  |
-| Poles (Hike) | [Brand]     | [Model]            | [Color]  | [Year]  |
 | Poles (All)  | Salomon     | [Model]            | [Color]  | [Year]  |
 | Avalanche Beacon (DVA) | Arva | EVO BT          | [Color]  | 2024  |
 | Shovel       | Black Diamond |                  |          |       |
@@ -138,29 +144,26 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | Shoes      | ~~La Sportiva~~ | ~~Katana T.42~~  | Yellow   | 2015    |
 
 ## Other
-| Type | Brand   | Model         |
-| ---- | ------- | ------------- |
-|      | DMM     | Nutbuster     |
-|      | Petzl   | Caritool EVO  |
+| Type   | Brand   | Model         |
+| ------ | ------- | ------------- |
+|        | DMM     | Nutbuster     |
+|        | Petzl   | Caritool EVO  |
+| Wrench | Dexter  | #17, #19      |
 
 ## Pending Purchases
 
-- OXAN TL x2 / OXAN TLN x2
 - [NewDoar Static rope Ø 6mm / 50m / BS 7kN](https://www.amazon.fr/NewDoar-descalade-Accessoire-darboriste-transport-6M/dp/B0CY1FDRWL)
 - [edelrid eco dry 50m](https://edelrid.com/fr-fr/sport/cordes/swift-eco-dry-8-9mm?variant=557080)
 - Ice Screw ~ 16cm x2
 - Backfeed management x ?? ([Slide Clinch](https://avantclimbing.com/products/quicklink-slide-cinch-lead-rope-solo-backfeed-preventer?variant=46991970861340) + [Soft Clinch](https://avantclimbing.com/products/soft-cinch-lead-rope-solo-backfeed-preventer-5-pack?variant=46932672545052))
 - [Revo Wild Country](https://www.ekosport.fr/wild-country-revo-belay-device-p-9-103934)
-- Nuts, at least 3 to 8 [eg. DMM](https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/wall-nuts-pack-complet-1-11.html)
-  + best: 1-11 + 3-8
-- Additionnal Nuts. alloy offset (eg. [DMM](https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/coinceurs-alloy-offsets-set-7-11.html))
-- Micro Stopper 1-6 + 2-4
+- Nuts, DMM 3 to 8 [eg. DMM](https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/wall-nuts-pack-complet-1-11.html)
+- Micro Stopper 1-6 + 2-4 ?
 - [Omega Pacific Link Cam #2](https://www.spelemat.com/produits/f/b/omega-pacific+p/link-cam-2)
-- Petzl Caritool x 2
+- Petzl Caritool Evo x 1
 - [Petzl Swift® RL](https://www.petzl.com/FR/fr/Sport/Lampes-frontales/SWIFT-RL)
 - [Plaquettes 10mm](https://www.auvieuxcampeur.fr/plaquette-bolt-hanger.html) x2
 - [Plaquettes 12mm](https://www.auvieuxcampeur.fr/plaquette-bolt-hanger.html) x2
-- https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/mousqueton-spectre-fil-droit.html
 - [gear organiser](https://www.printables.com/model/860182-climbing-gear-organizer-topology-optimized)
 
 
