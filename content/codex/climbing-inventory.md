@@ -115,11 +115,13 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | **Manufacture Year** | 2024-07            |
 
 ## Ice Gears
-| Type     | Brand   | Model             | Qty |
-| -------- | ------- | ----------------- | --: |
-| Crampons | Simond  | Monoceros         |   1 |
-| Ice Axe  | Simond  | Piranha (green)   |   2 |
-| Ice Axe  | Petzl   | Summit Evo (52cm) |   1 |
+| Type      | Brand    | Model             | Qty |
+| --------- | -------- | ----------------- | --: |
+| Crampons  | Simond   | Monoceros         |   1 |
+| Ice Axe   | Simond   | Piranha (green)   |   2 |
+| Ice Axe   | Petzl    | Summit Evo (52cm) |   1 |
+| Ice Screw | Blue Ice | Aero lite 13cm    |   2 |
+| Ice Screw | Blue Ice | Aero lite 16cm    |   2 |
 
 ## Ski Gear
 | Type         | Brand       | Model              | Color    | Year |
@@ -154,7 +156,6 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 
 - [NewDoar Static rope Ø 6mm / 50m / BS 7kN](https://www.amazon.fr/NewDoar-descalade-Accessoire-darboriste-transport-6M/dp/B0CY1FDRWL)
 - [edelrid eco dry 50m](https://edelrid.com/fr-fr/sport/cordes/swift-eco-dry-8-9mm?variant=557080)
-- Ice Screw ~ 16cm x2
 - Backfeed management x ?? ([Slide Clinch](https://avantclimbing.com/products/quicklink-slide-cinch-lead-rope-solo-backfeed-preventer?variant=46991970861340) + [Soft Clinch](https://avantclimbing.com/products/soft-cinch-lead-rope-solo-backfeed-preventer-5-pack?variant=46932672545052))
 - [Revo Wild Country](https://www.ekosport.fr/wild-country-revo-belay-device-p-9-103934)
 - Nuts, DMM 3 to 8 [eg. DMM](https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/wall-nuts-pack-complet-1-11.html)
@@ -162,10 +163,12 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 - [Omega Pacific Link Cam #2](https://www.spelemat.com/produits/f/b/omega-pacific+p/link-cam-2)
 - Petzl Caritool Evo x 1
 - [Petzl Swift® RL](https://www.petzl.com/FR/fr/Sport/Lampes-frontales/SWIFT-RL)
-- [Plaquettes 10mm](https://www.auvieuxcampeur.fr/plaquette-bolt-hanger.html) x2
-- [Plaquettes 12mm](https://www.auvieuxcampeur.fr/plaquette-bolt-hanger.html) x2
 - [gear organiser](https://www.printables.com/model/860182-climbing-gear-organizer-topology-optimized)
-
+- Blue ice alpine runner 90cm x2
+- Blue ice alpine runner 110cm x1
+- Grivel k3n x2
+- Petzl Rocha silver x2
+- Grivel k3l
 
 ## References
 - [Edelrid Catalog - 2012](http://thestonegroupwest.com/uploads/2/8/9/7/2897956/edelrid_catalog_2012.pdf)
