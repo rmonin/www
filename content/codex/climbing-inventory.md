@@ -158,11 +158,18 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 - [edelrid eco dry 50m](https://edelrid.com/fr-fr/sport/cordes/swift-eco-dry-8-9mm?variant=557080)
 - Backfeed management x ?? ([Slide Clinch](https://avantclimbing.com/products/quicklink-slide-cinch-lead-rope-solo-backfeed-preventer?variant=46991970861340) + [Soft Clinch](https://avantclimbing.com/products/soft-cinch-lead-rope-solo-backfeed-preventer-5-pack?variant=46932672545052))
 - [Revo Wild Country](https://www.ekosport.fr/wild-country-revo-belay-device-p-9-103934)
+- [Xenon Hms Screwgate Belay Carabiner](https://www.wildcountry.com/xenon-hms-screwgate-belay-carabiner-40-0000001002?sku=40-0000001002_0000000002)
+- [WC Friend # 1-3](https://www.wildcountry.com/friend-set-1_-2_-3-40-FRIENDSET2?sku=40-FRIENDSET2_0000000001)
+- [WC Friend # 4](https://www.wildcountry.com/friend-40-FRIEND?sku=40-FRIEND_0000000006) + [Hellium 3.0](https://www.wildcountry.com/helium-3_0-carabiner-2-40-0000000003?sku=40-0000000003_0000000002)
+- [WC Friend # 0.75](https://www.wildcountry.com/friend-40-FRIEND?sku=40-FRIEND_0000000002)
+- [WildWire Carabiner](https://www.wildcountry.com/wildwire-rack-6-pack-carabiner-40-0000000016?sku=40-0000000016_0000000001)
+- [WC Zero Friend #0.4-0.75](https://www.wildcountry.com/zero-friend-set-0_4---0_75-40-0000003002)
 - Nuts, DMM 3 to 8 [eg. DMM](https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/wall-nuts-pack-complet-1-11.html)
-- Micro Stopper 1-6 + 2-4 ?
+- Peenut
 - [Omega Pacific Link Cam #2](https://www.spelemat.com/produits/f/b/omega-pacific+p/link-cam-2)
 - Petzl Caritool Evo x 1
 - [Petzl Swift® RL](https://www.petzl.com/FR/fr/Sport/Lampes-frontales/SWIFT-RL)
+- https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/mousqueton-spectre-fil-droit.html
 - [gear organiser](https://www.printables.com/model/860182-climbing-gear-organizer-topology-optimized)
 - Blue ice alpine runner 90cm x2
 - Blue ice alpine runner 110cm x1
