@@ -1,7 +1,7 @@
 ---
 title: "Inventory"
 date: 2024-09-19
-lastmod: 2025-05-14
+lastmod: 2025-09-03
 description: My personal inventory of climbing gear, detailing each item to help me select the right equipment for different climbing situations.
 tags:
   - gear
@@ -19,6 +19,7 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | Oval  | N/A  | Camp    | 8mm           | Silver | 40/10/-      | 2   |
 | Oval  | N/A  | Petlz   | Go 8mm        | Silver | 32/10/-      | 1   |
 | Oval  | N/A  | Petlz   | Go 7mm        | Silver | 25/10/-      | 1   |
+| Oval  | N/A  | Simond  | 7mm           | Silver | 25/10/-      | 1   |
 | Oval  | B    | Petzl   | OXAN TL       | Silver | 38/16/15     | 2   |
 | Oval  | B    | Petzl   | OXAN TLN      | Black  | 38/16/15     | 2   |
 | ~~D~~ | ~~B~~ | ~~Simond~~ | ~~3000~~  | ~~Black~~ | ~~30/10/10~~ | ~~2~~ |
@@ -154,28 +155,25 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 
 ## Pending Purchases
 
-- [NewDoar Static rope Ø 6mm / 50m / BS 7kN](https://www.amazon.fr/NewDoar-descalade-Accessoire-darboriste-transport-6M/dp/B0CY1FDRWL)
 - [edelrid eco dry 50m](https://edelrid.com/fr-fr/sport/cordes/swift-eco-dry-8-9mm?variant=557080)
-- Backfeed management x ?? ([Slide Clinch](https://avantclimbing.com/products/quicklink-slide-cinch-lead-rope-solo-backfeed-preventer?variant=46991970861340) + [Soft Clinch](https://avantclimbing.com/products/soft-cinch-lead-rope-solo-backfeed-preventer-5-pack?variant=46932672545052))
+- Backfeed management ?? ([Slide Clinch](https://avantclimbing.com/products/quicklink-slide-cinch-lead-rope-solo-backfeed-preventer?variant=46991970861340) + [Soft Clinch](https://avantclimbing.com/products/soft-cinch-lead-rope-solo-backfeed-preventer-5-pack?variant=46932672545052))
 - [Revo Wild Country](https://www.ekosport.fr/wild-country-revo-belay-device-p-9-103934)
 - [Xenon Hms Screwgate Belay Carabiner](https://www.wildcountry.com/xenon-hms-screwgate-belay-carabiner-40-0000001002?sku=40-0000001002_0000000002)
-- [WC Friend # 1-3](https://www.wildcountry.com/friend-set-1_-2_-3-40-FRIENDSET2?sku=40-FRIENDSET2_0000000001)
-- [WC Friend # 4](https://www.wildcountry.com/friend-40-FRIEND?sku=40-FRIEND_0000000006) + [Hellium 3.0](https://www.wildcountry.com/helium-3_0-carabiner-2-40-0000000003?sku=40-0000000003_0000000002)
-- [WC Friend # 0.75](https://www.wildcountry.com/friend-40-FRIEND?sku=40-FRIEND_0000000002)
-- [WildWire Carabiner](https://www.wildcountry.com/wildwire-rack-6-pack-carabiner-40-0000000016?sku=40-0000000016_0000000001)
 - [WC Zero Friend #0.4-0.75](https://www.wildcountry.com/zero-friend-set-0_4---0_75-40-0000003002)
-- Nuts, DMM 3 to 8 [eg. DMM](https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/wall-nuts-pack-complet-1-11.html)
-- Peenut
+- [WC Friend # 1-3](https://www.wildcountry.com/friend-set-1_-2_-3-40-FRIENDSET2?sku=40-FRIENDSET2_0000000001)
+- [WC Friend # 4](https://www.wildcountry.com/friend-40-FRIEND?sku=40-FRIEND_0000000006)
+- [WildWire Carabiner](https://www.wildcountry.com/wildwire-rack-6-pack-carabiner-40-0000000016?sku=40-0000000016_0000000001) + [Hellium 3.0](https://www.wildcountry.com/helium-3_0-carabiner-2-40-0000000003?sku=40-0000000003_0000000002)
+- [DMM wallnuts 3 to 8](https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/wall-nuts-set.html)
+- Micro Wallnuts / Peenuts ?
+- DMM Sling [Torque nuts](https://eu.dmmwales.com/collections/rock-ice-protection/products/torque-nuts) + 2 caraniners
 - [Omega Pacific Link Cam #2](https://www.spelemat.com/produits/f/b/omega-pacific+p/link-cam-2)
 - Petzl Caritool Evo x 1
-- [Petzl Swift® RL](https://www.petzl.com/FR/fr/Sport/Lampes-frontales/SWIFT-RL)
-- https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/mousqueton-spectre-fil-droit.html
-- [gear organiser](https://www.printables.com/model/860182-climbing-gear-organizer-topology-optimized)
-- Blue ice alpine runner 90cm x2
+- [Petzl Swift® RL](https://www.petzl.com/FR/fr/Sport/Lampes-frontales/SWIFT-RL) or [NitCore HC65 UHE](https://flashlight.nitecore.com/product/hc65_uhe)
+- 2 x [DMM Spectre fil](https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/mousqueton-spectre-fil-droit.html)
+-  CT Auto Lime x2
+- [AMARRAGE RELAIS C FIXE 2 ACIER ZINGUE](https://www.auvieuxcampeur.fr/amarrage-relais-c-fixe-2-acier-zingue.html)
 - Blue ice alpine runner 110cm x1
-- Grivel k3n x2
-- Petzl Rocha silver x2
-- Grivel k3l
+- Petzl Rocha silver x1
 
 ## References
 - [Edelrid Catalog - 2012](http://thestonegroupwest.com/uploads/2/8/9/7/2897956/edelrid_catalog_2012.pdf)
@@ -184,3 +182,13 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 [^2]: **Diameter** (mm) / **Length** (m) / **Weigth** (g/m)
 [^3]: **OKSC** Oval Keylock Screwgate Carabiner
 [^4]: **BS** Breaking Strength (kN) / **IF** Impact Force (kN) / **UIAA** UIAA Falls
+
+
+<!--
+Organisation des cablés par mousquetons
+
+Offset:  7  8  9 10 11             5pcs | 195g
+Wallnut: 1  2  3  3  4 + nutbuster 6pcs | 187g
+Wallnut: 4  5  5  6  6  7  7  8    8pcs | 299g
+Walltut: 8  9 10 11                4    | 210g
+-->

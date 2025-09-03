@@ -45,6 +45,8 @@ Founded in the United States, Black Diamond is renowned for producing top-tier c
 
 ## Millet
 
+## Metolius
+
 ## New Doar
 
 ## Omega Pacific
