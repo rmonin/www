@@ -164,7 +164,7 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 - [WC Friend # 4](https://www.wildcountry.com/friend-40-FRIEND?sku=40-FRIEND_0000000006)
 - [WildWire Carabiner](https://www.wildcountry.com/wildwire-rack-6-pack-carabiner-40-0000000016?sku=40-0000000016_0000000001) + [Hellium 3.0](https://www.wildcountry.com/helium-3_0-carabiner-2-40-0000000003?sku=40-0000000003_0000000002)
 - [DMM wallnuts 3 to 8](https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/wall-nuts-set.html)
-- Micro Wallnuts / Peenuts ?
+- Micro Wallnuts / Peenuts /IMP / Brass offset ???
 - DMM Sling [Torque nuts](https://eu.dmmwales.com/collections/rock-ice-protection/products/torque-nuts) + 2 caraniners
 - [Omega Pacific Link Cam #2](https://www.spelemat.com/produits/f/b/omega-pacific+p/link-cam-2)
 - Petzl Caritool Evo x 1

@@ -238,3 +238,6 @@ utile si pas de boucle ou cordelette de meme diametre que la corde
 - [ABoK](https://l-36.com/abok.php) ([pdf](https://dn790008.ca.archive.org/0/items/TheAshleyBookOfKnots/the%20ashley%20book%20of%20knots.pdf))
 - https://www.lesnoeuds.com/ (care with theses info, may be wrong sometimes)
 - http://zpag.net/Noeuds/escalade.htm
+- https://www.youtube.com/shorts/Vtwpbh1hARA
+- https://www.youtube.com/shorts/D4QpPCW2vC4
+- https://www.youtube.com/shorts/Y_C0wDqm06o
