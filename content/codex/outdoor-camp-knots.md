@@ -12,12 +12,12 @@ draft: false
 
 ## Vocabulaire de base
 
-- *Brin courant (ou brin libre) :* l’extrémité de la corde avec laquelle on travaille pour réaliser le nœud.
-- *Brin dormant :* la partie de la corde qui reste fixe ou reliée à une charge.
-- *Ganse :* une courbure de la corde qui ne croise pas le brin courant.
-- *Boucle :* une ganse dont les deux brins se croisent.
-- *Demi-clé :* un tour simple du brin courant autour d’un point fixe ou d’un autre brin.
-- *Tour mort :* un tour complet de la corde autour d’un support.
+- **Brin courant (ou brin libre) :** l’extrémité de la corde avec laquelle on travaille pour réaliser le nœud.
+- **Brin dormant :** la partie de la corde qui reste fixe ou reliée à une charge.
+- **Ganse :** une courbure de la corde qui ne croise pas le brin courant.
+- **Boucle :** une ganse dont les deux brins se croisent.
+- **Demi-clé :** un tour simple du brin courant autour d’un point fixe ou d’un autre brin.
+- **Tour mort :** un tour complet de la corde autour d’un support.
 
 ![vocabulaire](/files/outdoor/knots/vocabulaire-noeuds.jpg)
 
@@ -33,7 +33,7 @@ Variante du nœud simple, réalisé avec une ganse. Il est donc coulissant et se
 - tendre une cordelette,
 - créer une boucle provisoire
 
-![Slip knot](/files/outdoor/knots/galere.jpg)
+![Slip knot](/files/outdoor/knots/galere.png)
 
 
 ### Nœud de huit double ( double figure-eight knot)
@@ -111,4 +111,4 @@ Nœud de base, solide et facile à défaire. Souvent remplaceable par un noeud g
 
 Comme un noeud simple mais la corde est doublée. Ou comme un huit double avec un tour de moins. Difficile à défaire, privilégier le huit double
 
-![PLein poing](/files/outdoor/knots/plein-poing.jpg)
+![PLein poing](/files/outdoor/knots/plein-poing.png)
