@@ -1,7 +1,7 @@
 ---
 title: "Inventory"
 date: 2024-09-19
-lastmod: 2025-09-03
+lastmod: 2025-09-13
 description: My personal inventory of climbing gear, detailing each item to help me select the right equipment for different climbing situations.
 tags:
   - gear
@@ -29,14 +29,15 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | Pear  | HMS  | Simond  | Goliath       | Blue   | 25/10/7      | 1   |
 | Pear  | HMS  | Simond  | Goliath       | Silver | 25/10/7      | 2   |
 | Oval  | B    | Edelrid | Kiwi Slider   | Gray   | 24/10/8      | 1   |
-| D     | B    | DMM     | Spectre fil   | Gray   | 24/8/9       | 2   |
-| D     | B    | CT      | Auto Lime     | Silver | 24/8/8       | 1   |
+| D     | B    | DMM     | Spectre fil   | Gray   | 24/8/9       | 4   |
+| D     | B    | CT      | Auto Lime     | Silver | 24/8/8       | 3   |
 | D     | B    | Black D | HotWire       | Black  | 24/8/8       | 1   |
 | D     | Q    | Black D | HotForge      | Blue   | 25/8/8       | 12  |
 | D     | Q    | Black D | Hotwire       | Blue   | 25/8/7       | 12  |
 | Oval  | B    | Petzl   | OK            | Gray   | 25/8/7       | 3   |
 | Oval  | B    | Black D | OKSC[^3]      | Silver | 23/9/7       | 2   |
 | Oval  | B    | Black D | OKSC[^3]      | Black  | 23/9/7       | 2   |
+| Oval  | B    | DMM     | WallDO        | Grey   | 23/9/7       | 2   |
 | D     | B    | Petzl   | Sm'D SCREW    | Orange | 23/8/7       | 2   |
 | D     | B    | Petzl   | Sm'D Twist    | Orange | 23/8/7       | 1   |
 | D     | B    | Simond  | Rocky M       | Silver | 22/8/7       | 2   |
@@ -56,13 +57,15 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 | Pulley   | Petzl   | Partner           |
 
 ## Protection
-| Type      | Brand   | Model         |
-| --------- | ------- | ------------- |
-| Hexentric | Black D | HEX SET #4-10 |
-| Hook      | Petzl   | Fifi          |
-| Hook      | Petzl   | Goutte d'eau  |
-| Hook      | Petzl   | Reglette      |
-| Nuts      | DMM     | Wallnut #1-11 |
+| Type      | Brand   | Model            |
+| --------- | ------- | ---------------- |
+| Hexentric | Black D | HEX SET #4-10    |
+| Hexentric | DMM     | Torque Nuts #1-4 |
+| Hook      | Petzl   | Fifi             |
+| Hook      | Petzl   | Goutte d'eau     |
+| Hook      | Petzl   | Reglette         |
+| Nuts      | DMM     | Wallnut #1-11    |
+| Nuts      | DMM     | Wallnut #3-8     |
 | Offsets   | DMM     | Alloy Offsets #7-11 |
 
 ## Lanyards & Sling
@@ -163,14 +166,10 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 - [WC Friend # 1-3](https://www.wildcountry.com/friend-set-1_-2_-3-40-FRIENDSET2?sku=40-FRIENDSET2_0000000001)
 - [WC Friend # 4](https://www.wildcountry.com/friend-40-FRIEND?sku=40-FRIEND_0000000006)
 - [WildWire Carabiner](https://www.wildcountry.com/wildwire-rack-6-pack-carabiner-40-0000000016?sku=40-0000000016_0000000001) + [Hellium 3.0](https://www.wildcountry.com/helium-3_0-carabiner-2-40-0000000003?sku=40-0000000003_0000000002)
-- [DMM wallnuts 3 to 8](https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/wall-nuts-set.html)
 - Micro Wallnuts / Peenuts /IMP / Brass offset ???
-- DMM Sling [Torque nuts](https://eu.dmmwales.com/collections/rock-ice-protection/products/torque-nuts) + 2 caraniners
 - [Omega Pacific Link Cam #2](https://www.spelemat.com/produits/f/b/omega-pacific+p/link-cam-2)
 - Petzl Caritool Evo x 1
 - [Petzl Swift® RL](https://www.petzl.com/FR/fr/Sport/Lampes-frontales/SWIFT-RL) or [NitCore HC65 UHE](https://flashlight.nitecore.com/product/hc65_uhe)
-- 2 x [DMM Spectre fil](https://www.auvieuxcampeur.fr/activites/grimpe-escalade-slackline/materiel-escalade/mousqueton-spectre-fil-droit.html)
--  CT Auto Lime x2
 - [AMARRAGE RELAIS C FIXE 2 ACIER ZINGUE](https://www.auvieuxcampeur.fr/amarrage-relais-c-fixe-2-acier-zingue.html)
 - Blue ice alpine runner 110cm x1
 - Petzl Rocha silver x1

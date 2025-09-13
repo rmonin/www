@@ -77,7 +77,9 @@ TODO
 
 - Noeud de sibérie : https://www.youtube.com/watch?v=8l6Ne-3_WYc
 - Monter une faitière v1
-- Monter une faitière v2
+- Monter une faitière v2 : https://www.youtube.com/shorts/ihM17CwPubs
+- Monter une faitère v3 : https://www.youtube.com/shorts/_uqbyvVwCHQ
+- tips noeud tendeur https://www.youtube.com/shorts/ihM17CwPubs
 - tendre un auban
 - prussik sur faitière
 - accrocher un sac
