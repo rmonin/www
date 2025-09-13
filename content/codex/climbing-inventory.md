@@ -169,6 +169,7 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 - Micro Wallnuts / Peenuts /IMP / Brass offset ???
 - [Omega Pacific Link Cam #2](https://www.spelemat.com/produits/f/b/omega-pacific+p/link-cam-2)
 - Petzl Caritool Evo x 1
+- CT Lime x1
 - [Petzl Swift® RL](https://www.petzl.com/FR/fr/Sport/Lampes-frontales/SWIFT-RL) or [NitCore HC65 UHE](https://flashlight.nitecore.com/product/hc65_uhe)
 - [AMARRAGE RELAIS C FIXE 2 ACIER ZINGUE](https://www.auvieuxcampeur.fr/amarrage-relais-c-fixe-2-acier-zingue.html)
 - Blue ice alpine runner 110cm x1
