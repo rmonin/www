@@ -171,7 +171,6 @@ I’m taking inventory of my gear to have a quick overview of what I own, noting
 - Petzl Caritool Evo x 1
 - CT Lime x1
 - [Petzl Swift® RL](https://www.petzl.com/FR/fr/Sport/Lampes-frontales/SWIFT-RL) or [NitCore HC65 UHE](https://flashlight.nitecore.com/product/hc65_uhe)
-- [AMARRAGE RELAIS C FIXE 2 ACIER ZINGUE](https://www.auvieuxcampeur.fr/amarrage-relais-c-fixe-2-acier-zingue.html)
 - Blue ice alpine runner 110cm x1
 - Petzl Rocha silver x1
 
